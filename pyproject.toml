@@ -1,0 +1,29 @@
+[project]
+name = "restaurant-mealplan"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Pavel Elkin", email = "p.yelkin@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.5.0",
+    "dotenv>=0.9.9",
+    "openai>=3.37.0",
+    "pydantic>=2.14.1",
+    "pytest>=9.1.1",
+    "ruamel-yaml>=0.19.1",
+]
+
+[project.scripts]
+restaurant-mealplan = "restaurant_mealplan:main"
+restaurantctl = "restaurant_mealplan.cli:cli"
+
+[build-system]
+requires = ["uv_build>=0.12.21,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = "src"
+module-name = "restaurant_mealplan"
