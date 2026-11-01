@@ -1,0 +1,5846 @@
+﻿slug,name,price,spice_level,is_primary,section
+008-look-feel-grill-restaurant,宫保鸡丁,,,1,
+008-look-feel-grill-restaurant,香酥鸭,,,0,
+008-look-feel-grill-restaurant,甜酸鸭,,,0,
+008-look-feel-grill-restaurant,农家牛肉,,,0,
+008-look-feel-grill-restaurant,回锅肉,,,1,
+008-look-feel-grill-restaurant,素什锦,,,0,
+008-look-feel-grill-restaurant,甜酸鱼块,,,0,
+008-look-feel-grill-restaurant,双冬大虾,,,0,
+008-look-feel-grill-restaurant,杂菜炸鸡,,,0,
+008-look-feel-grill-restaurant,甜酸炸鸡,,,0,
+008-look-feel-grill-restaurant,猪肉白菜饺子,,,1,
+008-look-feel-grill-restaurant,牛肉饺子,,,0,
+008-look-feel-grill-restaurant,红油抄手,,,1,
+008-look-feel-grill-restaurant,香菇菜心,,,0,
+008-look-feel-grill-restaurant,酸辣土豆丝,,,0,
+008-look-feel-grill-restaurant,烤土豆,,,0,
+008-look-feel-grill-restaurant,鱼香茄子,,,1,
+008-look-feel-grill-restaurant,蒜蓉炒白菜,,,0,
+008-look-feel-grill-restaurant,地三鲜,,,0,
+008-look-feel-grill-restaurant,麻婆豆腐,,,1,
+008-look-feel-grill-restaurant,金针菇肥牛,,,0,
+008-look-feel-grill-restaurant,清蒸鲈鱼,,,0,
+008-look-feel-grill-restaurant,烤扇贝,,,0,
+008-look-feel-grill-restaurant,香辣蟹,,,0,
+008-look-feel-grill-restaurant,香辣大虾,,,0,
+008-look-feel-grill-restaurant,椒盐大虾,,,0,
+008-look-feel-grill-restaurant,爆炒鱿鱼,,,0,
+008-look-feel-grill-restaurant,干锅肥肠,,,0,
+008-look-feel-grill-restaurant,干锅鸡,,,0,
+008-look-feel-grill-restaurant,干锅牛肉,,,0,
+008-look-feel-grill-restaurant,麻辣香香锅,,,1,
+008-look-feel-grill-restaurant,酸菜鱼,,,0,
+008-look-feel-grill-restaurant,水煮牛肉,,,1,
+008-look-feel-grill-restaurant,烤羊排,,,1,
+008-look-feel-grill-restaurant,毛血旺,,,1,
+008-look-feel-grill-restaurant,锅包肉,,,0,
+008-look-feel-grill-restaurant,008羊肉串,,,1,
+008-look-feel-grill-restaurant,008牛肉串,,,1,
+008-look-feel-grill-restaurant,鸡胗串,,,0,
+008-look-feel-grill-restaurant,蒜蓉鸡翅串,,,0,
+008-look-feel-grill-restaurant,羊腰串,,,0,
+008-look-feel-grill-restaurant,鱼豆腐,,,0,
+008-look-feel-grill-restaurant,虾仁,,,0,
+008-look-feel-grill-restaurant,三文鱼,,,0,
+7-dumpling,素饺子,,,1,
+7-dumpling,蘑菇蔬菜饺子,,,1,
+7-dumpling,菠菜饺子,,,1,
+7-dumpling,羊肉胡萝卜饺子,,,1,
+7-dumpling,猪肉白菜饺子,,,1,
+7-dumpling,猪肉虾仁鸡蛋饺子,,,1,
+7-dumpling,牛肉洋葱饺子,,,1,
+7-dumpling,虾仁冬笋饺子,,,1,
+7-dumpling,混合饺子,,,0,
+7-dumpling,鸡肉烧卖,,,1,
+7-dumpling,猪肉小笼包,,,1,
+7-dumpling,鸡肉香菇包子,"4,50 €",,1,
+7-dumpling,素包子,"4,50 €",,1,
+7-dumpling,素馄饨,"9,90 €",,0,
+7-dumpling,猪肉馄饨,"11,90 €",,0,
+7-dumpling,猪肉虾仁馄饨,"11,90 €",,0,
+7-dumpling,鱼肉鸡肉馄饨,"9,90 €",,0,
+7-dumpling,蔬菜拌面,,,0,Lao Nudeln 捞面
+7-dumpling,麻辣豆腐面,,,0,Lao Nudeln 捞面
+7-dumpling,担担面,,,0,Lao Nudeln 捞面
+7-dumpling,麻辣牛肉香菇面,,,0,Lao Nudeln 捞面
+86,卤味拼盘,"14,90 €",,0,前菜
+86,老妈小酥肉,"8,90 €",,0,前菜
+86,油炸花生米,"5,90 €",,0,前菜
+86,虎皮青椒,"7,90 €",,0,前菜
+86,拍黄瓜,"5,90 €",,0,前菜
+86,香菜干丝,"7,90 €",,0,前菜
+86,夫妻肺片,"9,90 €",,1,前菜
+86,蒜泥白肉,"9,90 €",,0,前菜
+86,香辣肚丝,"10,90 €",,0,前菜
+86,口水鸡,"8,90 €",,1,前菜
+86,皮蛋豆腐,"11,90 €",,0,前菜
+86,泡椒凤爪,"10,90 €",,0,前菜
+86,粉蒸肉,"9,90 €",,0,蒸菜
+86,粉蒸排骨,"9,90 €",,0,蒸菜
+86,粉蒸肥肠,"10,90 €",,0,蒸菜
+86,粉蒸羊肉,"10,90 €",,0,蒸菜
+86,鸡蛋羹,"7,90 €",,0,蒸菜
+86,糯米饭,"7,90 €",,0,蒸菜
+86,清蒸鲈鱼,"23,90 €",,0,蒸菜
+86,红油抄手（4个）,"7,90 €",,1,点心
+86,水晶虾饺（4个）,"7,90 €",,1,点心
+86,小笼包（4个）,"7,90 €",,1,点心
+86,包子（4个）,"7,90 €",,1,点心
+86,蒸饺子（4个）,"7,90 €",,1,点心
+86,蒸素饺（4个）,"7,90 €",,0,点心
+86,番茄蛋花汤（大份）,"10,90 €",,0,汤类
+86,紫菜蛋花汤（大份）,"10,90 €",,0,汤类
+86,酸辣汤,"4,20 €",,0,汤类
+86,馄饨汤,"4,50 €",,0,汤类
+86,炸鸡排盖炒饭,"11,90 €",,0,午餐
+86,炸鸡排盖炒面,"11,90 €",,0,午餐
+86,辣炒鸡肉,"12,90 €",,0,午餐
+86,洋葱牛,"12,90 €",,0,午餐
+86,清炒豆芽,"9,90 €",,0,午餐
+86,大虾炒面,"16,90 €",,0,主食
+86,扬州炒饭,"13,90 €",,0,主食
+86,葱爆羊肉,"17,90 €",,0,主菜
+86,宫爆鸡丁,"15,90 €",,1,主菜
+86,山城回锅肉,"15,90 €",,0,主菜
+86,梅菜扣肉,"17,90 €",,0,主菜
+86,火爆腰花,"17,90 €",,0,主菜
+86,麻婆豆腐,"13,90 €",,0,主菜
+86,辣子鸡,"18,90 €",,0,主菜
+86,酸菜肥肠,"17,90 €",,0,主菜
+86,孜然羊肉,"18,90 €",,0,主菜
+86,黑椒雪花牛,"28,90 €",,0,主菜
+86,农家小炒肉,"15,90 €",,0,主菜
+86,鱼香肉丝,"15,90 €",,0,主菜
+86,湘味双椒牛肉,"18,90 €",,0,主菜
+86,蒜苗肉丝,"18,90 €",,0,主菜
+86,糖醋排骨 (带骨),"15,90 €",,0,主菜
+86,麻婆鸭血,"16,90 €",,0,主菜
+86,甜酸炸鸡,"14,90 €",,0,主菜
+86,蔬菜炸鸡,"14,90 €",,0,主菜
+86,甜酸炸鸭,"18,90 €",,0,主菜
+86,蔬菜炸鸭,"18,90 €",,0,主菜
+86,水煮鱼 (鲈鱼),"23,90 €",,1,水煮
+86,酸菜鱼 (鲈鱼),"23,90 €",,0,水煮
+86,毛血旺,"28,90 €",,1,水煮
+86,水煮牛肉,"18,90 €",,1,水煮
+86,跳水腰花,"19,80 €",,0,水煮
+86,芋儿鸡,"23,90 €",,0,水煮
+86,水煮肉片,"18,90 €",,1,水煮
+86,干锅土豆片,"15,90 €",,0,干锅
+86,干锅有机花菜,"15,90 €",,0,干锅
+86,干锅肥肠,"16,90 €",,0,干锅
+86,干锅香辣虾 (带壳),"24,90 €",,0,干锅
+86,干锅鱿鱼须,"16,90 €",,0,干锅
+86,干锅排骨 (带骨),"16,90 €",,0,干锅
+86,酸辣土豆丝,"11,90 €",,0,蔬菜
+86,鱼香茄子煲,"12,90 €",,0,蔬菜
+86,风味茄子,"12,90 €",,0,蔬菜
+86,拔丝地瓜,"13,90 €",,0,蔬菜
+86,干煸四季豆,"12,90 €",,0,蔬菜
+86,手撕包菜,"11,90 €",,0,蔬菜
+86,麻婆豆腐 (无肉),"11,90 €",,0,蔬菜
+86,蒜蓉空心菜,"13,90 €",,0,蔬菜
+86,蒜蓉上海青,"11,90 €",,0,蔬菜
+86,蒜苗豆干,"12,90 €",,0,蔬菜
+86,葱烧杏鲍菇,"17,90 €",,0,蔬菜
+86,番茄炒蛋,"10,90 €",,0,蔬菜
+86,葱烧木耳,"12,90 €",,0,蔬菜
+86,盆盆虾,"28,90 €",,0,新菜
+86,密制兔,"28,90 €",,0,新菜
+86,酸汤肥牛,"23,90 €",,0,新菜
+86,咸蛋豆花虾,"14,90 €",,0,新菜
+86,黄瓜条,"10,90 €",,0,新菜
+86,芥末虾,"17,90 €",,0,新菜
+86,红糖糍粑,"6,90 €",,0,甜点
+86,醪糟冰汤圆,"6,90 €",,0,甜点
+all-seasons,午市自助,,,1,
+all-seasons,晚市自助,,,1,
+all-seasons,周末节假日自助,,,1,
+all-seasons,脆皮鸡胸配蔬菜,,,1,
+all-seasons,四川鸡,,辣味,1,
+all-seasons,香辣脆皮鸡,,辣味,0,
+all-seasons,菠萝荔枝糖醋脆皮鸡,,,1,
+all-seasons,冬笋辣椒特辣鸡,,,0,
+all-seasons,上海鸭,,,1,
+all-seasons,蘑菇鸭,,,0,
+all-seasons,豆芽辣酱鸭,,,0,
+all-seasons,菠萝荔枝糖醋鸭,,,1,
+all-seasons,冬笋辣椒特辣鸭,,,0,
+all-seasons,沙茶猪肉,,辣味,0,
+all-seasons,羊肚菌竹笋辣味猪肉,,辣味,0,
+all-seasons,洋葱辣猪肉,,辣味,0,
+all-seasons,四川牛肉,,辣味,1,
+all-seasons,香辣脆皮牛肉,,辣味,0,
+all-seasons,豆豉牛肉,,辣味,0,
+all-seasons,西兰花牛肉,,辣味,0,
+all-seasons,冬笋辣椒特辣牛肉,,,0,
+all-seasons,豆豉炸鱼柳,,辣味,1,
+all-seasons,糖醋脆皮鱼柳,,,0,
+all-seasons,四川虾,,辣味,1,
+all-seasons,冬笋辣椒特辣虾,,,0,
+apailon-noodles-dumplings-more,红烧牛肉面,€12.90,,1,
+apailon-noodles-dumplings-more,葱油拌面,€9.90,,1,
+apailon-noodles-dumplings-more,炸酱拌面,€11.90,,1,
+apailon-noodles-dumplings-more,虾仁汤面,€12.90,,1,
+apailon-noodles-dumplings-more,炸鸡肉面条,€12.90,,0,
+apailon-noodles-dumplings-more,鸭肉配面条,€12.90,,1,
+apailon-noodles-dumplings-more,炝炒猪肉汤面,€12.90,,1,
+apailon-noodles-dumplings-more,卤牛肉汤面,€12.90,,1,
+apailon-noodles-dumplings-more,酸辣肉末汤面,€11.90,,0,
+apailon-noodles-dumplings-more,Kalter Nudelsalat mit Sesam- & Erdnussbutter,€9.90,,1,
+aroma,虾饺,,,1,
+aroma,烧卖,,,1,
+aroma,咸水角,,,1,
+aroma,荷叶糯米鸡,,,1,
+aroma,萝卜糕,,,1,
+aroma,叉烧包,,,1,
+aroma,笙竹牛肉,,,0,
+aroma,斋肠,,,0,
+aroma,叉烧肠,,,1,
+aroma,鲜虾肠,,,0,
+aroma,牛肉肠粉,,,1,
+aroma,虾米肠粉,,,1,
+aroma,鲜竹卷,,,0,
+aroma,豉椒凤爪,,,1,
+aroma,豉汁蒸排骨,,,0,
+aroma,豉汁蒸牛肚,,,0,
+aroma,小笼包,,,0,
+aroma,烤鸭卷,,,0,
+aroma,素春卷,,,0,
+aroma,大春卷,,,0,
+aroma,煎堆仔,,,0,
+aroma,莲蓉包,,,0,
+aroma,芝麻汤圆,,,0,
+aroma,香芋卷,,,0,
+aroma,南瓜金饼,,,0,
+aroma,卷心菜猪肉蒸饺,,,0,
+aroma,菠菜豆腐干素蒸饺,,,0,
+aroma,白萝卜花生素蒸饺,,,0,
+aroma,青田大饼,,,0,
+aroma,粉翠粉果,,,0,
+aroma,潮州粉果,,,0,
+aroma,豉汁蒸牛肋排,,,0,
+aroma,猪肉白菜煎饺,,,0,
+aroma,皮蛋海蜇,,,0,
+aroma,熏蹄海蜇,,,0,
+aroma,卤水鱿鱼,,,0,
+aroma,卤水鱿鱼海蜇,,,0,
+aroma,白云凤爪,,,0,
+aroma,麻辣牛杂,,,0,
+aroma,五香牛腱,,,0,
+aroma,干炒牛河,,,0,
+aroma,海鲜炒河,,,0,
+aroma,豉椒牛河,,,0,
+aroma,水饺蚝油捞面,,,0,
+aroma,北京烤鸭,,,0,
+aroma,烧鸭,,,1,
+aroma,烧肉,,,0,
+aroma,叉烧,,,1,
+aroma,豉油鸡,,,0,
+aroma,烧鸡,,,0,
+aroma,八宝炸鸭,,,0,
+aroma,椒盐鸭舌,,,0,
+aroma,芽菜炸鸭,,,0,
+aroma,蔬菜炸鸭,,,0,
+aroma,甜酸炸鸭,,,0,
+aroma,宫保鸡丁,,,0,
+aroma,爆炒鸡肉,,,0,
+aroma,蔬菜炸鸡,,,0,
+aroma,甜酸炸鸡,,,0,
+aroma,鱼香鸡丁,,,0,
+aroma,腰果炒鸡丁,,,0,
+aroma,豉椒鸡片,,,0,
+aroma,鱼香肉丝,,,0,
+aroma,爆炒猪肉,,,0,
+aroma,德国回锅肉,,,0,
+aroma,菠萝咕噜肉,,,0,
+aroma,京酱肉丝,,,0,
+aroma,甜酸生炒骨,,,0,
+aroma,京都炸肉排,,,0,
+aroma,椒盐肉排,,,0,
+aroma,豉汁釀三宝,,,0,
+aroma,京都炸大肠,,,0,
+aroma,味菜炒大肠,,,0,
+aroma,豉椒炒大肠,,,0,
+aroma,咸鱼蒸肉饼,,,0,
+aroma,西兰花牛肉,,,0,
+aroma,黑椒牛柳,,,0,
+aroma,水煮牛肉,,,0,
+aroma,爆炒牛肉,,,0,
+aroma,日本牛肉,,,0,
+aroma,洋葱牛肉,,,0,
+aroma,荷兰豆牛肉,,,0,
+aroma,味菜牛肉,,,0,
+aroma,豉椒牛肉,,,0,
+aroma,宫保大虾,,,0,
+aroma,什锦虾球,,,0,
+aroma,爆炒虾球,,,0,
+aroma,豉汁蒸鲈鱼,,,0,
+aroma,椒盐双鱿,,,0,
+aroma,豉椒炒鲜鱿,,,0,
+aroma,XO酱炒花枝,,,0,
+aroma,椒芹炒花枝片,,,0,
+aroma,蒜蓉蒸大虾,,,0,
+aroma,椒盐焗大虾,,,0,
+aroma,腰果炒虾球,,,0,
+aroma,荷芹炒带子,,,0,
+aroma,姜葱蒸带子,,,0,
+aroma,豉汁蒸带子,,,0,
+aroma,蒜蓉粉丝蒸带子,,,0,
+aroma,椒盐小黄鱼,,,0,
+aroma,素鱼香茄子煲,,,0,
+aroma,肥肠煲,,,0,
+aroma,海鲜豆腐煲,,,0,
+aroma,柱侯牛腩煲,,,0,
+aroma,煎釀豆腐煲,,,0,
+aroma,梅菜扣肉煲,,,0,
+aroma,鸡爪大肠煲(辣),,,0,
+aroma,宫保豆腐,,,0,
+aroma,杂菜豆腐,,,0,
+aroma,麻婆豆腐,,,0,
+aroma,红烧豆腐,,,0,
+aroma,椒盐豆腐,,,0,
+aroma,百花煎釀豆腐,,,0,
+aroma,荔枝,,,0,
+aroma,通菜,,,0,
+aroma-fhain,虾饺,,,1,
+aroma-fhain,烧卖,,,1,
+aroma-fhain,咸水角,,,1,
+aroma-fhain,荷叶糯米鸡,,,1,
+aroma-fhain,萝卜糕,,,1,
+aroma-fhain,叉烧包,,,1,
+aroma-fhain,笙竹牛肉,,,0,
+aroma-fhain,斋肠,,,0,
+aroma-fhain,叉烧肠,,,1,
+aroma-fhain,鲜虾肠,,,0,
+aroma-fhain,牛肉肠粉,,,1,
+aroma-fhain,虾米肠粉,,,1,
+aroma-fhain,鲜竹卷,,,0,
+aroma-fhain,豉椒凤爪,,,1,
+aroma-fhain,豉汁蒸排骨,,,0,
+aroma-fhain,豉汁蒸牛肚,,,0,
+aroma-fhain,小笼包,,,0,
+aroma-fhain,烤鸭卷,,,0,
+aroma-fhain,素春卷,,,0,
+aroma-fhain,大春卷,,,0,
+aroma-fhain,煎堆仔,,,0,
+aroma-fhain,莲蓉包,,,0,
+aroma-fhain,芝麻汤圆,,,0,
+aroma-fhain,香芋卷,,,0,
+aroma-fhain,南瓜金饼,,,0,
+aroma-fhain,卷心菜猪肉蒸饺,,,0,
+aroma-fhain,菠菜豆腐干素蒸饺,,,0,
+aroma-fhain,白萝卜花生素蒸饺,,,0,
+aroma-fhain,青田大饼,,,0,
+aroma-fhain,粉翠粉果,,,0,
+aroma-fhain,潮州粉果,,,0,
+aroma-fhain,豉汁蒸牛肋排,,,0,
+aroma-fhain,姜葱蒸带子,,,0,
+aroma-fhain,豉汁蒸带子,,,0,
+aroma-fhain,蒜蓉粉丝蒸带子,,,0,
+aroma-fhain,猪肉白菜煎饺,,,0,
+aroma-fhain,皮蛋海蜇,,,0,
+aroma-fhain,熏蹄海蜇,,,0,
+aroma-fhain,卤水鱿鱼,,,0,
+aroma-fhain,卤水鱿鱼海蜇,,,0,
+aroma-fhain,白云凤爪,,,0,
+aroma-fhain,麻辣牛杂,,,0,
+aroma-fhain,五香牛腱,,,0,
+aroma-fhain,干炒牛河,,,0,
+aroma-fhain,北京烤鸭,,,0,
+aroma-fhain,烧鸭,,,1,
+aroma-fhain,烧肉,,,0,
+aroma-fhain,叉烧,,,1,
+aroma-fhain,豉油鸡,,,0,
+aroma-fhain,烧鸡,,,0,
+aroma-fhain,蔬菜炸鸭,,,0,
+aroma-fhain,甜酸炸鸭,,,0,
+aroma-fhain,宫保鸡丁,,,0,
+aroma-fhain,蔬菜炸鸡,,,0,
+aroma-fhain,甜酸炸鸡,,,0,
+aroma-fhain,京都炸肉排,,,0,
+aroma-fhain,椒盐肉排,,,0,
+aroma-fhain,西兰花牛肉,,,0,
+aroma-fhain,黑椒牛柳,,,0,
+aroma-fhain,水煮牛肉,,,0,
+aroma-fhain,洋葱牛肉,,,0,
+aroma-fhain,柱侯牛腩煲,,,0,
+aroma-fhain,宫保大虾,,,0,
+aroma-fhain,什锦虾球,,,0,
+aroma-fhain,豉汁蒸鲈鱼,,,0,
+aroma-fhain,椒盐双鱿,,,0,
+aroma-fhain,海鲜豆腐煲,,,0,
+aroma-fhain,素鱼香茄子煲,,,0,
+aroma-fhain,椒盐豆腐,,,0,
+aroma-fhain,通菜,,,0,
+aroma-fhain,麻婆豆腐,,,0,
+asia-deli,夫妻肺片,,,0,
+asia-deli,口水鸡,,,0,
+asia-deli,蒜泥白肉,,,0,
+asia-deli,香菜猪耳,,,0,
+asia-deli,卤味凤爪,,,0,
+asia-deli,蒜辣牛肚,,,0,
+asia-deli,毛血旺,,,1,
+asia-deli,虾仁茄子煲,,,0,
+asia-deli,海鲜豆腐煲,,,0,
+asia-deli,肥肠煲,,,0,
+asia-deli,红烧牛肉煲,,,0,
+asia-deli,羊排煲,,,0,
+asia-deli,鱼香啤酒鸭,,,1,
+asia-deli,毛氏红烧肉,,,0,
+asia-deli,泡菜回锅肉,,,1,
+asia-deli,农家小炒肉,,,0,
+asia-deli,油豆腐炒肉,,,0,
+asia-deli,香辣腰花,,,0,
+asia-deli,香辣蹄花,,,0,
+asia-deli,麻辣烫,,,1,
+asia-deli,扁豆腊肉,,,0,
+asia-deli,干豆角腊肉,,,0,
+asia-deli,辣椒盐豆腐,,,0,
+asia-deli,酸豆角肉末,,,0,
+asia-deli,孜然排骨,,,0,
+asia-deli,椒盐排骨,,,0,
+asia-deli,剁椒排骨,,,0,
+asia-deli,孜然牛肉,,,0,
+asia-deli,水煮牛肉,,,1,
+asia-deli,孜然羊肉,,,0,
+asia-deli,麻婆豆腐,,,1,
+asia-deli,青椒豆腐,,,0,
+asia-deli,辣子鸡,,,1,
+asia-deli,东安鸡,,,0,
+asia-deli,酸辣鱿鱼,,,0,
+asia-deli,酸辣鸡胗,,,0,
+asia-deli,水煮鱼,,,1,
+asia-deli,酸菜鱼,,,0,
+asia-deli,毛氏火焙鱼,,,0,
+asia-deli,剁椒蒸鱼,,,0,
+asia-deli,豆豉蒸鱼,,,0,
+asia-deli,小龙虾,,,0,
+asia-deli,香辣蟹,,,0,
+asia-deli,鱼香肉丝,,,1,
+asia-deli,鱼香茄子,,,1,
+asia-deli,梅菜扣肉,,,0,
+asia-deli,红烧狮子头,,,0,
+asia-deli,鱼香双炸肉,,,0,
+asia-deli,茄汁双炸鸡,,,0,
+asia-deli,糖醋排骨,,,0,
+asia-deli,锅包肉,,,0,
+asia-deli,腰果鸡丁,,,0,
+asia-deli,宫保鸡丁,,,0,
+asia-deli,家常豆腐,,,0,
+asia-deli,山药炒木耳,,,0,
+asia-deli,宫保豆腐,,,0,
+asia-deli,地三鲜,,,0,
+asia-deli,香菇猪肉鱿鱼,,,0,
+asia-deli,香煎鱼柳,,,0,
+asia-deli,红烧鱼,,,0,
+asia-deli,油爆虾,,,0,
+asia-deli,椒盐大虾,,,0,
+asia-deli,清炒虾仁,,,0,
+asia-deli,茄汁虾仁,,,0,
+asia-deli,包子,,,0,
+asia-deli,饺子,,,0,
+asia-deli,煎饺,,,0,
+asia-deli,虾饺,,,0,
+asia-deli,凉面,,,0,
+asia-deli,素饺,,,0,
+asia-deli,双人烤鱼,,,0,
+asia-deli,羊蝎子火锅,,,0,
+asia-deli,干煸四季豆,,,0,
+asia-deli,手撕包菜,,,0,
+asia-farmhouse,小笼包,,,1,
+asia-farmhouse,饺子,,,1,
+asia-farmhouse,锅贴,,,1,
+asia-farmhouse,虾饺,,,1,
+asia-farmhouse,烧卖,,,1,
+asia-farmhouse,馄饨汤,,,1,
+asia-farmhouse,豆腐菠菜汤,,,0,
+asia-farmhouse,夏卷,,,0,
+asia-farmhouse,春卷,,,0,
+asia-farmhouse,北京鸭卷,,,0,
+asia-farmhouse,苤蓝沙拉,,,0,
+asia-farmhouse,鸡翅,,,0,
+asia-farmhouse,炸大虾,,,0,
+asia-farmhouse,脆皮鸡,,,0,
+asia-farmhouse,三文鱼,,,0,
+asia-farmhouse,冷鸭胸,,辣味,0,
+asia-farmhouse,炸豆腐条,,,0,
+asia-farmhouse,馄饨,,辣味,1,
+asia-farmhouse,麻辣牛肉,,辣味,0,
+asia-farmhouse,炒平菇,,,0,
+asia-farmhouse,三文鱼刺身,,辣味,0,
+asia-farmhouse,烤鱿鱼,,,0,
+asia-farmhouse,烤三文鱼柳,,,0,
+asia-farmhouse,烤鸭,,,0,
+asia-farmhouse,沙嗲牛肉,,,0,
+asia-farmhouse,鸡肉,,辣味,0,
+asia-farmhouse,章鱼,,,0,
+asia-farmhouse,海鲜,,,0,
+asia-farmhouse,小火锅,,辣味,0,
+asia-farmhouse,茄子,,辣味,0,素菜
+asia-farmhouse,上海青,,,0,素菜
+asia-farmhouse,羊肚菌和平菇,,,0,素菜
+asia-farmhouse,豆腐,,,0,素菜
+asia-farmhouse,麻辣豆腐,,辣味,0,素菜
+asia-farmhouse,海鲜炒面,,辣味,1,
+asia-farmhouse,肉炒面,,,1,
+asia-farmhouse,三文鱼炒面,,,0,
+asia-farmhouse,汤面,,,1,
+asia-farmhouse,鸭肉炒面,,,0,
+asia-farmhouse,蒜蓉菠菜,,,0,
+asia-farmhouse,香辣鱿鱼土豆,,,0,
+bambus,尖椒炒腊肉,,辣味,0,
+bambus,香干炒腊肉,,,0,
+bambus,蒜苔炒腊肉,,,0,
+bambus,腊卤拼盘,,,0,
+bambus,红耳猪耳,,辣味,0,
+bambus,蜀香酱肘子,,,0,
+bambus,竹园飘香鱼,,辣味,1,
+bambus,红烧肉,,,0,
+bambus,竹园小煎鸡,,辣味,0,
+bambus,竹园小煎五花肉,,辣味,0,
+bambus,泡椒香菜牛,,辣味,0,
+bambus,毛血旺,,辣味,0,
+bambus,蜀香水煮鱼,,辣味,0,
+bambus,清蒸鲈鱼,,,0,
+bambus,东北老式锅包肉,,,1,
+bambus,新派锅包肉（茄汁味）,,,0,
+bambus,酸菜豆花鸡,,,0,
+bambus,宫保鸡丁,,辣味,0,
+bambus,川味辣子鸡,,辣味,1,
+bambus,蜀香水煮牛肉,,辣味,0,
+bambus,麻婆豆腐,,辣味,1,
+bambus,鱼香肉丝,,辣味,0,
+bambus,京酱肉丝,,,0,
+bambus,巫山雪花烤鱼,,辣味,1,
+bambus,新疆过油肉土豆片,,,0,
+bambus,蒜蓉粉丝巴沙鱼,,,0,
+bambus,酸菜鱼,,,0,
+bambus,蒜蓉粉丝蒸大虾,,,0,
+bambus,风味茄子,,辣味,1,
+bambus,鱼香茄子,,辣味,1,
+bambus,清炒上海青,,,0,
+bambus,清炒莴麻菜,,,0,
+bambus,清炒包菜,,,0,
+bambus,干锅手撕鸡,,辣味,1,
+bambus,干锅肥肠,,辣味,1,
+bambus,干锅排骨,,辣味,1,
+bambus,椒麻豆花牛肉,,辣味,0,
+bambus,干锅鸭,,辣味,0,
+ban-noodle,素水饺,,,0,
+ban-noodle,鸡肉水饺,,,0,
+ban-noodle,牛肉水饺,,,0,
+ban-noodle,虾肉水饺,,,0,
+ban-noodle,素面,€10.90,,1,
+ban-noodle,素拌面,€9.90,,1,
+ban-noodle,西红柿鸡蛋面,"9,90 €",,1,
+ban-noodle,沂蒙炒鸡面,"9,90 €",,1,
+ban-noodle,红烧牛肉面,"10,90 €",,1,
+ban-noodle,素油泼面,€11.90,,1,
+ban-noodle,素油泼刀削面,€12.90,,1,
+ban-noodle,西红柿鸡蛋油泼面,€11.90,,1,
+ban-noodle,西红柿鸡蛋油泼刀削面,€12.90,,1,
+ban-noodle,沂蒙炒鸡油泼面,€11.90,,1,
+ban-noodle,沂蒙炒鸡油泼刀削面,€12.90,,1,
+ban-noodle,传统牛肉油泼面,€12.90,,1,
+ban-noodle,传统牛肉油泼刀削面,€13.90,,1,
+ban-noodle,素炒面,€11.90,,0,
+ban-noodle,素炒刀削面,€12.90,,0,
+ban-noodle,青椒牛肉炒面,€11.90,,0,
+ban-noodle,青椒牛肉炒刀削面,€12.90,,0,
+bang-bang-noodles-mitte,棒棒牛肉面,,,1,
+bang-bang-noodles-mitte,棒棒豆腐面,,,1,
+bang-bang-noodles-mitte,棒棒辣椒面,,,1,
+bang-bang-noodles-mitte,棒棒牛肉末面,,,1,
+bang-bang-noodles-mitte,棒棒素肉末面,,,1,
+bang-bang-noodles-mitte,炸馄饨,,,0,前菜
+bang-bang-noodles-mitte,鸡块,,,0,前菜
+bang-bang-noodles-mitte,鸡肉包,,,0,
+bang-bang-noodles-xberg,棒棒牛肉面,€16.00,,1,
+bang-bang-noodles-xberg,棒棒豆腐面,€16.00,,1,
+bang-bang-noodles-xberg,棒棒辣椒面,€13.00,,1,
+bang-bang-noodles-xberg,棒棒牛肉末面,€16.00,,1,
+bang-bang-noodles-xberg,棒棒素肉末面,,,1,
+bang-bang-noodles-xberg,炸馄饨,,,0,前菜
+bang-bang-noodles-xberg,鸡块,,,0,前菜
+bang-bang-noodles-xberg,鸡肉包,,,0,
+beef-house,牛肉汤面,,,1,
+beef-house,猪肉水饺,,,1,
+beef-house,煎饺,,,1,
+beef-house,春卷,,,0,前菜
+beef-house,馄饨汤,,,0,前菜
+beef-house,卤肉饭,,,1,
+beef-house,台式鸡肉米粉,,,1,
+beef-house,手工炒面,,,1,
+benwei-essence-berlin,川味凉粉,,,1,前菜
+benwei-essence-berlin,虾饺,,,1,
+benwei-essence-berlin,内蒙古羊肉烧麦,,,1,
+benwei-essence-berlin,猪肉韭菜饺子,,,1,
+benwei-essence-berlin,猪肉白菜饺子,,,1,
+benwei-essence-berlin,鸡肉饺子,,,1,
+benwei-essence-berlin,猪肉包子,,,1,
+benwei-essence-berlin,牛肉包子,,,1,
+benwei-essence-berlin,素包子,,,1,
+benwei-essence-berlin,牛肉水煎包,,,1,
+benwei-essence-berlin,肉夹馍,,,1,
+benwei-essence-berlin,素夹馍,,,0,
+benwei-essence-berlin,羊肉串,,,1,
+benwei-essence-berlin,秘制三色鸡排拌面,,,1,
+benwei-essence-berlin,红烧牛肉面,,,1,
+benwei-essence-berlin,番茄牛肉面,,,0,
+biang-biang-ming-bikini,排骨拌面,,,0,
+biang-biang-ming-bikini,牛肉面,,,0,
+biang-biang-ming-bikini,南瓜小米粥,,,0,
+biang-biang-ming-bikini,红薯粥,,,0,
+biang-biang-ming-bikini,皮蛋瘦肉粥,,,0,
+biang-biang-ming-bikini,竹升面,,,0,
+biang-biang-ming-bikini,馄饨汤,,,0,
+biang-biang-ming-bikini,烧卖,,,0,
+biang-biang-ming-bikini,荷叶糯米鸡,,,0,
+biang-biang-ming-bikini,豉汁炸面筋,,,0,
+biang-biang-ming-bikini,豉汁凤爪,,,0,
+biang-biang-ming-bikini,豉汁牛肚,,,0,
+biang-biang-ming-bikini,豉汁猪脚,,,0,
+biang-biang-ming-bikini,鸡肉饺子,,,0,
+biang-biang-ming-bikini,猪肉饺子,,,0,
+biang-biang-ming-bikini,牛肉饺子,,,0,
+biang-biang-ming-bikini,米粉饺,,,0,
+biang-biang-ming-bikini,口水鸡,,,0,
+biang-biang-ming-bikini,饺子,,,1,
+biang-biang-ming-bikini,素包子,,,0,
+biang-biang-ming-bikini,鱼香饺子,,,0,
+biang-biang-ming-bikini,宫保豆腐饺子,,,0,
+biang-biang-ming-bikini,红油饺子,,,0,
+biang-biang-ming-bikini,油泼面,,,1,
+biang-biang-ming-bikini,牛肉油泼面,,,0,
+biang-biang-ming-bikini,豆腐油泼面,€11.50,,0,
+biang-biang-ming-bikini,排骨油泼面,,,0,
+biang-biang-ming-bikini,鱼香油泼面,,,0,
+biang-biang-ming-bikini,牛肉汤面,,,0,
+biang-biang-ming-bikini,奶黄包,,,0,
+biang-biang-ming-bikini,豆沙包,,,0,
+biang-biang-ming-friedenau,口水鸡,,,0,前菜
+biang-biang-ming-friedenau,腌萝卜,,,0,前菜
+biang-biang-ming-friedenau,卤水豆腐,,,0,前菜
+biang-biang-ming-friedenau,饺子,,,1,
+biang-biang-ming-friedenau,红油饺子,,,1,
+biang-biang-ming-friedenau,素包子,,,0,
+biang-biang-ming-friedenau,奶黄包,,,0,
+biang-biang-ming-friedenau,豆沙包,,,0,
+biang-biang-ming-friedenau,油泼面,,,1,
+biang-biang-ming-friedenau,牛腩汤面,€12.50,,1,
+biang-biang-ming-friedenau,排骨拌面,,,0,
+biang-biang-ming-friedenau,牛肉拌面,,,0,
+bingery,经典淀粉肠煎饼,,,1,
+bingery,爽口鸡丝煎饼,,,1,
+bingery,卤香牛肉煎饼,,,1,
+bingery,照烧豆腐煎饼,,,1,
+bingery,爆辣火鸡面煎饼,,,1,
+bingery,豆浆,,,0,
+bingery,冰粉儿,,,0,
+cha-for-tee,菠菜饺,,,1,
+cha-for-tee,豆角饺,,,1,
+cha-for-tee,酸菜饺,,,0,
+cha-for-tee,土豆饺,,,0,
+cha-for-tee,豆腐饺,,,0,
+cha-for-tee,素小笼包,,,1,
+cha-for-tee,素包子,,,1,
+cha-for-tee,糯米烧麦,,,1,
+cha-for-tee,白菜猪肉饺,,,1,
+cha-for-tee,小笼包,,,1,
+cha-for-tee,牛肉饺,,,1,
+cha-for-tee,鸡冠饺,,,0,
+cha-for-tee,虾饺,,,1,
+cha-for-tee,肉包子,,,1,
+cha-for-tee,红油抄手,,,1,前菜
+cha-for-tee,糯米糍,,,0,
+cha-for-tee,流沙包,,,0,
+chaomin,肉夹馍,"7,50 €",,1,
+chaomin,凉皮,"7,50 €",,1,
+chaomin,馄饨汤,"6,90 €",,0,
+chaomin,冬阴功酸辣汤,"6,90 €",辣,0,
+chaomin,凉拌干丝,"5,90 €",辣,0,
+chaomin,凉拌黄瓜,"5,90 €",辣,0,
+chaomin,韩国辣白菜,"5,90 €",辣,0,
+chaomin,盐水毛豆,"5,90 €",,0,
+chaomin,炸春卷,"5,90 €",,0,
+chaomin,口水鸡,"7,90 €",辣,0,
+chaomin,椒盐豆腐,"5,90 €",辣,0,
+chaomin,红薯条,"5,90 €",,0,
+chaomin,红油抄手,"6,90 €",辣,1,
+chaomin,虾饺烧卖,"6,90 €",,0,
+chaomin,鸭肉卷,"6,90 €",,0,
+chaomin,香酥鸡柳,"6,90 €",,0,
+chaomin,火爆鱿鱼,"7,90 €",辣,0,
+chaomin,芒果芥末虾球,"8,90 €",,0,
+chaomin,生腌三文鱼,"8,90 €",辣,0,
+chaomin,夫妻肺片,"7,90 €",辣,0,
+chaomin,五香酱牛肉,"7,90 €",,0,
+chaomin,牛肉粥,"13,90 €",,1,
+chaomin,鸡肉粥,"13,50 €",,0,
+chaomin,大虾粥,"14,90 €",,1,
+chaomin,蔬菜粥,"12,90 €",,1,
+chaomin,湘味双椒牛肉,"14,90 €",辣,1,
+chaomin,沙爹牛肉,"14,90 €",辣,1,
+chaomin,辣子鸡,"13,90 €",,0,
+chaomin,红烧肉,"13,90 €",,0,
+chaomin,香煎三文鱼,"16,90 €",,0,
+chaomin,炒乌冬面,"12,90–14,90 €",,0,
+chaomin,咖喱椰奶饭,"12,90–15,90 €",,0,
+chaomin,鱼香茄子,"12,90 €",辣,0,
+chaomin,香菇菜心,"12,90 €",,0,
+chaomin,秘制炒饭,"14,90 €",,0,
+chaomin,麻婆豆腐,"12,90 €",辣,0,
+chaomin,宫保鸡丁,"13,90 €",辣,0,
+chaomin,农家小炒肉,"13,90 €",辣,0,
+chaomin,干煸豆角,"12,90 €",辣,0,
+chaomin,彩米粥火锅,"10,00 € base pot; 25,00 €/person plate",,1,
+chaomin,黑糯米芒果饭,"6,90 €",,0,
+chaomin,抹茶包,"6,90 €",,0,
+chaoshe,北京牛肉饼,,,1,
+charlies-tea-berlin,龙井奶茶,,,1,
+charlies-tea-berlin,茉莉奶绿,,,1,
+charlies-tea-berlin,凤凰乌龙奶茶,,,0,
+charlies-tea-berlin,桂花乌龙奶茶,,,1,
+charlies-tea-berlin,锡兰奶茶,,,0,
+charlies-tea-berlin,金骏眉奶茶,,,0,
+charlies-tea-berlin,香草奶油碧根果锡兰奶茶,,,1,
+charlies-tea-berlin,茉莉抹茶奶茶,,,1,
+charlies-tea-berlin,抹茶奶盖黑糖珍珠奶茶,,,0,
+charlies-tea-berlin,草莓抹茶奶盖茶,,,1,
+charlies-tea-berlin,黑糖珍珠锡兰奶茶,,,0,
+charlies-tea-berlin,芒果椰子葡萄柚冰饮,,,0,
+charlies-tea-berlin,鲜柠檬冰茶,,,0,
+chen-s-beef-noodle-house-wedding,招牌兰州清汤牛肉面,"14,90 €",,1,
+chen-s-beef-noodle-house-wedding,红烧牛肉面,"14,90 €",,1,
+chen-s-beef-noodle-house-wedding,成都担担面,"13,90 €",,1,
+chen-s-beef-rice-noodles-fresh-buns,鲜切牛肉粉,,,1,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,红烧牛肉粉,€15.80,辣,1,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,酸菜牛肉粉,€15.80,,0,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,牛肉丸粉,€15.80,,1,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,玉米鸡粉,€15.80,,0,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,素粉,€13.80,,0,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,阿根廷牛肉粉,€20.80,,0,汤粉 / RICE NOODLES
+chen-s-beef-rice-noodles-fresh-buns,凉拌黄瓜,,,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,凉拌三丝,,,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,凉拌腐竹,,辣,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,XO豆腐,,,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,香辣牛肉,,辣,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,广式白斩鸡,,,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,红油抄手,,辣,0,前菜 / APPETIZER
+chen-s-beef-rice-noodles-fresh-buns,牛肉包子,,,1,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,素包子,,,1,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,虾饺子（4粒）,,,0,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,蒸素饺子（4粒）,,,0,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,蒸牛肉饺子（4粒）,,,0,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,煎素饺子（6粒）,,,0,包子 / FRESH BUNS
+chen-s-beef-rice-noodles-fresh-buns,煎牛肉饺（6粒）,,,0,包子 / FRESH BUNS
+chen-s-kitchen-markthalle-ix,Chili Wontons,,,1,
+chen-s-kitchen-markthalle-ix,Garlic Wontons,,,0,
+chen-s-kitchen-markthalle-ix,Beef Noodles,,,1,
+chen-s-kitchen-markthalle-ix,Garlic Tofu Noodles,,,0,
+chen-s-kitchen-markthalle-ix,Beef Rice Bowl,,,0,
+chen-s-noodle-house-neuk-lln-1,红油抄手,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-1,招牌兰州清汤牛肉面,€14.90,,1,
+chen-s-noodle-house-neuk-lln-1,红烧牛肉面,€14.90,,1,
+chen-s-noodle-house-neuk-lln-1,馄饨面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-1,油泼扁扁面,"13,90 €",,1,
+chen-s-noodle-house-neuk-lln-1,新疆大盘鸡面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-1,成都担担面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-1,牛肉夹馍,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-1,新疆羊肉串,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-1,煎饺,"8,80 €",,1,
+chen-s-noodle-house-neuk-lln-2,红油抄手,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-2,招牌兰州清汤牛肉面,€14.90,,1,
+chen-s-noodle-house-neuk-lln-2,红烧牛肉面,€14.90,,1,
+chen-s-noodle-house-neuk-lln-2,馄饨面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-2,油泼扁扁面,"13,90 €",,1,
+chen-s-noodle-house-neuk-lln-2,新疆大盘鸡面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-2,成都担担面,€13.90,,1,
+chen-s-noodle-house-neuk-lln-2,牛肉夹馍,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-2,新疆羊肉串,"6,80 €",,1,
+chen-s-noodle-house-neuk-lln-2,煎饺,"8,80 €",,1,
+chen-s-noodle-house-neuk-lln-2,茶叶蛋,"1,50 €",,0,
+chen-s-noodle-house-tiergarten,红油抄手,"6,80 €",,1,
+chen-s-noodle-house-tiergarten,招牌兰州清汤牛肉面,€14.90,,1,
+chen-s-noodle-house-tiergarten,红烧牛肉面,€14.90,,1,
+chen-s-noodle-house-tiergarten,馄饨面,€13.90,,1,
+chen-s-noodle-house-tiergarten,油泼扁扁面,"13,90 €",,1,
+chen-s-noodle-house-tiergarten,新疆大盘鸡面,€13.90,,1,
+chen-s-noodle-house-tiergarten,成都担担面,€13.90,,1,
+chen-s-noodle-house-tiergarten,牛肉夹馍,"6,80 €",,1,
+chen-s-noodle-house-tiergarten,新疆羊肉串,"6,80 €",,1,
+chen-s-noodle-house-tiergarten,煎饺,"8,80 €",,1,
+chen-s-noodle-house-xberg,红油抄手,"6,80 €",,1,
+chen-s-noodle-house-xberg,招牌兰州清汤牛肉面,€14.90,,1,
+chen-s-noodle-house-xberg,红烧牛肉面,€14.90,,1,
+chen-s-noodle-house-xberg,馄饨面,€13.90,,1,
+chen-s-noodle-house-xberg,油泼扁扁面,"13,90 €",,1,
+chen-s-noodle-house-xberg,新疆大盘鸡面,€13.90,,1,
+chen-s-noodle-house-xberg,成都担担面,€13.90,,1,
+chen-s-noodle-house-xberg,牛肉夹馍,"6,80 €",,1,
+chen-s-noodle-house-xberg,新疆羊肉串,"6,80 €",,1,
+chen-s-noodle-house-xberg,煎饺,"8,80 €",,1,
+chen-s-noodle-house-xberg,茶叶蛋,"1,50 €",,0,
+chen-s-noodle-house-xberg,手拉炒面,"15,90 €",,0,
+chen-s-teehaus,担担面,,辣,1,
+chen-s-teehaus,麻辣鸡丝面,,重辣,1,
+chen-s-teehaus,牛肉油泼面,,辣,1,
+chen-s-teehaus,豆腐油泼面,,辣,1,
+chen-s-teehaus,素油泼面,,辣,0,
+chen-s-teehaus,猪肉白菜饺子,,,1,
+chen-s-teehaus,鸡肉香菇饺子,,,1,
+chen-s-teehaus,素菜饺,,,0,
+chen-s-teehaus,虾饺,,,0,
+chen-s-teehaus,烧卖,,,0,
+chen-s-teehaus,锅贴,,,1,
+chen-s-teehaus,生煎包,,,1,
+chen-s-teehaus,素生煎包,,,1,
+chen-s-teehaus,汤包,,,0,
+chen-s-teehaus,三鲜小笼包,,,0,
+chen-s-wok,猪肉白菜饺子,,,0,
+chen-s-wok,鸡肉香菇饺子,,,0,
+chen-s-wok,牛肉洋葱饺子,,,0,
+chen-s-wok,三鲜饺,,,0,
+chen-s-wok,素菜饺,,,0,
+chen-s-wok,拼盘饺子,,,0,
+chen-s-wok,虾饺,,,0,
+chen-s-wok,烧卖,,,0,
+chen-s-wok,锅贴,,,0,
+chen-s-wok,生煎包,,,0,
+chen-s-wok,宫保鸡丁,,辣,1,
+chen-s-wok,重庆辣子鸡,,重辣,1,
+chen-s-wok,甜酸炸鸡,,,0,
+chen-s-wok,上海炸鸡,,,0,
+chen-s-wok,上海炸鸭,,,0,
+chen-s-wok,甜酸炸鸭,,,0,
+chen-s-wok,明炉烧鸭,,,0,
+chen-s-wok,酥炸猪肉,,辣,0,
+chen-s-wok,鱼香肉丝,,辣,1,
+chen-s-wok,回锅肉,,辣,1,
+chen-s-wok,红烧肉,,,0,
+chen-s-wok,梅菜扣肉,,,0,
+chen-s-wok,糖醋里脊,,,0,
+chen-s-wok,麻婆豆腐,,重辣,1,
+chen-s-wok,鱼香茄子,,辣,1,
+chen-s-wok,叉烧肉,,,0,
+chen-s-wok,糖醋排骨,,,0,
+chen-s-wok,椒盐排骨,,辣,0,
+chen-s-wok,酥炸牛肉,,辣,0,
+chen-s-wok,水煮牛肉,,重辣,1,
+chen-s-wok,木耳粉丝牛肉,,,0,
+chen-s-wok,黑椒牛肉,,,0,
+chen-s-wok,孜然羊肉,,辣,0,
+chen-s-wok,水煮鱼,,重辣,1,
+chen-s-wok,水煮小鲈鱼,,重辣,1,
+chen-s-wok,清蒸小鲈鱼,,,0,
+chen-s-wok,清蒸鲶鱼,,,0,
+chen-s-wok,五彩虾球,,,0,
+chen-s-wok,椒盐大虾,,辣,0,
+chen-s-wok,地三鲜,,,0,素菜
+chen-s-wok,蒜蓉上海青,,,0,素菜
+chen-s-wok,醋溜白菜,,,0,素菜
+chen-s-wok,素鱼香茄子,,辣,0,素菜
+chen-s-wok,番茄炒蛋,,,0,素菜
+chen-s-wok,红烧豆包,,,0,素菜
+chen-s-wok,蒜蓉空心菜,,,0,素菜
+chen-s-wok,素家常豆腐,,辣,0,素菜
+chen-s-wok,素宫保鸡丁,,辣,0,素菜
+chen-s-wok,素麻婆豆腐,,重辣,0,素菜
+chen-s-wok,荷兰豆炒腊肉,,,0,
+chen-s-wok,西芹豆干,,辣,0,
+chen-s-wok,宽豆角炒肉末,,,0,
+chen-s-wok,酸菜鱼,,辣,0,
+chen-s-wok,剁椒鱼头,,重辣,0,
+chen-s-wok,干锅肥肠,,辣,0,
+chen-s-wok,香辣牛蛙,,辣,0,
+chen-s-wok,毛血旺,,重辣,1,
+chen-s-wok,猪肚鸡锅汤,,,0,
+chen-s-wok,麻辣肥肠鱼,,重辣,0,
+chen-s-wok,麻辣肥肠鸡,,重辣,0,
+chen-s-wok,香辣虾锅,,重辣,0,
+chen-s-wok,香辣素锅,,重辣,0,
+chen-s-wok,万州烤鱼,,重辣,0,
+chen-s-wok,海鲜烤鱼,,重辣,0,
+chen-s-wok,老陈冒菜,,重辣,0,
+chen-s-wok,茭白/莴笋/蒜苗/酸菜炒腊肉,,,0,
+chen-s-wok,莴笋/蒜苗炒鸡蛋,,,0,
+chen-s-wok,烤五花肉,,,0,
+chen-s-wok,烤牛肉,,,0,
+chen-s-wok,烤海鲜,,,0,
+chen-s-wok,烤大虾,,,0,
+chengdu-nudelhaus,红油猪耳,,,0,
+chengdu-nudelhaus,虾饺,,,0,
+chengdu-nudelhaus,素菜饺子,,,0,
+chengdu-nudelhaus,鸡肉蒸饺,,,0,
+chengdu-nudelhaus,锅贴,,,0,
+chengdu-nudelhaus,浓汁红烧牛肉面,,辣,1,
+chengdu-nudelhaus,传统清汤牛肉面,,,0,
+chengdu-nudelhaus,宜宾燃面,,辣,1,
+chengdu-nudelhaus,成都担担面,,辣,1,
+chengdu-nudelhaus,清汤豌杂面,,,1,
+chengdu-nudelhaus,肉沫酸豆角汤面,,辣,1,
+chengdu-nudelhaus,红烧排骨面,,,1,
+chengdu-nudelhaus,豚天肥肠面,,,1,
+chengdu-nudelhaus,酸辣肉丝面,,辣,1,
+chengdu-nudelhaus,老麻抄手,,辣,0,
+chengdu-nudelhaus,红油水饺,,辣,0,
+chengdu-nudelhaus,手工水饺,,,0,
+chengdu-nudelhaus,酸菜肉丝米线,,辣,0,
+chengdu-nudelhaus,重庆小面,,辣,1,
+chengdu-nudelhaus,干拌豌杂面,,辣,1,
+chengdu-nudelhaus,成都浓鲜番茄鸡蛋面,,,0,
+chengdu-nudelhaus,成都鲜菌菇面,,,0,
+chengdu-nudelhaus,菌菇鸡肉汤面,,,0,
+chengdu-nudelhaus,重庆肥肠面,,辣,0,
+chengdu-nudelhaus,百家酸辣粉,,重辣,1,
+chengdu-nudelhaus,牛肉米线,,辣,0,
+chengdu-nudelhaus,排骨米线,,辣,0,
+chengdu-nudelhaus,杂酱米线,,辣,0,
+chengdu-nudelhaus,呛拌土豆丝,,,0,
+chengdu-nudelhaus,凉拌酸辣木耳,,辣,0,
+chengdu-nudelhaus,手拍蒜蓉黄瓜,,,0,
+chengdu-nudelhaus,五香卤牛肉,,,0,
+chengdu-nudelhaus,盐水毛豆,,,0,
+chengdu-nudelhaus,口水鸡,,辣,0,
+chengdu-nudelhaus,油酥椒盐花生米,,,0,
+chengdu-nudelhaus,粉蒸牛肉,,,0,
+chengdu-nudelhaus,芽菜扣肉,,,0,
+chengdu-nudelhaus,蒸虾饺,,,0,
+chengdu-nudelhaus,素饺子,,,0,
+chengdu-nudelhaus,手工老麻抄手,,重辣,1,
+chengdu-nudelhaus,手工清汤抄手,,,0,
+chengdu-nudelhaus,手工红油水饺,,重辣,0,
+chengdu-nudelhaus,传统手工水饺,,,0,
+chengdu-nudelhaus,小笼包,,,0,
+chengdu-nudelhaus,炸小春卷,,,0,
+chengdu-restaurant,干拌牛肉,"11,80 €",,0,凉菜
+chengdu-restaurant,伤心凉粉,"7,80 €",,0,凉菜
+chengdu-restaurant,香煎小黄鱼,"9,80 €",,0,凉菜
+chengdu-restaurant,桂花糯米藕,"7,80 €",,0,凉菜
+chengdu-restaurant,卤味拼盘,"22,80 €",,0,凉菜
+chengdu-restaurant,四川凉拌鸡,"11,80 €",,1,凉菜
+chengdu-restaurant,凉拌海蜇皮,"7,80 €",,0,凉菜
+chengdu-restaurant,四川泡菜,"6,80 €",,0,凉菜
+chengdu-restaurant,酸辣小木耳,"6,80 €",,0,凉菜
+chengdu-restaurant,鲜椒蹄花,"9,80 €",,0,凉菜
+chengdu-restaurant,夫妻肺片,"11,80 €",,0,凉菜
+chengdu-restaurant,成都棒棒鸡,"10,80 €",,0,凉菜
+chengdu-restaurant,泡椒凤爪,"9,80 €",,0,凉菜
+chengdu-restaurant,烧椒皮蛋,"6,80 €",,0,凉菜
+chengdu-restaurant,蒜泥黄瓜,"6,80 €",,0,凉菜
+chengdu-restaurant,香辣美容蹄,"18,80 €",,0,家常菜
+chengdu-restaurant,巴蜀豆花牛肉,"19,80 €",,0,家常菜
+chengdu-restaurant,水煮牛肉,"18,80 €",,0,家常菜
+chengdu-restaurant,重庆辣子鸡,"14,80 €",,0,家常菜
+chengdu-restaurant,蒜苔回锅肉,"15,80 €",,0,家常菜
+chengdu-restaurant,川味小炒鸡,"18,80 €",,0,家常菜
+chengdu-restaurant,小炒黄牛肉,"17,80 €",,0,家常菜
+chengdu-restaurant,肉末酸豇豆,"13,80 €",,0,家常菜
+chengdu-restaurant,麻婆豆腐,"13,80 €",,0,家常菜
+chengdu-restaurant,宫爆鸡丁,"14,80 €",,0,家常菜
+chengdu-restaurant,孜然羊肉,"17,80 €",,0,家常菜
+chengdu-restaurant,泡椒腰花,"14,80 €",,0,家常菜
+chengdu-restaurant,蚝油牛肉,"17,80 €",,0,家常菜
+chengdu-restaurant,盐煎五花肉,"15,80 €",,0,家常菜
+chengdu-restaurant,大邑肥肠血旺,"16,80 €",,0,家常菜
+chengdu-restaurant,鱼香肉丝,"14,80 €",,0,家常菜
+chengdu-restaurant,金汤肥牛,"22,80 €",,0,热菜
+chengdu-restaurant,德阳哑巴兔,"22,80 €",,0,热菜
+chengdu-restaurant,火爆黄喉,"23,80 €",,0,热菜
+chengdu-restaurant,万州豆花烤鱼,"38,00 €",,1,热菜
+chengdu-restaurant,菌香锅巴,"17,80 €",,0,热菜
+chengdu-restaurant,泡椒牛蛙,"24,80 €",,0,热菜
+chengdu-restaurant,精品毛血旺,"22,80 €",,0,热菜
+chengdu-restaurant,重庆沸腾鱼,"32,80 €",,0,热菜
+chengdu-restaurant,川味酸菜鱼,"24,80 €",,0,热菜
+chengdu-restaurant,大蒜烧肚条,"18,80 €",,0,热菜
+chengdu-restaurant,辣炒花甲鸡肉,"32,80 €",,0,热菜
+chengdu-restaurant,韭菜炒墨鱼,"28,80 €",,0,热菜
+chengdu-restaurant,泡椒墨鱼仔,"28,80 €",,0,热菜
+chengdu-restaurant,纸包鱼,"32,80 €",,1,热菜
+chengdu-restaurant,锡纸战斧羊排,"38,80 €",,0,热菜
+chengdu-restaurant,自贡来凤鱼,"28,80 €",,0,热菜
+chengdu-restaurant,跳水鲈鱼,"28,80 €",,0,热菜
+chengdu-restaurant,东坡肉,"28,80 €",,1,热菜
+chengdu-restaurant,干锅包菜,"16,80 €",,0,干锅
+chengdu-restaurant,干锅鸡,"18,80 €",,0,干锅
+chengdu-restaurant,干锅花菜,"16,80 €",,0,干锅
+chengdu-restaurant,干锅大虾,"22,80 €",,1,干锅
+chengdu-restaurant,干锅鱿鱼须,"22,80 €",,0,干锅
+chengdu-restaurant,粉蒸牛肉,"18,80 €",,1,蒸菜
+chengdu-restaurant,粉蒸五花肉,"16,80 €",,0,蒸菜
+chengdu-restaurant,梅菜扣肉,"16,80 €",,0,蒸菜
+chengdu-restaurant,四川一品香碗,"22,80 €",,0,蒸菜
+chengdu-restaurant,清蒸鲈鱼,"27,80 €",,0,海鲜
+chengdu-restaurant,清蒸多宝鱼,时价 / Preis auf Anfrage,,0,海鲜
+chengdu-restaurant,葱姜龙虾,时价 / Preis auf Anfrage,,0,海鲜
+chengdu-restaurant,蒜蓉蒸带子,"18,80 €",,0,海鲜
+chengdu-restaurant,蒜蓉粉丝蒸龙虾,时价 / Preis auf Anfrage,,0,海鲜
+chengdu-restaurant,蒜蓉粉丝娃娃菜,"18,00 €",,0,海鲜
+chengdu-restaurant,咸蛋黄焗南瓜,"14,80 €",,0,蔬菜
+chengdu-restaurant,山药炒木耳,"13,80 €",,0,蔬菜
+chengdu-restaurant,包菜炒粉丝,"13,80 €",,0,蔬菜
+chengdu-restaurant,干煸豆角,"13,80 €",,0,蔬菜
+chengdu-restaurant,金沙玉米,"14,80 €",,0,蔬菜
+chengdu-restaurant,豆角茄条,"13,80 €",,0,蔬菜
+chengdu-restaurant,蒜蓉上海青,"11,80 €",,0,蔬菜
+chengdu-restaurant,清炒荷兰豆,"14,80 €",,0,蔬菜
+chengdu-restaurant,白灼芥菜,"14,80 €",,0,蔬菜
+chengdu-restaurant,鱼香茄子,"13,80 €",,0,蔬菜
+chengdu-restaurant,砂锅养生板栗鸡,"22,80 €",,0,砂锅
+chengdu-restaurant,砂锅雪花豆炖猪蹄,"22,80 €",,0,砂锅
+chengdu-restaurant,砂锅猪肚鸡,"22,80 €",,0,砂锅
+chengdu-restaurant,冰粉,"4,80 €",,0,小吃甜点
+chengdu-restaurant,水果布丁,"4,80 €",,0,小吃甜点
+chengdu-restaurant,酒酿圆子,"6,80 €",,0,小吃甜点
+chengdu-restaurant,红糖糍粑,"9,80 €",,0,小吃甜点
+chichikan,红油水饺,,辣,1,前菜
+chichikan,烧卖,,,1,
+chichikan,虾卖,,,0,
+chichikan,素饺,,,0,
+chichikan,锅贴,,,1,
+chichikan,小笼包,,,1,
+chichikan,鸡冠饺,,,0,
+chichikan,虾饺,,,1,
+chichikan,牛饺,,,0,
+chichikan,点心拼篮,,,0,
+chichikan,担担面,,辣,1,
+chichikan,牛肉汤面,,,1,
+chichikan,沙茶牛,,,1,
+chichikan,水煮牛,,辣,1,
+chichikan,回锅肉,,辣,1,
+chichikan,孜然羊肉,,辣,1,
+chichikan,椒盐虾,,辣,1,
+chichikan,干烧大虾,,辣,1,
+chichikan,水煮鱼,,辣,1,
+chichikan,酸菜鱼,,辣,1,
+chichikan,蜜汁豆腐,,,0,
+chichikan,宫保豆腐,,辣,1,
+china-city,北京烤鸭（双人套餐）,70.00 € / 2 people; additional person 35.00 €,,1,北京烤鸭 / Peking duck
+china-city,官保带子,28.80 €,辣味,0,
+china-city,时菜炒带子,28.80 €,,0,
+china-city,海鲜煲,23.50 €,,0,
+china-city,海鲜豆腐煲,21.00 €,,1,
+china-city,虾仁炒蛋,16.50 €,,0,
+china-city,牛肉素菜,15.50 €,,0,
+china-city,牛肉洋葱,15.50 €,,0,
+china-city,牛肉粉丝木耳,16.00 €,,0,
+china-city,双炸牛肉,17.00 €,辣味,0,
+china-city,牛肉西兰花,17.00 €,,0,
+china-city,小炒牛肉,22.00 €,辣味,0,
+china-city,水煮牛肉,19.50 €,辣味,1,
+china-city,葱姜牛肉,19.00 €,,0,
+china-city,蚝油牛肉,19.00 €,,0,
+china-city,黑椒牛肉,19.50 €,辣味,1,
+china-city,萝卜牛腩煲,19.50 €,,0,
+china-city,红烧牛尾,21.00 €,,0,
+china-city,牛肉蒜苗,19.50 €,,0,
+china-city,葱爆羊肉,20.50 €,,1,
+china-city,孜然羊肉,20.50 €,辣味,1,
+china-city,羊肉大白菜,20.50 €,辣味,0,
+china-city,猪肉粉丝木耳,16.00 €,,0,
+china-city,叉烧肉素菜,16.00 €,辣味,0,
+china-city,双炸猪肉,16.50 €,辣味,0,
+china-city,椒盐排骨,18.50 €,辣味,1,
+china-city,红烧排骨,18.50 €,辣味,1,
+china-city,糖醋排骨,18.50 €,,0,
+china-city,豉汁蒸排骨,22.00 €,,0,
+china-city,回锅肉,18.50 €,辣味,1,
+china-city,水煮肉片,18.50 €,辣味,0,
+china-city,鱼香肉丝,17.50 €,辣味,0,
+china-city,糖醋里脊,18.50 €,,1,
+china-city,湘味小炒肉,18.50 €,辣味,0,
+china-city,溜肥肠,18.50 €,,0,
+china-city,香辣肥肠,18.50 €,辣味,1,
+china-city,芫爆肚丝,18.50 €,,0,
+china-city,冬瓜丸子汤,5.50 € / 19.00 € / 28.00 €,,1,
+china-city,酸菜羊肉汤,5.00 € / 17.00 € / 25.50 €,,0,
+china-city,鸡肉玉米羹,4.50 € / 16.50 € / 25.00 €,,0,
+china-city,西湖牛肉羹,5.00 € / 17.00 € / 25.50 €,,0,
+china-city,担担面,12.00 € / 25.00 €,辣味,0,
+china-city,海鲜汤面,15.00 € / 30.00 €,,0,
+china-city,香辣牛肉汤面,14.00 € / 29.00 €,辣味,1,
+china-city,雪菜肉丝汤面,13.00 € / 26.50 €,,0,
+china-city,馄饨汤面,13.00 € / 26.50 €,,0,
+china-city,香辣素鸡汤面,13.50 € / 28.00 €,辣味,0,
+china-city,虾片,4.00 €,,0,前菜
+china-city,大春卷,4.80 €,,0,前菜
+china-city,小春卷,4.00 €,,1,前菜
+china-city,炸馄饨,6.50 €,,0,前菜
+china-city,鸡串,6.00 €,,0,前菜
+china-city,大虾串,9.00 €,,0,前菜
+china-city,拼盘,9.50 €,,0,前菜
+china-city,夫妻肺片,9.50 €,辣味,1,
+china-city,五香牛肉,9.00 €,,0,
+china-city,麻辣耳丝,7.50 €,辣味,0,
+china-city,四川泡菜,6.00 €,,0,
+china-city,葱油鸡,8.00 €,,0,
+china-city,凉拌木耳,8.50 €,辣味,0,
+china-city,酸辣贡菜,8.50 €,辣味,0,
+china-city,三香豆干,6.50 €,,0,
+china-city,麻辣肚丝,7.00 €,,0,
+china-city,小葱拌豆腐,6.50 €,,0,
+china-city,皮蛋豆腐,8.50 €,,0,
+china-city,花生米,7.50 €,,0,
+china-city,麻酱粉皮,7.50 €,,1,
+china-city,猪肉锅贴,6.50 € / 5 St.; 13.00 € / 12 St.,,0,
+china-city,素水饺,6.00 € / 5 St.; 10.00 € / 12 St.,,0,
+china-city,叉烧包,5.50 € / 2 St.,,0,
+china-city,虾麦,6.50 € / 4 St.,,0,
+china-city,烧卖,5.50 € / 4 St.,,0,
+china-city,小笼包,6.00 € / 4 St.,,0,
+china-city,点心拼盘,6.50 € / 4 St.,,0,
+china-city,粉果,6.00 € / 4 St.,,0,
+china-city,虾饺,6.50 € / 4 St.,,0,
+china-city,棒饺,6.50 € / 4 St.,,0,
+china-city,素包,5.50 € / 4 St.,,0,
+china-city,糯米糍,5.50 € / 4 St.,,0,
+china-city,汤圆,6.50 € / 4 St.,,0,
+china-city,芝麻球,6.50 € / 4 St.,,0,
+china-garden,麻婆豆腐,,辣味,1,
+china-garden,铁板香辣鸭,,辣味,1,
+china-garden,中国花园鸭,,,1,
+china-garden,上海鸭,,,1,
+china-garden,宫保鸭,,辣味,1,
+china-garden,广东鸭,,,0,
+china-garden,香橙鸡,,,1,
+china-garden,宫保鸡丁,,辣味,1,
+china-garden,香辣鸡,,辣味,1,
+china-garden,夏威夷鸡,,,0,
+china-garden,芦笋蘑菇鸡,,,0,
+china-garden,鱼香牛肉,,辣味,0,
+china-garden,冬菇粉丝牛肉,,,0,
+china-garden,香辣脆牛,,辣味,0,
+china-garden,糖醋脆皮猪,,,1,
+china-garden,冬菇粉丝猪肉,,,0,
+china-garden,香辣脆皮猪,,辣味,0,
+china-garden,洋葱猪肉,,,0,
+china-garden,咖喱鱼,,辣味,0,
+china-garden,豉蒜鱿鱼,,辣味,1,
+china-garden,宫保虾,,辣味,1,
+china-garden,香辣黑椒豆腐,,辣味,1,
+china-garden,咖喱猪肉,,辣味,0,
+china-garden,时蔬鸡片,,,0,
+china-garden,糖醋鸡,,,0,
+china-garden,冬菇粉丝鸡,,,0,
+china-garden,咖喱虾,,辣味,0,
+china-garden,杂菜虾,,,0,
+china-garden,冬菇笋片虾,,,0,
+china-garden,冬菇笋片鸭,,,0,
+china-garden,冬菇粉丝鸭,,,0,
+china-garden,芦笋蘑菇鸭,,,0,
+china-garden,八宝辣酱,,辣味,1,
+china-garden,海鲜煲,,辣味,1,
+china-garden,粉丝鸡片,,,1,
+china-garden,三鲜煲,,辣味,1,
+china-garden,姜汁西兰花鱼片,,,1,
+china-town-lichtenrade,咕噜肉,,,1,
+china-town-lichtenrade,冬菇粉丝牛肉,,,1,
+china-town-lichtenrade,沙茶牛肉,,辣味,0,
+china-town-lichtenrade,腰果竹笋鸡,,,1,
+china-town-lichtenrade,芝麻鸡,,,1,
+china-town-lichtenrade,柠檬鸡,,,0,
+china-town-lichtenrade,冬菇脆皮鸭,,,1,
+china-town-lichtenrade,菠萝甜酸脆皮鸭,,,1,
+china-town-lichtenrade,广东鸭,,,0,
+china-town-lichtenrade,香辣脆皮鸭,,辣味,1,
+china-town-lichtenrade,上海鸭,,,0,
+china-town-lichtenrade,杂菜大虾,,,0,
+china-town-lichtenrade,沙茶大虾,,辣味,0,
+china-town-lichtenrade,腰果虾,,,0,
+china-town-lichtenrade,四川大虾,,辣味,0,
+china-town-lichtenrade,四川鱼片,,辣味,0,
+china-town-lichtenrade,豉汁鱼片,,,0,
+china-town-pankow,豆腐炒杂菜,,,1,素菜
+china-town-pankow,时蔬脆皮鸭,,,1,
+china-town-pankow,糖醋脆皮鸭,,,1,
+china-town-pankow,时蔬鸡胸,,,1,
+china-town-pankow,糖醋鸡,,,1,
+china-town-pankow,宫保鸡丁,,辣,1,
+chinesische-nudel-galerie-markthalle,牛肉油泼面,,,1,BIANG BIANG Nudeln / BiangBiang 油泼面
+chinesische-nudel-galerie-markthalle,羊肉孜然油泼面,,,1,BIANG BIANG Nudeln / BiangBiang 油泼面
+chinesische-nudel-galerie-markthalle,豆腐油泼面,,,0,BIANG BIANG Nudeln / BiangBiang 油泼面
+chinesische-nudel-galerie-markthalle,茄子油泼面,,,0,BIANG BIANG Nudeln / BiangBiang 油泼面
+chinesische-nudel-galerie-markthalle,牛肉炸酱面,,,1,Zha Jiang Nudeln / 炸酱面
+chinesische-nudel-galerie-markthalle,羊肉孜然炸酱面,,,1,Zha Jiang Nudeln / 炸酱面
+chinesische-nudel-galerie-markthalle,豆腐炸酱面,,,0,Zha Jiang Nudeln / 炸酱面
+chinesische-nudel-galerie-markthalle,茄子炸酱面,,,0,Zha Jiang Nudeln / 炸酱面
+chinesische-nudel-galerie-markthalle,小春卷,,,0,Kalte und warme Vorspeisen / 开胃菜
+chinesische-nudel-galerie-markthalle,芝麻球,,,0,Kalte und warme Vorspeisen / 开胃菜
+chinesische-nudel-galerie-markthalle,拌腐竹,,,0,Kalte und warme Vorspeisen / 开胃菜
+chinesische-nudel-galerie-markthalle,拌黄瓜,,,0,Kalte und warme Vorspeisen / 开胃菜
+chinesische-nudel-galerie-markthalle,拌牛筋,,,0,Kalte und warme Vorspeisen / 开胃菜
+chongqing-nudeln-mall-of-berlin,凉拌黄瓜,"5,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-mall-of-berlin,凉拌木耳,"5,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-mall-of-berlin,凉拌豆腐,"6,00 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-mall-of-berlin,五香牛肉,"7,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-mall-of-berlin,水饺,"8,50 €",,1,Dim Sum / 点心
+chongqing-nudeln-mall-of-berlin,红油抄手,"6,00 €",,1,Dim Sum / 点心
+chongqing-nudeln-mall-of-berlin,红油水饺,"6,00 €",,0,Dim Sum / 点心
+chongqing-nudeln-mall-of-berlin,锅贴,"7,00 €",,1,Dim Sum / 点心
+chongqing-nudeln-mall-of-berlin,包子,"7,00 €",,0,Dim Sum / 点心
+chongqing-nudeln-mall-of-berlin,葱油拌面,€8.00,,1,Spezial Nudeln / 特色小面
+chongqing-nudeln-mall-of-berlin,雪菜肉丝面,€13.00,,0,Spezial Nudeln / 特色小面
+chongqing-nudeln-mall-of-berlin,剁椒猪肉粉,€10.00,,1,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-mall-of-berlin,麻辣牛肉粉,€13.00,,1,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-mall-of-berlin,素粉,€10.00,,0,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-mall-of-berlin,火锅粉,€13.00,,0,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-mall-of-berlin,肉臊担担面,€10.00,,1,Dandan Nudeln / 担担面
+chongqing-nudeln-mall-of-berlin,素担担面,€10.00,,0,Dandan Nudeln / 担担面
+chongqing-nudeln-mall-of-berlin,牛腩面,€13.00,,1,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-mall-of-berlin,肉臊面,€10.00,,0,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-mall-of-berlin,酸菜面,€10.00,,0,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-mall-of-berlin,牛肉面,€13.00,,1,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-schmargendorf,凉拌黄瓜,"5,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-schmargendorf,凉拌木耳,"5,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-schmargendorf,凉拌豆腐,"6,00 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-schmargendorf,五香牛肉,"7,50 €",,0,Vorspeisen / 前餐
+chongqing-nudeln-schmargendorf,水饺,"8,50 €",,1,Dim Sum / 点心
+chongqing-nudeln-schmargendorf,红油抄手,"6,00 €",,1,Dim Sum / 点心
+chongqing-nudeln-schmargendorf,红油水饺,"6,00 €",,0,Dim Sum / 点心
+chongqing-nudeln-schmargendorf,锅贴,"7,00 €",,1,Dim Sum / 点心
+chongqing-nudeln-schmargendorf,包子,"7,00 €",,0,Dim Sum / 点心
+chongqing-nudeln-schmargendorf,葱油拌面,€8.00,,1,Spezial Nudeln / 特色小面
+chongqing-nudeln-schmargendorf,雪菜肉丝面,€13.00,,0,Spezial Nudeln / 特色小面
+chongqing-nudeln-schmargendorf,剁椒猪肉粉,€10.00,,1,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-schmargendorf,麻辣牛肉粉,€13.00,,1,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-schmargendorf,素粉,€10.00,,0,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-schmargendorf,火锅粉,€13.00,,0,Hunan Reisnudeln / 湖南米粉
+chongqing-nudeln-schmargendorf,肉臊担担面,€10.00,,1,Dandan Nudeln / 担担面
+chongqing-nudeln-schmargendorf,素担担面,€10.00,,0,Dandan Nudeln / 担担面
+chongqing-nudeln-schmargendorf,牛腩面,€13.00,,1,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-schmargendorf,肉臊面,€10.00,,0,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-schmargendorf,酸菜面,€10.00,,0,Chongqing Nudeln / 重庆小面
+chongqing-nudeln-schmargendorf,牛肉面,€13.00,,1,Chongqing Nudeln / 重庆小面
+chuan-garden,红油水饺,,辣,1,
+chuan-garden,虾饺,,,0,
+chuan-garden,烤鸭卷,,,0,
+chuan-garden,煎饺子,,,1,
+chuan-garden,蔬菜包,,,0,
+chuan-garden,自贡冷吃兔,,重辣,1,
+chuan-garden,青城山凉拌鸡,,辣,0,
+chuan-garden,夫妻肺片,,辣,1,
+chuan-garden,红油猪耳,,辣,0,
+chuan-garden,蒜泥白肉,,辣,0,
+chuan-garden,韭菜拌豆干,,,0,
+chuan-garden,凉拌海蜇,,,0,
+chuan-garden,麻辣兔头,,重辣,0,
+chuan-garden,脆皮烤鸭,,,1,
+chuan-garden,歌乐山辣子鸡,,重辣,1,
+chuan-garden,仔姜鲜锅兔,,辣,1,
+chuan-garden,自贡鲜椒鱼,,重辣,1,
+chuan-garden,水煮牛肉,,重辣,1,
+chuan-garden,酸菜鱼,,辣,1,
+chuan-garden,清蒸鲈鱼,,,1,
+chuan-garden,香菜牛肉,,辣,1,
+chuan-garden,青椒回锅肉,,辣,1,
+chuan-garden,鱼香肉丝,,辣,1,
+chuan-garden,宫保鸡丁,,辣,1,
+chuan-garden,麻婆豆腐,,重辣,1,
+chuan-garden,麻辣豆腐,,重辣,0,
+chuan-garden,宜宾燃面,,辣,1,
+chuan-garden,担担面,,辣,1,
+chuan-garden,风味茄子,,辣,0,
+chuan-garden,蒜蓉空心菜,,,0,
+chuan-house,蒜泥白肉,,辣,0,前菜
+chuan-house,小笼包,,,1,
+chuan-house,虾饺,,,0,
+chuan-house,牛肉水饺,,,0,
+chuan-house,素煎饺,,,0,
+chuan-house,牛肉锅贴,,,1,
+chuan-house,素水饺,,,0,
+chuan-house,鸭包,,,0,
+chuan-house,红油抄手,,辣,1,
+chuan-house,担担面,,辣,1,
+chuan-house,宫保鸡丁,,辣,1,
+chuan-house,黑椒鸡柳,,辣,0,
+chuan-house,辣子鸡,,重辣,1,
+chuan-house,鱼香肉丝,,辣,1,
+chuan-house,京酱肉丝,,,0,
+chuan-house,水煮肉片,,重辣,1,
+chuan-house,回锅肉,,辣,1,
+chuan-house,红烧肉,,,1,
+chuan-house,椒盐排骨,,辣,0,
+chuan-house,黑椒牛柳,,辣,1,
+chuan-house,水煮牛,,重辣,1,
+chuan-house,麻婆豆腐有牛肉,,重辣,1,
+chuan-house,椒盐鱼条,,辣,0,
+chuan-house,水煮鱼,,重辣,1,
+chuan-house,椒盐虾,,辣,1,
+chuan-house,宫保虾,,辣,1,
+chuan-house,鱼香茄子,,辣,1,素菜
+chuan-house,西芹炒香干,,,0,素菜
+chuan-house,宫保素鸡丁,,辣,0,素菜
+chuan-house,麻婆豆腐,,重辣,1,素菜
+chuan-house,家常豆腐,,,0,素菜
+chuan-house,蒜蓉空心菜,,,0,素菜
+chuwoo,嵊州小笼包,,,1,
+chuwoo,豆腐粉丝蔬菜包,,,1,
+chuwoo,糯米烧卖,,,1,
+chuwoo,五花肉刈包,,,1,
+chuwoo,牛肉刈包,,,1,
+chuwoo,素鸡刈包,,,1,
+chuwoo,担担面,,辣,1,
+chuwoo,油泼面,,辣,1,
+chuwoo,麻婆豆腐面,,辣,1,
+chuwoo,葱油面,,,1,
+chuwoo,热干面,,,1,
+chuwoo,葱烤大排面,,,1,
+chuwoo,肥肠面,,辣,1,
+chuwoo,素鸡面,,,1,
+chuwoo,番茄鸡蛋面,,,1,
+chuwoo,卤肉饭,,,1,
+chuwoo,猪脚饭,,,1,
+do-de-li,红油猪肉抄手,,辣,1,前菜
+do-de-li,红油鲜虾抄手,,辣,1,前菜
+do-de-li,宫保鸡丁,,辣,1,
+do-de-li,青豆蒜香五花肉,,辣,1,
+do-de-li,竹笋蘑菇牛肉,,辣,1,
+do-de-li,麻婆豆腐,,辣,1,
+do-de-li,番茄蘑菇豆腐,,辣,1,
+do-de-li,蒜香肉末茄子,,辣,1,
+do-de-li,肉末豆角茄子,,,1,
+do-de-li,素麻婆豆腐,,辣,1,
+do-de-li,蒜蓉烧茄子,,辣,1,
+do-de-li,海鲜过桥米线,,,1,
+do-de-li,三鲜过桥米线,,,1,
+do-de-li,火辣过桥米线,,辣,1,
+do-de-li,素过桥米线,,,1,
+do-de-li,牛肉米线,,辣,1,
+do-de-li,牛肉面,,辣,1,
+do-de-li,土鸡米线,,,1,
+do-de-li,烤五花肉汤面,,,1,
+donghailou-restaurant,北京烤鸭,,,1,
+donghailou-restaurant,素饺子,,,1,
+donghailou-restaurant,虾饺,,,1,
+donghailou-restaurant,烧卖,,,1,
+donghailou-restaurant,小笼包,,,1,
+donghailou-restaurant,牛肉饺子,,,1,
+donghailou-restaurant,川味牛肉水饺,,辣,1,
+donghailou-restaurant,牛肉煎饺,,,1,
+donghailou-restaurant,鸡爪,,,0,
+donghailou-restaurant,甜酸脆皮鸭,,,0,
+donghailou-restaurant,四川烤鸭,,辣,0,
+donghailou-restaurant,烤鸭大虾,,,0,
+donghailou-restaurant,东海楼半只烤鸭,,,0,
+donghailou-restaurant,烤鸭煲,,辣,0,
+donghailou-restaurant,橙汁烤鸭,,,0,
+donghailou-restaurant,脆皮鸭,,,1,
+donghailou-restaurant,鸡肉芦笋,,,0,
+donghailou-restaurant,脆皮鸭芦笋,,,0,
+donghailou-restaurant,大虾芦笋,,,0,
+donghailou-restaurant,鱼香肉丝,,辣,1,
+donghailou-restaurant,甜酸炸猪柳,,,0,
+donghailou-restaurant,黑椒牛肉,,辣,0,
+donghailou-restaurant,四川牛肉,,重辣,1,
+donghailou-restaurant,豉汁鱿鱼,,辣,1,
+donghailou-restaurant,四川三文鱼,,辣,0,
+donghailou-restaurant,甜酸三文鱼,,,0,
+donghailou-restaurant,橙汁三文鱼,,,0,
+donghailou-restaurant,时蔬三文鱼,,,0,
+dot-tea-bar,茶香饺子,,,1,
+dot-tea-bar,重庆酸辣粉,,辣,1,
+dot-tea-bar,糟辣椒白菜粉丝炖豆腐,,辣,1,
+dot-tea-bar,酸汤米粉,,辣,1,
+dot-tea-bar,凉点面,,,1,
+dot-tea-bar,茶香丸子,,,1,
+dot-tea-bar,茶香排骨,,,1,
+dot-tea-bar,茶香双椒鸡,,辣,1,
+dschunke,红油水饺,,辣,1,
+dschunke,龙抄手,,辣,0,
+dschunke,担担面,,辣,1,
+dschunke,四川凉面,,,0,
+dschunke,口水鸡,,辣,1,
+dschunke,夫妻肺片,,辣,1,
+dschunke,宫保鸡丁,,辣,1,
+dschunke,辣子鸡丁,,辣,0,
+dschunke,帆船红烧肉,,,1,
+dschunke,泡椒鱼片,,辣,0,
+dschunke,水煮鱼,,辣,1,
+dschunke,泡椒酸菜鱼,,辣,1,
+dschunke,水煮肉片,,辣,0,
+dschunke,回锅肉,,辣,1,
+dschunke,水煮牛肉,,辣,1,
+dschunke,麻婆豆腐,,辣,1,
+dschunke,鱼香茄子,,辣,1,
+dschunke,干煸四季豆,,辣,1,
+dschunke,小笼包,,,1,
+dschunke,点心拼盘,,,0,
+dschunke,虾麦,,,0,
+dschunke,锅贴,,,0,
+dschunke,虾饺,,,0,
+dschunke,豆沙包,,,0,
+dschunke,叉烧包,,,0,
+dschunke,椒盐大虾,,辣,0,
+dschunke,孜然牛肉,,辣,0,
+dschunke,八宝鸭,,,0,
+dschunke,香酥鸭,,,1,
+dschunke,香港鸭,,,0,
+dschunke,上海鸭,,辣,0,
+dschunke,北京烤鸭,,,1,
+dschunke,四川火锅,,辣,1,
+duftk-che,Honighaehnchenbaellchen,,,1,
+duftk-che,Taiwanischer geschmorter Schweinebauch,,,1,
+duftk-che,Chinesisch gebratene Ente,,,0,
+duftk-che,Gebratenes Tofu mit Gemuese,,,0,
+duftk-che,Sushi Box,,,0,
+dump-ling,牛肉汤面,,,1,
+dump-ling,拌面,,辣,1,
+dump-ling,重庆小面,,辣,1,
+dump-ling,麻酱面,,,1,
+dump-ling,小笼包,,,1,
+dump-ling,素煎饺,,,1,
+dump-ling,猪肉煎饺,,,1,
+dump-ling,牛肉煎饺,,,1,
+dump-ling,鸡肉煎饺,,,1,
+dump-ling,猪肉水饺,,,1,
+dump-ling,牛肉水饺,,,1,
+dump-ling,鸡肉水饺,,,1,
+dump-ling,红油馄饨,,辣,1,
+dump-ling,虾肉锅贴,,,1,
+dump-ling,素包子,,,1,
+dump-ling,猪肉包,,,1,
+dump-ling,豆沙包,,,0,
+dumplings-nian,猪肉白菜水饺,,,1,
+dumplings-nian,三鲜水饺,,,1,
+dumplings-nian,鸡肉豆角水饺,,,1,
+dumplings-nian,猪肉白菜煎饺,,,1,
+dumplings-nian,三鲜煎饺,,,1,
+dumplings-nian,鸡肉豆角煎饺,,,1,
+dumplings-nian,猪肉包子,,,1,
+dumplings-nian,素菜包子,,,1,
+dumplings-nian,馄饨汤,,,0,
+dumplings-nian,鱼香茄条,,辣,0,
+dumplings-nian,咖喱鸡块,,,0,
+dumplings-nian,甜香鸡翅,,,0,
+dumplings-nian,锅仔宫保鸡,,辣,1,
+dumplings-nian,香锅鸡块,,,0,
+dumplings-nian,焦熘肉段,,,1,
+dumplings-nian,鲜香排骨锅,,,1,
+dumplings-nian,红烧肉烧土豆,,,1,
+dumplings-nian,锅包肉,,,1,
+dumplings-nian,番茄牛腩,,,0,
+dumplings-nian,水煮牛肉,,辣,0,
+dumplings-nian,西兰花牛肉,,,0,
+dumplings-nian,洋葱牛肉,,,0,
+dumplings-nian,甜酸鸭,,,1,
+dumplings-nian,杂菜鸭,,,0,
+dumplings-nian,香锅鸭,,辣,0,
+dumplings-nian,宫保大虾,,辣,0,
+dumplings-nian,茄汁爆大虾,,,0,
+dumplings-nian,香辣海鲜锅,,辣,0,
+dumplings-nian,香锅鱿鱼,,辣,0,
+dumplings-nian,水煮鱼,,辣,0,
+dumplings-nian,香锅鱼块,,辣,0,
+dumplings-nian,清蒸鲈鱼,,,0,
+dumplings-nian,红烧豆腐,,辣,0,
+dumplings-nian,香锅花菜,,辣,0,
+dumplings-nian,麻婆豆腐,,辣,1,
+dumplings-nian,芝麻球,,,0,
+dumplings-nian,奶黄包,,,0,
+en-lee-cai,兰花鸡,,,0,
+en-lee-cai,什菜鸡肉,,,0,
+en-lee-cai,炸鸡甜酸,,,1,
+en-lee-cai,什菜炸鸡,,,1,
+en-lee-cai,什菜炸鸭,,,1,
+en-lee-cai,炸鸭甜酸,,,1,
+en-lee-cai,什菜炸猪,,,0,
+en-lee-cai,炸猪甜酸,,,0,
+en-lee-cai,什菜牛,,,0,
+en-lee-cai,兰花牛,,,0,
+en-lee-cai,西兰花虾,,,0,
+en-lee-cai,炸大虾甜酸,,,0,
+en-lee-cai,麻婆豆腐,,辣,1,
+en-lee-cai,虾仁豆腐,,,0,
+en-lee-cai,鱼香茄子,,辣,1,
+en-lee-cai,红油豆腐,,辣,0,
+en-lee-cai,素茄子,,,0,
+evergreen,鸡肉杂碎,,,0,
+evergreen,芒果鸡,,,0,
+evergreen,蔬菜脆皮鸡,,,0,
+evergreen,甜酸脆皮鸡,,,1,
+evergreen,宫保鸡丁,,辣,1,
+evergreen,咖喱脆皮鸭,,辣,0,
+evergreen,鸭肉杂碎,,,0,
+evergreen,广东脆皮鸭,,,1,
+evergreen,上海鸭,,,1,
+evergreen,甜酸鸭,,,1,
+evergreen,猪肉杂碎,,,0,
+evergreen,冬菇笋片猪肉,,,0,
+evergreen,木耳粉丝猪肉,,,0,
+evergreen,咕咾肉,,,1,
+evergreen,双炸猪肉,,辣,0,
+evergreen,牛肉杂碎,,,0,
+evergreen,洋葱牛肉,,,0,
+evergreen,日本牛肉,,,0,
+evergreen,四川牛肉,,辣,1,
+evergreen,麻婆豆腐,,辣,1,
+evergreen,杂菜虾,,,0,
+evergreen,炸大虾,,,0,
+evergreen,宫保大虾,,辣,1,
+evergreen,宫保鱼柳,,辣,0,
+evergreen,炸鱼柳,,,0,
+evergreen,蔬菜豆腐,,,0,
+f-f-bistro,梅渍树番茄,,,0,
+f-f-bistro,山城狼牙土豆,,辣,1,
+f-f-bistro,鲜炸野生菌菇,,辣,1,
+f-f-bistro,千丝番椒炸黄鱼,,辣,1,
+f-f-bistro,金沙咸蛋黄鸡翅,,,1,
+f-f-bistro,老奶洋芋粑粑,,,0,
+f-f-bistro,滇西空气豆腐丸子,,辣,0,
+f-f-bistro,咸蛋黄四季豆,,辣,1,
+f-f-bistro,酸菜土豆片,,辣,0,
+f-f-bistro,干辣椒呛炒时蔬,,辣,0,
+f-f-bistro,毛辣果酸汤 牛上脑 / 鱼,,辣,1,
+f-f-bistro,毛辣果酸甜鸡,,辣,1,
+f-f-bistro,铜锅油焖鸡,,重辣,1,
+f-f-bistro,歌乐山辣子鸡,,重辣,1,
+f-f-bistro,薄荷炸排骨,,辣,1,
+f-f-bistro,黔贵干煸牛脆脆,,辣,1,
+f-f-bistro,黑三剁,,辣,1,
+f-f-bistro,滇南辣炒虾,,重辣,1,
+f-f-bistro,玉米包谷粑,,,0,
+f-f-bistro,千层酥小米鲊,,,0,
+f-f-bistro,傣味小锅米线·荤,,辣,1,主食 / Rice and noodles
+feast,鲜肉大煎饺,,,1,
+feast,素煎饺,,,0,
+feast,四喜大煎饺,,,1,
+feast,虾饺,,,0,
+feast,点心拼盘,,,0,
+feast,烤鸭卷,,,1,
+feast,青田大饼,,,1,
+feast,青田山粉饺,,,1,
+feast,炒青田山粉饺,,,0,
+feast,青田山粉饺汤,,,0,
+feast,香辣牛杂,,辣,0,
+feast,口水鸡,,辣,1,
+feast,白斩鸡,,,0,
+feast,五香牛舌,,,0,
+feast,红油去骨凤爪,,辣,0,
+feast,牛肉炒河粉,,,0,
+feast,腊肉炒米粉,,,0,
+feast,老王拌面,,,0,
+feast,红烧牛腩面,,,0,
+feast,蟹炒年糕,,,0,
+feast,海鲜豆腐煲,,,0,
+feast,椒盐大虾,,辣,0,
+feast,宫保大虾,,辣,1,
+feast,清蒸小鲈鱼,,,0,
+feast,水煮鱼,,辣,1,
+feast,酸菜鱼,,辣,0,
+feast,宫保鸡丁,,辣,1,
+feast,蔬菜炸鸡,,,0,
+feast,甜酸炸鸡,,,0,
+feast,小炒辣子鸡,,辣,1,
+feast,八宝鸭,,,0,
+feast,烤鸭,,,0,
+feast,糖醋鸭,,,0,
+feast,水煮牛肉,,辣,1,
+feast,酸汤肥牛,,辣,0,
+feast,西兰花炒牛肉,,,0,
+feast,蚝油牛肉,,,0,
+feast,洋葱牛肉,,,0,
+feast,孜然羊腿,,辣,0,
+feast,孜然香菜羊肉,,辣,0,
+feast,红烧肉,,,0,
+feast,回锅肉,,辣,1,
+feast,糖醋里脊,,,0,
+feast,鱼香肉丝,,辣,0,
+feast,荷兰豆腊肉,,,0,
+feast,麻婆豆腐,,辣,0,
+feast,鲜蔬豆腐,,,0,
+feast,香干炒芹菜,,,0,
+feast,黑椒豆腐,,,0,
+feast,宫保素鸡,,辣,0,素菜
+feast,南瓜金饼,,,0,
+feast,豆沙麻球,,,0,
+feng-yuan,小笼包,,,1,
+feng-yuan,虾饺,,,0,
+feng-yuan,鸡肉蒸饺,,,0,
+feng-yuan,烧卖,,,0,
+feng-yuan,锅贴,,,1,
+feng-yuan,甜酸炸鸡,,,1,
+feng-yuan,四川炸鸡,,辣,0,
+feng-yuan,冬菇笋片鸡,,,0,
+feng-yuan,蔬菜炸鸡,,,0,
+feng-yuan,鱼香鸡肉,,辣,0,
+feng-yuan,木耳粉丝鸡,,,0,
+feng-yuan,双炸鸡,,辣,0,
+feng-yuan,黑椒脆皮鸭,,辣,1,
+feng-yuan,大虾脆皮鸭,,,0,
+feng-yuan,四川脆皮鸭,,辣,0,
+feng-yuan,蔬菜脆皮鸭,,,1,
+feng-yuan,甜酸脆皮鸭,,,1,
+feng-yuan,泰式炒鸭,,辣,0,
+feng-yuan,双炸猪肉,,辣,0,
+feng-yuan,鱼香肉丝,,辣,1,
+feng-yuan,冬菇笋片猪肉,,,0,
+feng-yuan,甜酸猪肉,,,0,
+feng-yuan,回锅肉,,辣,1,
+feng-yuan,双炸牛肉,,辣,0,
+feng-yuan,鱼香牛肉,,辣,0,
+feng-yuan,日本牛肉,,,0,
+feng-yuan,冬菇笋片牛肉,,,0,
+feng-yuan,洋葱牛肉,,,0,
+feng-yuan,蔬菜牛肉,,,0,
+feng-yuan,宫保大虾,,辣,1,
+feng-yuan,炒大虾,,辣,0,
+feng-yuan,辣汁大虾,,辣,0,
+feng-yuan,虾串,,,0,
+feng-yuan,甜酸鱼柳,,,0,
+feng-yuan,辣汁鱼柳,,辣,0,
+feng-yuan,蔬菜鱼柳,,,0,
+feng-yuan,八宝鸭,,,1,
+feng-yuan,海鲜锅,,,1,
+feng-yuan,豆腐锅,,,0,
+feng-yuan,什锦火锅,,,0,
+feng-yuan,蔬菜豆腐,,,0,素菜
+feng-yuan,香辣炒豆腐,,辣,0,素菜
+fu-duo,鸡杂烩,,,0,
+fu-duo,菠萝甜酸鸡,,,1,
+fu-duo,鱼香鸡,,辣,0,
+fu-duo,辣椒笋尖鸡,,辣,0,
+fu-duo,冬菇笋尖鸡,,,0,
+fu-duo,芦笋蘑菇鸡,,,0,
+fu-duo,咖喱鸡,,,0,
+fu-duo,木耳粉丝鸡,,,0,
+fu-duo,什菜炸鸡,,,0,
+fu-duo,豆豉蒜蓉鸡,,辣,0,
+fu-duo,菠萝甜酸鸡片,,,0,
+fu-duo,麻辣鸡片,,辣,0,
+fu-duo,八宝鸡,,辣,0,
+fu-duo,辣椒笋尖炸猪,,辣,0,
+fu-duo,回锅肉,,辣,1,
+fu-duo,猪杂烩,,,0,
+fu-duo,咕老肉,,,1,
+fu-duo,洋葱肉片,,,0,
+fu-duo,辣椒笋尖肉片,,辣,0,
+fu-duo,冬菇笋尖肉片,,,0,
+fu-duo,芦笋蘑菇肉片,,,0,
+fu-duo,木耳粉丝肉片,,,0,
+fu-duo,牛杂烩,,,0,
+fu-duo,豆豉蒜蓉牛,,辣,0,
+fu-duo,洋葱牛肉,,,0,
+fu-duo,辣椒笋尖牛肉,,辣,0,
+fu-duo,冬菇笋尖牛肉,,,0,
+fu-duo,芦笋蘑菇牛肉,,,0,
+fu-duo,木耳粉丝牛肉,,,0,
+fu-li-lai,夫妻肺片,,辣,1,
+fu-li-lai,麻辣牛肚,,辣,0,
+fu-li-lai,红油牛肉,,辣,0,
+fu-li-lai,豉汁凤爪,,辣,0,
+fu-li-lai,东北大拉皮,,辣,0,
+fu-li-lai,陕西凉皮,,辣,0,
+fu-li-lai,红油抄手,,辣,0,
+fu-li-lai,肉夹馍,,,0,
+fu-li-lai,包子,,,0,
+fu-li-lai,虾饺,,,0,
+fu-li-lai,饺子,,,0,
+fu-li-lai,馄饨汤,,,0,
+fu-li-lai,西安羊肉泡馍,,,0,
+fu-li-lai,炸酱面,,,0,
+fu-li-lai,油泼辣子面,,辣,1,
+fu-li-lai,西红柿鸡蛋面,,,0,
+fu-li-lai,牛肉汤面,,,0,
+fu-li-lai,羊肉汤面,,,0,
+fu-li-lai,西安臊子面,,,0,
+fu-li-lai,榨菜肉丝面,,,0,
+fu-li-lai,雪菜肉丝面,,,0,
+fu-li-lai,肥肠面,,,0,
+fu-li-lai,水煮牛肉,,辣,1,
+fu-li-lai,麻辣牛肉,,辣,0,
+fu-li-lai,宫保牛肉,,辣,0,
+fu-li-lai,蚝油牛肉,,,0,
+fu-li-lai,酸汤肥牛,,辣,0,
+fu-li-lai,锅包肉,,,0,
+fu-li-lai,湖南红烧肉,,辣,0,
+fu-li-lai,毛血旺,,辣,1,
+fu-li-lai,尖椒炒肥肠,,辣,0,
+fu-li-lai,香辣猪腰,,辣,0,
+fu-li-lai,香菜辣炒肉丝,,辣,0,
+fu-li-lai,尖椒土豆五花肉,,辣,0,
+fu-li-lai,红烧排骨,,,0,
+fu-li-lai,鱼香茄子煲,,辣,1,
+fu-li-lai,酸豆角肉末,,,0,
+fu-li-lai,宫保鸡丁,,辣,1,
+fu-li-lai,辣子鸡丁,,辣,1,
+fu-li-lai,杂菜炸鸡,,,0,
+fu-li-lai,酸甜炸鸡,,,0,
+fu-li-lai,杂菜烤鸭,,,0,
+fu-li-lai,酸甜烤鸭,,,0,
+fu-li-lai,八宝鸭,,,0,
+fu-li-lai,孜然羊肉,,辣,0,
+fu-li-lai,香辣羊蝎子,,辣,0,
+fu-li-lai,香辣羊排,,辣,0,
+fu-li-lai,椒盐大虾,,辣,0,
+fu-li-lai,杂菜大虾,,,0,
+fu-li-lai,宫保大虾,,辣,1,
+fu-li-lai,虾仁豆腐煲,,,0,
+fu-li-lai,清蒸鱼,,,0,
+fu-li-lai,炸黄鱼,,,0,
+fu-li-lai,水煮鱼,,辣,1,
+fu-li-lai,糖醋鱼,,,0,
+fu-li-lai,豆豉鱿鱼仔,,,0,
+fu-li-lai,麻婆豆腐,,辣,1,
+fu-li-lai,地三鲜,,,0,
+fu-li-lai,干煸豆角,,辣,0,
+fu-li-lai,南瓜饼,,,0,
+fu-li-lai,炸麻团,,,0,
+gaststaette-suedpol,虾仁蒸饺,,,1,
+gaststaette-suedpol,虾仁煎饺,,,1,
+gaststaette-suedpol,韭菜虾仁煎饺,,,0,
+gaststaette-suedpol,素煎饺,,,0,
+gaststaette-suedpol,烧卖,,,1,
+gaststaette-suedpol,炸馄饨,,,0,
+gaststaette-suedpol,辣酱章鱼,,辣,0,
+gaststaette-suedpol,豆豉五花肉,,,0,
+gaststaette-suedpol,五香肘子,,,0,
+gaststaette-suedpol,杂菜脆皮鸭,,,1,
+gaststaette-suedpol,蘑菇四季豆炒鸡,,,1,
+gaststaette-suedpol,羊肉抓饭,,,1,
+gaststaette-suedpol,芝麻球,,,0,
+gaststaette-suedpol,黑芝麻包,,,0,
+goji,虾饺,,,1,
+goji,烧卖,,,1,
+goji,小笼包,,,1,
+goji,蔬菜饺子,,,0,
+goji,叉烧包,,,1,
+goji,蔬菜包,,,0,
+goji,豆沙包,,,0,
+goji,莲蓉包,,,0,
+goji,流沙包,,,1,
+goji,猪肉饺子,,,0,
+goji,萝卜糕,,,1,
+goji,糯米鸡,,,1,
+goji,鲜竹牛肉球,,,1,
+goji,豉汁蒸凤爪,,,1,
+goji,豉汁蒸排骨,,,1,
+goji,牛肉肠粉,,,1,
+goji,云吞汤,,,0,
+goji,麻婆豆腐,,辣,0,
+goji,日本牛肉,,,0,
+goji,豆豉虾,,,0,
+goji,云吞汤面,,,1,
+goji,干炒牛河,,,1,
+goji,广东炸鸡,,,0,
+goji,广东炸鸭,,,0,
+goji,咖喱炸鸡,,,0,
+goji,咖喱炸鸭,,,0,
+goji,甜酸炸鸡,,,0,
+goji,甜酸炸鸭,,,0,
+goji,宫保豆腐,,辣,0,
+goji,宫保鸡肉,,辣,0,
+golden-garden,时蔬杂菜,,,0,
+golden-garden,宫保虾,,辣味,1,
+golden-garden,四川牛肉,,辣味,1,
+golden-garden,红咖喱脆皮鸭,,辣味,1,
+golden-garden,腰果鸡片,,辣味,1,
+golden-garden,什菜炸鸡,,,1,
+golden-garden,咖喱鸡,,辣味,1,
+golden-garden,菠萝甜酸脆皮鸡,,,0,
+golden-garden,鸡肉杂碎,,,0,
+golden-garden,双烤鸡,,辣味,0,
+golden-garden,招牌猪肉粉丝煲,,,0,
+golden-garden,蒜香辣猪肉,,辣味,0,
+golden-garden,猪肉杂碎,,,0,
+golden-garden,双烤猪肉,,辣味,0,
+golden-garden,印度咖喱牛肉,,辣味,1,
+good-aroma,红油抄手,,辣味,1,前菜
+good-aroma,素菜三鲜蒸饺,,,1,
+good-aroma,牛肉蒸饺,,,1,
+good-aroma,小笼包,,,1,
+good-aroma,叉烧包,,,1,
+good-aroma,鲜虾饺,,,1,
+good-aroma,五花肉刈包,,,1,
+good-aroma,牛肉刈包,,,1,
+good-aroma,香酥鸭刈包,,,1,
+good-aroma,香酥鸡刈包,,,1,
+good-aroma,豆腐刈包,,,0,
+good-aroma,鸡肉汤面,,,1,
+good-aroma,清汤牛肉面,,,1,
+good-aroma,红烧牛肉面,,,1,
+good-aroma,红烧豆腐汤面,,,0,
+good-aroma,鸡肉拌面,,辣味,1,
+good-aroma,牛腩拌面,,辣味,1,
+good-aroma,卤肉拌面,,辣味,1,
+good-aroma,香酥鸡拌面,,辣味,1,
+good-aroma,香酥鸭拌面,,辣味,1,
+good-aroma,双茄拌面,,辣味,0,
+good-aroma,红烧豆腐拌面,,辣味,0,
+good-aroma,卤肉饭,,,1,
+good-aroma,红烧豆腐盖饭,,,0,
+good-friends,北京烤鸭（配薄饼）,,,1,前菜
+good-friends,蒜泥凤爪,,,0,前菜
+good-friends,烧鸭,,,1,
+good-friends,烧鸡,,,0,
+good-friends,猪肉云吞面,,,0,
+good-friends,鲜虾云吞面,,,0,
+good-friends,红烧牛肉面,,,1,
+good-friends,烧鸭汤面,,,0,
+good-friends,叉烧汤面,,,0,
+good-friends,烧肉汤面,,,0,
+good-friends,干炒牛河,,,1,
+good-friends,海鲜煲,,,0,
+good-friends,虾仁茄子煲,,,0,
+good-friends,豆豉牛肉,,,0,
+good-friends,姜葱牛肉,,,0,
+good-friends,西兰花牛肉,,,1,
+good-friends,麻婆豆腐,,辣味,0,
+good-friends,烧肉,,,0,
+good-friends,叉烧,,,0,
+good-friends,腰果鸡丁,,,1,
+good-friends,宫保鸡丁,,辣味,1,
+good-friends,清蒸鲈鱼,,,0,
+good-friends,白灼虾,,,0,
+good-friends,蒜蓉粉丝蒸大虾,,,0,
+good-friends,什锦虾球,,,0,
+good-friends,椒盐大虾,,辣味,0,
+good-friends,蔬菜豆腐,,,0,
+good-friends,蚝油牛肉,,,0,
+good-friends,素什锦,,,0,
+good-friends,通菜,,,0,
+good-friends,上海青,,,0,
+good-friends,时菜带子,,,0,
+good-friends,日本牛肉,,,0,
+good-friends,爆炒鱿鱼,,,0,
+good-friends,鸡肉杂碎,,,0,
+good-friends,豉汁鱿鱼,,,0,
+good-friends,虾饺,,,1,
+good-friends,烧卖,,,1,
+good-friends,粉果,,,1,
+good-friends,豉汁牛肚,,,0,
+good-friends,小笼包,,,1,
+good-friends,素菜包,,,0,
+good-friends,莲蓉包,,,0,
+good-friends,叉烧包,,,0,
+good-friends,豉汁凤爪,,,0,
+green-flavor,红油馄饨,,辣味,0,前菜
+green-flavor,五香牛肉,,,0,前菜
+green-flavor,小笼包,,,1,
+green-flavor,烧卖,,,1,
+green-flavor,三鲜白饺,,,1,
+green-flavor,猪肉黄饺,,,1,
+green-flavor,牛肉黑饺,,,1,
+green-flavor,羊肉红饺,,,1,
+green-flavor,蔬菜绿饺,,,1,
+green-flavor,虾饺,,,1,
+green-flavor,山芋饺,,,1,
+green-flavor,地三鲜,,,0,
+green-flavor,干锅辣子鸡肉,,辣味,1,
+green-flavor,酸菜鱼,,辣味,1,
+green-flavor,红烧排骨,,,1,
+green-flavor,清蒸鱼,,,1,
+han-bites-ktv,羊肉串,,,1,
+han-bites-ktv,牛肉串,,,1,
+han-bites-ktv,鸡翅,,,1,
+han-bites-ktv,牛肚串,,,0,
+han-bites-ktv,羊排,,,1,
+han-bites-ktv,鸡爪,,辣味,0,
+han-bites-ktv,烤大虾,,,1,
+han-bites-ktv,蒜蓉粉丝扇贝,,,1,
+han-bites-ktv,烤鱿鱼,,,1,
+han-bites-ktv,蒜蓉生蚝,,,0,
+han-bites-ktv,烤茄子,,,0,
+han-bites-ktv,烤韭菜,,,0,
+han-bites-ktv,烟熏豆腐,,,0,
+han-bites-ktv,口水鸡,,辣味,0,
+han-bites-ktv,牛肉面,,,1,
+han-bites-ktv,南昌炒粉,,辣味,1,
+han-bites-ktv,牛肉炒河粉,,,1,
+han-bites-ktv,大盘鸡,,,1,
+han-bites-ktv,孜然羊肉,,,1,
+han-bites-ktv,麻婆豆腐,,辣味,1,
+han-bites-ktv,风味茄子,,,1,
+han-bites-ktv,手撕包菜,,,0,
+han-bites-ktv,鲜虾馄饨汤,,,0,
+han-bites-ktv,黑椒羊排,,,1,
+han-bites-ktv,香辣鱿鱼卷,,辣味,1,
+happy-buddha,北京烤鸭,,,1,
+happy-buddha,姜汁鸭,"22,80 €",,1,
+happy-buddha,香辣鸭,,辣味,1,
+happy-buddha,左宗棠猪肉,"17,80 €",辣味,1,
+happy-buddha,纽约左宗棠猪肉,"17,80 €",辣味,1,
+happy-buddha,罗汉斋,"16,00 €",,0,
+happy-buddha,翡翠素菜盘,,,0,
+happy-buddha,香酥鸭,"22,80 €",,1,
+happy-buddha,红咖喱香酥鸭,"23,50 €",辣味,1,
+happy-buddha,京式香酥鸭,"23,80 €",,1,
+happy-buddha,XO酱香酥鸭,"26,80 €",辣味,0,
+happy-buddha,甜酸香酥鸭,"22,80 €",,0,
+happy-buddha,百宝香酥鸭,"29,80 €",,0,
+happy-buddha,马萨曼咖喱鸭,"23,50 €",,0,
+happy-buddha,橙芒香酥鸭,"23,00 €",,0,
+happy-buddha,猪肉杂碎,"16,00 €",,0,
+happy-buddha,猪肉寿喜烧,"17,50 €",,0,
+happy-buddha,香辣脆皮猪,"17,80 €",辣味,0,
+happy-buddha,红咖喱猪肉,"17,80 €",辣味,0,
+happy-buddha,宫保猪肉,"18,00 €",辣味,0,
+happy-buddha,豆豉猪肉,"17,50 €",辣味,0,
+happy-buddha,香辣鸡,"18,50 €",辣味,0,
+happy-buddha,鸡肉寿喜烧,"17,50 €",,0,
+happy-buddha,西兰花鸡,"16,50 €",,0,
+happy-buddha,蔬菜炸鸡,,,0,
+happy-buddha,甜酸炸鸡,,,0,
+happy-buddha,左宗棠鸡,"17,80 €",辣味,0,
+happy-buddha,纽约左宗棠鸡,"17,80 €",辣味,0,
+happy-buddha,红咖喱鸡,"17,80 €",辣味,0,
+happy-buddha,红咖喱脆皮鸡,,辣味,0,
+happy-buddha,宫保鸡丁,"18,50 €",辣味,0,
+happy-buddha,照烧鸡,"18,00 €",,0,
+happy-buddha,豆豉鸡,"18,00 €",辣味,0,
+happy-buddha,橙芒鸡,"17,80 €",,0,
+happy-buddha,马萨曼咖喱鸡,"18,50 €",,0,
+happy-buddha,牛肉杂碎,"18,00 €",,0,
+happy-buddha,日本牛肉,"18,50 €",,0,
+happy-buddha,西兰花牛肉,"18,50 €",,0,
+happy-buddha,香辣脆皮牛肉,"19,50 €",辣味,0,
+happy-buddha,姜葱牛肉,"19,00 €",,0,
+happy-buddha,香辣牛肉,"20,80 €",辣味,0,
+happy-buddha,纽约左宗棠牛肉,"18,80 €",辣味,0,
+happy-buddha,豆豉牛肉,"18,50 €",辣味,0,
+happy-buddha,上海鸭,"20,50 €",,0,
+happy-buddha,鸭肉寿喜烧,"21,00 €",,0,
+happy-buddha,虾仁鸭,"24,80 €",,0,
+happy-buddha,港式鸭,"20,00 €",,0,
+happy-buddha,甜酸鸭,"22,80 €",,0,
+happy-buddha,红咖喱鸭,"22,00 €",辣味,0,
+happy-buddha,宫保鸭,"22,80 €",辣味,0,
+happy-buddha,橙芒鸭,"21,50 €",,0,
+happy-buddha,杂菜虾,"22,80 €",,0,
+happy-buddha,红咖喱大虾,"23,80 €",辣味,0,
+happy-buddha,宫保大虾,"24,80 €",辣味,0,
+happy-buddha,姜葱大虾,"23,80 €",,0,
+happy-buddha,XO酱大虾,"25,80 €",辣味,0,
+happy-buddha,豆豉大虾,"25,80 €",辣味,0,
+happy-buddha,蒜蓉大虾,"23,80 €",,0,
+happy-buddha,炒三鲜,"22,50 €",,0,
+happy-panda,鸡肉杂碎,,,1,
+happy-panda,冬菇粉丝鸡,,,1,
+happy-panda,四川鸡,,辣味,1,
+happy-panda,红咖喱鸡,,辣味,1,
+happy-panda,花生酱鸡,,,1,
+happy-panda,杂菜炸鸡,,,1,
+happy-panda,甜酸炸鸡,,,0,
+happy-panda,香辣脆皮鸡,,辣味,0,
+happy-panda,八宝脆皮鸡,,辣味,0,
+happy-panda,牛肉杂碎,,,0,
+happy-panda,日本牛肉,,,0,
+happy-panda,洋葱牛肉,,,0,
+happy-panda,孜然牛肉,,辣味,0,
+happy-panda,四川牛肉,,辣味,0,
+happy-panda,红咖喱牛肉,,辣味,0,
+happy-panda,杂菜香酥鸭,,,0,
+happy-panda,甜酸鸭,,,0,
+happy-panda,香辣脆皮鸭,,辣味,0,
+happy-panda,冬菇粉丝鸭,,,0,
+happy-panda,虾仁香酥鸭,,,0,
+happy-panda,八宝香酥鸭,,辣味,0,
+happy-panda,辣椒竹笋香酥鸭,,辣味,0,
+happy-panda,红咖喱香酥鸭,,辣味,0,
+happy-panda,花生酱香酥鸭,,,0,
+happy-panda,杂菜虾,,,0,
+happy-panda,冬菇粉丝虾,,,0,
+happy-panda,四川虾,,辣味,0,
+happy-panda,咖喱虾,,辣味,0,
+happy-panda,麻辣鸡,,辣味,1,
+happy-panda,水煮牛肉,,辣味,1,
+happy-panda,炒三鲜,,,0,
+happy-panda,三鲜炒三菇,,,0,
+happy-panda,香辣三鲜煲,,辣味,0,
+happy-panda,铁板八宝脆皮鸡,,,0,
+happy-panda,铁板脆皮鸡,,,0,
+happy-panda,铁板鸡肉,,,0,
+happy-panda,铁板牛肉,,,0,
+happy-panda,铁板香辣鸭,,,0,
+happy-panda-tempelhof,脆皮鸡手工宽面,€12.90,,1,
+happy-panda-tempelhof,豆腐手工宽面,€12.50,,0,
+happy-panda-tempelhof,牛肉手工宽面,€13.90,,1,
+happy-panda-tempelhof,五花肉手工宽面,€12.90,,0,
+happy-panda-tempelhof,脆皮鸭手工宽面,€14.90,,0,
+happy-panda-tempelhof,蔬菜手工宽面,€10.90,,0,
+happy-panda-tempelhof,鸡肉饺子,,,1,
+happy-panda-tempelhof,素饺子,,,0,
+happy-panda-tempelhof,牛肉饺子,,,0,
+happy-panda-tempelhof,猪肉小笼包,,,1,
+happy-panda-tempelhof,北京鸭卷,,,0,
+happy-panda-tempelhof,酸辣红油馄饨,,,1,
+happy-panda-tempelhof,猪肉馄饨汤,,,0,
+happy-panda-tempelhof,五花肉刈包,,,1,
+happy-panda-tempelhof,牛肉刈包,,,0,
+happy-panda-tempelhof,鸡肉刈包,,,0,
+happy-panda-tempelhof,豆腐刈包,,,0,
+happy-panda-tempelhof,卤肉饭,,,1,
+happy-panda-tempelhof,豆腐盖饭,,,0,
+happy-panda-tempelhof,炸芝麻球,,,0,
+hee-lam-mun,虾仁猪肉鸡肉炒蔬菜,,,1,
+hee-lam-mun,辣咖喱三鲜炒面,,辣味,1,
+hee-lam-mun,三鲜香酥鸭,,,1,
+hee-lam-mun,炒三鲜,,,1,
+hee-lam-mun,虾仁煎鸭,,,1,
+hee-lam-mun,雀巢宫保三鲜,,辣味,1,
+hee-lam-mun,茄汁脆皮大虾,,辣味,1,
+hee-lam-mun,甜酸炸大虾,,,0,
+hee-lam-mun,牛肉杂菜,,,0,
+hee-lam-mun,咖喱牛肉,,,0,
+hee-lam-mun,四川牛肉,,辣味,0,
+hee-lam-mun,日本牛肉,,,0,
+hee-lam-mun,麻婆豆腐,,辣味,1,
+hee-lam-mun,鸡肉杂菜,,,0,
+hee-lam-mun,咖喱鸡,,,0,
+hee-lam-mun,糖醋鸡,,,0,
+hee-lam-mun,腰果鸡丁,,,0,
+hee-lam-mun,四川鸡,,辣味,0,
+hee-lam-mun,芒果鸡,,,0,
+hee-lam-mun,蔬菜鸭,,,0,
+hee-lam-mun,香辣脆皮鸭,,辣味,0,
+hee-lam-mun,上海鸭,,,0,
+hee-lam-mun,港式鸭,,,0,
+hee-lam-mun,广东鸭,,,0,
+hee-lam-mun,豆豉鸭,,辣味,0,
+hee-lam-mun,杂菜虾,,,0,
+hee-lam-mun,蚝油虾,,,0,
+hee-lam-mun,四川虾,,辣味,0,
+hee-lam-mun,咖喱鱼柳,,,0,
+hee-lam-mun,蔬菜鱼柳,,,0,
+hee-lam-mun,糖醋炸鱼柳,,,0,
+hey-cheuk-lau,Tontopf Meeresfruechte,,,1,
+hey-cheuk-lau,Sauerscharfe Entensuppe,,,0,
+hey-cheuk-lau,Gurkensalat mit Chili und Knoblauch,,辣,0,
+hey-cheuk-lau,Tofu mit Sichuan-Pfeffer,,辣,0,
+hi-chili,凉拌手撕鸡,,辣味,1,
+hi-chili,现炸酥肉,,,1,
+hi-chili,粉蒸牛肉,,辣味,1,
+hi-chili,钟水饺,,辣味,1,
+hi-chili,红油素饺,,辣味,0,
+hi-chili,甜水面,,辣味,1,
+hi-chili,香炸豆腐,,辣味,1,
+hi-chili,红糖糍粑,,,0,
+hi-chili,豌杂面,,,1,
+hi-chili,豌豆豆腐面,,,1,
+hi-chili,泡椒牛肉面,,辣味,1,
+hi-chili,糖醋茄子面,,,1,
+hi-chili,鸡汤抄手,,,1,
+hi-chili,红汤抄手,,辣味,1,
+holly,口水鸡,,辣味,1,
+holly,红油猪耳,,辣味,1,
+holly,剔骨猪脚,,,0,
+holly,红油肚丝,,辣味,0,
+holly,手工凉粉,,辣味,0,
+holly,夫妻肺片,,辣味,1,
+holly,香辣牛筋,,辣味,0,
+holly,蜀香回锅肉,,辣味,1,
+holly,酸豆角肉末,,,0,
+holly,湘味小炒肉,,辣味,0,
+holly,椒盐排骨,,,0,
+holly,尖椒溜肥肠,,辣味,0,
+holly,糖醋排骨,,,0,
+holly,毛氏红烧肉,,,0,
+holly,宫保鸡丁,,辣味,0,
+holly,五香烧鸡,,,0,
+holly,金汤酿丸,,,0,
+holly,地锅鸡,,,0,
+holly,香酥鸭,,辣味,0,
+holly,甜酸炸鸭,,,0,
+holly,酱鸭,,,0,
+holly,湘味小炒牛肉,,辣味,0,
+holly,水煮牛肉,,,1,
+holly,金汤肥牛,,辣味,0,
+holly,孜然羊肉,,辣味,0,
+holly,羊排锅,,,0,
+holly,牛排锅,,,0,
+holly,酸菜鱼,,辣味,1,
+holly,宫保虾仁,,辣味,0,
+holly,野生烤鱼,,辣味,0,
+holly,醋溜大白菜,,,0,
+holly,麻婆豆腐,,辣味,0,
+holly,鸡蛋豆腐,,辣味,0,
+holly,干锅手撕包菜,,辣味,0,
+holly,干煸四季豆,,辣味,0,
+holly,鱼香茄子,,辣味,1,
+holly,地三鲜,,,0,
+holly,时令蔬菜,,,0,
+holly,肉夹馍（牛）,,,0,
+holly,肉夹馍（猪）,,,0,
+holly,素菜夹馍,,,0,
+holly,元宝手工肉/素煎饺,,,1,
+hot-spot,红油抄手,,辣味,1,前菜
+hot-spot,葱油海蜇,,,1,前菜
+hot-spot,上海熏鱼,,,1,前菜
+hot-spot,棒棒鸡,,辣味,0,前菜
+hot-spot,孜然羊肉串,,辣味,0,前菜
+hot-spot,鱼香肉丝,,辣味,0,
+hot-spot,鱼香茄子,,辣味,0,
+hot-spot,京酱肉丝,,,0,
+hot-spot,糖醋排骨,,,0,
+hot-spot,红烧肉,,,0,
+hot-spot,红烧狮子头,,,0,
+hot-spot,盐煎肉,,辣味,0,
+hot-spot,麻婆豆腐,,,1,
+hot-spot,孜然牛肉,,,0,
+hot-spot,水煮牛肉,,,1,
+hot-spot,牛肉炒三丝,,,0,
+hot-spot,沙茶牛肉,,,0,
+hot-spot,炝炒西兰牛,,辣味,0,
+hot-spot,洋葱牛肉,,,0,
+hot-spot,香菜牛肉,,,0,
+hot-spot,牛肉锅巴,,辣味,0,
+hot-spot,葱爆羊肉,,,0,
+hot-spot,孜然羊肉,,,0,
+hot-spot,樟茶鸭,,,0,
+hot-spot,香酥鸭,,,1,
+hot-spot,回锅鸭,,辣味,0,
+hot-spot,咖喱鸡,,,0,
+hot-spot,酱爆鸡丁,,,0,
+hot-spot,老板子鸡,,,0,
+hot-spot,宫保鸡丁,,辣味,0,
+hot-spot,麻辣鸡片,,,0,
+hot-spot,干烧鱼脯,,辣味,0,
+hot-spot,水煮鱼片,,,0,
+hot-spot,宫保鱼片,,辣味,0,
+hot-spot,蒜蓉煎虾,,辣味,0,
+hot-spot,椒盐大虾,,辣味,0,
+hot-spot,麻辣大虾,,,0,
+hot-spot,宫保大虾,,辣味,0,
+hot-spot,豆豉鱿鱼,,辣味,0,
+hot-spot,麻辣鱿鱼,,,0,
+hot-spot,炒时蔬,,,0,
+hot-spot,麻辣炒素,,,0,
+hot-spot,干煸豆角,,,0,
+hot-spot,鲜蘑青菜,,,0,
+hot-spot,甜酸藕片,,,0,
+hot-spot,素麻婆豆腐,,,0,
+hot-spot,素宫保鸡丁,,辣味,0,
+hot-spot,素鱼香茄子,,辣味,0,
+hot-spot,担担面,,,1,
+hot-spot,姜葱龙虾,,辣味,0,
+hot-spot,孜然羊肘,,辣味,0,
+hot-spot,清蒸鲈鱼,,,0,
+hot-spot,啤酒鸭,,辣味,0,
+hot-spot,墨鱼烧肉,,,0,
+hot-spot,北京鸭,,,1,
+hot-spot,汤圆,,,0,
+hot-spot,炸麻球,,,0,
+hotpot-nudeln,麻辣烫热锅面,,,1,
+hotpot-nudeln,馄饨汤,,,1,
+hotpot-nudeln,牛肉面,,,1,
+hotpot-nudeln,鸡肉汤面,,,1,
+hotpot-nudeln,海鲜汤面,,,1,
+hotpot-nudeln,时蔬汤面,,,0,
+hotpot-nudeln,炒面,,,0,
+hotpot-nudeln,微辣汤面,,,0,
+hotpot-nudeln,烧麦,,,0,
+hotpot-nudeln,虾饺,,,0,
+hotpot-nudeln,包子,,,0,
+hotpot-nudeln,小笼包,,,0,
+hotpot-nudeln,酸辣米线,,辣味,0,
+hotpot-nudeln,重庆小面,,辣味,1,
+hotpot-nudeln,炸酱面,€12.90,,1,
+hotpot-nudeln,担担面,,,1,
+hotpot-nudeln,猪肉白菜饺子,,,0,
+hotpot-nudeln,三鲜饺子,,,0,
+hotpot-nudeln,鸡肉四季豆饺子,,,0,
+hotpot-nudeln,牛肉胡萝卜饺子,,,0,
+hotpot-nudeln,素三鲜饺子,,,0,
+hou-tang-hotpot,全锅,,,1,
+hou-tang-hotpot,鸳鸯锅,,,1,
+hou-tang-hotpot,三宫格,,,1,
+hou-tang-hotpot,酸菜豆花,,,1,
+hou-tang-hotpot,有料番茄,,,1,
+hou-tang-hotpot,骨汤,,,1,
+hou-tang-hotpot,干花菜,,,1,
+hou-tang-hotpot,18秒嫩牛肉,,,1,
+hou-tang-hotpot,大刀腰片,,,1,
+howhow,虾饺,,,1,
+howhow,猪肉蒸饺,,,1,
+howhow,小笼包,,,1,
+howhow,牛肉蒸饺,,,1,
+howhow,饺子,,,1,
+howhow,脆皮烤五花肉,,,1,
+howhow,蜜汁烤猪颈肉,,,1,
+howhow,炒三鲜,,辣味,0,
+howhow,椒盐大虾,,辣味,0,
+howhow,清蒸鲈鱼,,,0,
+howhow,清蒸鲷鱼,,,0,
+howhow,芝麻鸡,,,0,
+howhow,八宝鸭,,,0,
+howhow,豆豉鱿鱼,,,0,
+howhow,招牌猪肉,,辣味,0,
+howhow,回锅肉,,辣味,0,
+howhow,咕咾肉,,,0,
+howhow,茄子竹笋豆角猪肉,,辣味,0,
+howhow,洋葱牛肉,,,0,
+howhow,日本牛肉,,,0,
+howhow,宫保牛肉,,,0,
+howhow,豆豉牛肉,,,0,
+howhow,红咖喱牛肉,,辣味,0,
+howhow,宫保鸡丁,,,0,
+howhow,四川鸡,,辣味,0,
+howhow,红咖喱鸡,,辣味,0,
+howhow,广东脆皮鸭,,,0,
+howhow,上海鸭,,,0,
+howhow,宫保鸭,,,0,
+howhow,甜酸鸭,,,0,
+howhow,上海虾仁鸭,,,0,
+howhow,招牌鸭,,辣味,0,
+howhow,红咖喱脆皮鸭,,,0,
+howhow,杂菜虾,,,0,
+howhow,四川虾,,辣味,0,
+howhow,炸大虾,,,0,
+howhow,四川炸鱼,,辣味,0,
+howhow,蔬菜豆腐,,,0,
+howhow,蒜蓉小白菜,,,0,
+howhow,北京鸭,,,1,
+hua-li-du,虾饺,,,1,
+hua-li-du,烧卖,,,1,
+hua-li-du,小笼包,,,1,
+hua-li-du,豆沙包,,,1,
+hua-li-du,糯米鸡,,,1,
+hua-li-du,宫保鸡丁,,辣味,1,
+hua-li-du,八宝辣酱,,辣味,0,
+hua-li-du,四川羊肉,,辣味,0,
+hua-li-du,沙茶大虾,,辣味,0,
+hua-li-du,麻婆豆腐,,辣味,1,
+hua-li-du,三鲜豆腐,,辣味,0,
+hua-li-du,炸大虾,,,0,
+hua-li-du,四川大虾,,辣味,0,
+hua-li-du,宫保大虾,,辣味,1,
+hua-li-du,牛肉杂碎,,,0,
+hua-li-du,洋葱竹笋牛肉,,辣味,0,
+hua-li-du,日本牛肉,,,0,
+hua-li-du,四川牛肉,,辣味,0,
+hua-li-du,蘑菇芦笋牛肉,,,0,
+hua-li-du,豆豉牛肉,,辣味,0,
+hua-li-du,上海鸡,,,1,
+hua-li-du,咖喱鸡,,,0,
+hua-li-du,甜酸脆皮鸡,,,0,
+hua-li-du,四川鸡,,辣味,0,
+hua-li-du,西兰花鸡,,辣味,0,
+hua-li-du,广东脆皮鸭,,,0,
+hua-li-du,上海鸭,,,1,
+hua-li-du,甜酸菠萝脆皮鸭,,,0,
+hua-li-du,四川脆皮鸭,,辣味,0,
+hua-li-du,八宝鸭,,辣味,0,
+hua-li-du,大虾鸭,,,0,
+hua-li-du,炒什锦蔬菜,,,0,素菜
+hua-li-du,蔬菜豆腐,,,0,素菜
+hua-li-du,上海青,,,0,素菜
+hua-li-du,北京烤鸭,,,0,
+huating,猪肉杂碎,,,1,
+huating,洋葱猪肉,,,1,
+huating,宫保猪肉,,辣味,1,
+huating,豆芽猪肉,,,1,
+huating,甜酸菠萝猪肉,,,1,
+huating,蘑菇芦笋猪肉,,,1,
+huating,咖喱猪肉,,,0,
+huating,牛肉杂碎,,,0,
+huating,冬菇粉丝牛肉,,,0,
+huating,宫保牛肉,,辣味,0,
+huating,豆芽牛肉,,,0,
+huating,西兰花牛肉,,,0,
+huating,洋葱牛肉,,,0,
+huating,鸡肉杂碎,,,0,
+huating,蘑菇竹笋脆皮鸡,,,0,
+huating,宫保鸡丁,,辣味,0,
+huating,豆芽鸡肉,,,0,
+huating,甜酸脆皮鸡,,,0,
+huating,蘑菇芦笋鸡,,,0,
+huating,咖喱鸡,,,0,
+huating,豆芽脆皮鸭,,,0,
+huating,蔬菜脆皮鸭,,,0,
+huating,宫保鸭,,辣味,0,
+huating,冬菇竹笋脆皮鸭,,,0,
+huating,甜酸菠萝脆皮鸭,,,0,
+huating,上海鸭,,辣味,1,
+huating,大虾脆皮鸭,,,0,
+huating,杂菜虾,,,0,
+huating,双冬大虾,,,0,
+huating,宫保大虾,,辣味,0,
+huating,炸大虾,,,0,
+huating,咖喱虾,,,0,
+huating,蔬菜炸鱼柳,,,0,
+huating,甜酸菠萝炸鱼柳,,,0,
+huating,宫保炸鱼柳,,辣味,0,
+huating,咖喱鱼,,,0,
+huating,芦笋蘑菇炸鱼柳,,,0,
+huating,素什锦,,,0,
+huating,冬菇竹笋豆腐,,,0,
+huating,宫保素肉,,辣味,0,
+huating,铁板三鲜,,,1,
+huating,铁板脆皮鸭,,,0,
+huating,铁板脆皮鸡,,,0,
+huating,铁板八宝大虾,,辣味,0,
+huating,铁板牛肉,,,0,
+huating,八宝辣酱,,辣味,0,
+huating,甜酸炸鸡丁,,,0,
+huating,双炸牛肉,,,0,
+huating,双炸猪肉,,,0,
+huating,甜酸菠萝双炸猪肉,,,0,
+huating,三鲜,,,0,
+huating,麻婆豆腐,,辣味,0,
+hui-feng,烧卖,,,0,
+hui-feng,小笼包,,,1,
+hui-feng,锅贴,,,1,
+hui-feng,虾饺,,,1,
+hui-feng,生煎包,,,1,
+hui-feng,饺子,,,1,
+hui-feng,鸡肉杂碎,,,0,
+hui-feng,四川鸡片,,辣味,0,
+hui-feng,豆豉鸡片,,辣味,0,
+hui-feng,咖喱鸡,,,0,
+hui-feng,蔬菜脆皮鸡,,,0,
+hui-feng,甜酸菠萝脆皮鸡,,,0,
+hui-feng,麻辣鸡片,,辣味,1,
+hui-feng,八宝鸡片,,,0,
+hui-feng,鱼香肉丝,,辣味,1,
+hui-feng,回锅肉,,辣味,1,
+hui-feng,猪肉杂碎,,,0,
+hui-feng,咕咾肉,,,0,
+hui-feng,豆豉猪肉,,辣味,0,
+hui-feng,咖喱猪肉,,,0,
+hui-feng,牛肉杂碎,,,0,
+hui-feng,芽菜牛肉,,,0,
+hui-feng,洋葱牛肉,,,0,
+hui-feng,四川牛肉,,辣味,0,
+hui-feng,咖喱牛肉,,,0,
+hui-feng,日本牛肉粉丝,,,0,
+hui-feng,蘑菇芦笋脆皮鸭,,,0,
+hui-feng,甜酸菠萝脆皮鸭,,,0,
+hui-feng,芽菜脆皮鸭,,,0,
+hui-feng,招牌香酥鸭,,,0,
+hui-feng,鸭肉杂碎,,,0,
+hui-feng,辣椒竹笋脆皮鸭,,辣味,0,
+hui-feng,粉丝蔬菜鸭,,,0,
+hui-feng,八宝鸭,,,0,
+hui-feng,炸鱼柳杂碎,,,0,
+hui-feng,四川炸鱼柳,,辣味,0,
+hui-feng,甜酸菠萝炸鱼柳,,,0,
+hui-feng,招牌炸鱼柳,,,0,
+hui-feng,杂菜大虾,,,0,
+hui-feng,四川大虾,,辣味,0,
+hui-feng,甜酸菠萝炸大虾,,,0,
+hui-feng,茄汁洋葱大虾,,辣味,0,
+hui-feng,炒三鲜,,,0,
+hui-feng,京都猪排,,,0,
+hui-feng,麻婆豆腐,,辣味,1,
+hui-feng,铁板脆皮鸭,,,0,
+hui-feng,铁板大虾,,,0,
+hui-feng,北京烤鸭,,,0,
+hui-feng,素什锦,,,0,
+hui-feng,炒芽菜,,,0,
+hui-feng,麻辣豆腐,,辣味,1,
+hui-feng,蘑菇芦笋,,,0,
+jade-palast-charlottenburg,卤牛肉汤面,,,1,
+jade-palast-charlottenburg,卤豆腐面,,,1,
+jade-palast-charlottenburg,牛腩面,,,1,
+jade-palast-charlottenburg,红烧豆腐面,,,1,
+jade-palast-charlottenburg,酸菜鸡肉汤面,,,1,
+jade-palast-charlottenburg,担担面,,辣味,1,
+jade-palast-charlottenburg,油泼面,,辣味,1,
+jade-palast-charlottenburg,西红柿鸡蛋打卤面,,,1,
+jade-palast-charlottenburg,口水鸡,,辣味,1,前菜
+jade-palast-charlottenburg,醉鸡,,,1,前菜
+jade-palast-charlottenburg,虾仁煎饺,,,1,前菜
+jade-palast-charlottenburg,鸡肉煎饺,,,1,前菜
+jade-palast-fhain,葱油鸡,,,0,前菜
+jade-palast-fhain,口水鸡,,辣味,0,前菜
+jade-palast-fhain,北京鸭卷,,,0,前菜
+jade-palast-fhain,蛋黄包,,,1,
+jade-palast-fhain,香兰包,,,1,
+jade-palast-fhain,虾饺,,,1,
+jade-palast-fhain,烧卖,,,1,
+jade-palast-fhain,豆豉排骨,,,0,
+jade-palast-fhain,小笼包,,,1,
+jade-palast-fhain,蒸蛋,,,0,
+jade-palast-fhain,大虾蒸蛋,,,0,
+jade-palast-fhain,虾仁煎饺,,,1,
+jade-palast-fhain,鸡肉煎饺,,,1,
+jade-palast-fhain,猪肉煎饺,,,1,
+jade-palast-fhain,蔬菜煎饺,,,1,
+jade-palast-fhain,鱼香茄子,,辣味,0,
+jade-palast-fhain,炒菌类,,,0,
+jade-palast-fhain,麻婆豆腐,,辣味,0,
+jade-palast-fhain,宫保豆腐,,辣味,0,
+jade-palast-fhain,宫保鸡丁,,辣味,0,
+jade-palast-fhain,蔬菜炸鸡,,,0,
+jade-palast-fhain,咖喱炸鸡,,,0,
+jade-palast-fhain,小炒肉,,辣味,0,
+jade-palast-fhain,鱼香肉丝,,辣味,0,
+jade-palast-fhain,野山椒牛肉,,辣味,0,
+jade-palast-fhain,咖喱炸鸭,,,0,
+jade-palast-fhain,蔬菜炸鸭,,,0,
+jade-palast-fhain,甜酸鸭,,,0,
+jade-palast-fhain,甜酸鸡,,,0,
+jade-palast-fhain,卤牛肉汤面,,,1,
+jade-palast-fhain,卤豆腐面,,,0,
+jade-palast-fhain,牛腩面,,,1,
+jade-palast-fhain,红烧豆腐面,,,0,
+jade-palast-fhain,酸菜鸡肉汤面,,,0,
+jade-palast-fhain,担担面,,辣味,0,
+jade-palast-fhain,油泼面,,辣味,0,
+jade-palast-fhain,西红柿鸡蛋打卤面,,,0,
+jade-palast-fhain,香芋汤圆,,,0,
+jade-palast-fhain,芝麻汤圆,,,0,
+jian-bing-town,香辣蘑菇素肉煎饼,,辣味,1,
+jian-bing-town,纯素豪华煎饼,,辣味,1,
+jian-bing-town,肉食系煎饼,,,1,
+jian-bing-town,超级豪华煎饼,,辣味,1,
+jian-bing-town,传统天津煎饼,,,1,
+jian-bing-town,素三丝麻酱面,,辣味,1,
+jian-bing-town,鸡丝麻酱面,,辣味,1,
+jing-yang,夫妻肺片,,辣味,1,前菜
+jing-yang,口水鸡,,辣味,1,前菜
+jing-yang,红油猪耳,,辣味,0,前菜
+jing-yang,虾饺,,,0,
+jing-yang,猪肉烧卖,,,0,
+jing-yang,鸡肉烧卖,,,0,
+jing-yang,小笼包,,,1,
+jing-yang,素小笼包,,,0,
+jing-yang,梅干菜包,,,0,
+jing-yang,红油抄手,,辣味,1,面食小吃
+jing-yang,大碗馄饨,,,0,面食小吃
+jing-yang,水煎包,,,1,面食小吃
+jing-yang,锅贴,,,1,面食小吃
+jing-yang,酸汤饺子,,辣味,0,面食小吃
+jing-yang,卤肉饭,,,1,
+jing-yang,鱼香肉丝盖饭,,辣味,1,
+jing-yang,宫保鸡丁盖饭,,辣味,0,
+jing-yang,豆腐盖饭,,,0,
+jing-yang,酸辣粉,,辣味,1,
+jing-yang,葱油拌面,,,1,
+jing-yang,雪菜肉末拌面,,,0,
+jing-yang,牛肉面,,,0,
+jing-yang,鸡丁面,,,0,
+jing-yang,打卤面,,,0,
+jing-yang,番茄鸡蛋面,,,0,
+jing-yang,油泼面,,辣味,0,
+jing-yang,凉面,,,0,
+jing-yang,汤圆,,,0,
+jolly,北京鸭,,,1,
+jolly,火焰北京鸭,,,0,
+jolly,北京鸭小份,,,0,
+jolly,素饺子,,,0,
+jolly,虾饺,,,1,
+jolly,烧卖,,,1,
+jolly,小笼包,,,1,
+jolly,猪肉饺子,,,0,
+jolly,红油饺子,,辣味,0,
+jolly,锅贴,,,1,
+jolly,叉烧包,,,1,
+jolly,甜酸菠萝鸭,,,0,
+jolly,香酥鸭,,,1,
+jolly,大虾鸭,,,0,
+jolly,嘉乐烤鸭,,,0,
+jolly,什锦鸭煲,,,0,
+jolly,宫保鸡丁,,辣味,0,
+jolly,鱼香肉丝,,辣味,0,
+jolly,黑椒牛肉,,,1,
+jolly,水煮牛肉,,辣味,1,
+jolly,葱爆羊肉,,,1,
+jolly,孜然羊肉,,,0,
+jolly,麻婆豆腐,,辣味,0,
+jolly,素菜豆腐煲,,,0,
+juju-s-dumplings,四川辣素肉花生酱饺子,,辣味,1,
+juju-s-dumplings,四川辣牛肉花生酱饺子,,辣味,1,
+juju-s-dumplings,猪肉白菜大阪烧风饺子,,,1,
+juju-s-dumplings,大虾莎莎酱饺子,,,1,
+juju-s-dumplings,蘑菇松露饺子,,,1,
+juju-s-dumplings,猪肉松露饺子,,,1,
+juju-s-dumplings,红油猪肉馄饨,,辣味,1,
+juju-s-dumplings,红油素馄饨,,辣味,1,
+juju-s-dumplings,冬阴功干拌虾馄饨,,辣味,1,
+kaiser-drachen,回锅肉,,辣味,1,
+kaiser-drachen,冬菇竹笋脆皮鸭,,,1,
+kaiser-drachen,上海鸭,,,1,
+kaiser-drachen,冬菇粉丝牛肉,,,1,
+kaiser-drachen,四川牛肉,,辣味,1,
+kaiser-drachen,甜酸炸猪肉,,,1,
+kaiser-drachen,西兰花蒜蓉猪柳,,,1,
+kaiser-drachen,四川鸡片,,辣味,1,
+kaiser-drachen,上海脆皮鸡,,,1,
+kaiser-drachen,炸大虾,,,1,
+kaiser-drachen,咖喱炸鱼柳,,,1,
+kamala-vegan,素烧鸭,,,1,冷前餐/Kalte Vorspeise/Cold Starters
+kamala-vegan,红油水饺,,辣味,0,热前餐/Warme Vorspeise/ warm starters
+kamala-vegan,煎饺,,,1,热前餐/Warme Vorspeise/ warm starters
+kamala-vegan,糯米烧卖,"7,50 €",,0,热前餐/Warme Vorspeise/ warm starters
+kamala-vegan,包子,,,1,热前餐/Warme Vorspeise/ warm starters
+kamala-vegan,麻婆豆腐,,辣味,1,热菜/Hauptgang/Main
+kamala-vegan,宫保鸡丁,"21,90 €",辣味,1,热菜/Hauptgang/Main
+kamala-vegan,回锅五花肉,,辣味,1,热菜/Hauptgang/Main
+kamala-vegan,蚂蚁上树,"16,90 €",,0,热菜/Hauptgang/Main
+kamala-vegan,鱼香茄子,,辣味,1,热菜/Hauptgang/Main
+kamala-vegan,地三鲜,,,0,热菜/Hauptgang/Main
+kamala-vegan,蟠龙茄子,,辣味,1,热菜/Hauptgang/Main
+kamala-vegan,素炒蟹粉,,,0,热菜/Hauptgang/Main
+kamala-vegan,砂锅西葫芦杏鲍菇,,辣味,0,热菜/Hauptgang/Main
+kamala-vegan,干锅花菜,,辣味,0,热菜/Hauptgang/Main
+kamala-vegan,干锅香菌,,辣味,0,热菜/Hauptgang/Main
+kamala-vegan,红袍豆腐,,,0,热菜/Hauptgang/Main
+kamala-vegan,飘香莲藕,,辣味,0,热菜/Hauptgang/Main
+kamala-vegan,豆腐煲,,,1,热菜/Hauptgang/Main
+kamala-vegan,素虾荷兰豆,,,0,热菜/Hauptgang/Main
+kamala-vegan,黑椒素牛肉,,,1,热菜/Hauptgang/Main
+keyu-cafe,豆乳刨冰,,,1,
+keyu-cafe,抹茶刨冰,,,1,
+keyu-cafe,巧克力奥利奥刨冰,,,1,
+keyu-cafe,草莓刨冰,,,0,
+keyu-cafe,桃子刨冰,,,0,
+keyu-cafe,酸奶碗,,,0,
+keyu-cafe,鹰嘴豆泥三明治,,,0,
+keyu-cafe,烟熏三文鱼三明治,,,0,
+keyu-cafe,辣金枪鱼紫菜包饭,,,0,
+keyu-cafe,照烧鸡肉紫菜包饭,,,0,
+keyu-cafe,豆腐牛油果紫菜包饭,,,0,
+keyu-cafe,抹茶拿铁,,,0,
+keyu-cafe,冰抹茶拿铁,,,0,
+keyu-cafe,Dirty 抹茶,,,0,
+keyu-cafe,椰子抹茶,,,1,
+keyu-cafe,葡萄柚养乐多,,,0,
+keyu-cafe,肉桂莲花饼干拿铁,,,0,
+king-men,泡菜什锦肉,,辣味,1,
+king-men,蜜汁排骨,,,1,
+king-men,全家福火锅,,,1,
+king-men,三味炸鸭,,辣味,1,
+king-men,铁板牛肉,,辣味,1,
+king-men,八宝炸鸭,,辣味,1,
+king-men,三味牛肉,,辣味,1,
+king-men,双炸牛肉,,,1,
+king-men,干炒牛肉,,辣味,1,
+king-men,日本牛肉,,,1,
+king-men,干炒豆腐,,辣味,1,素菜
+king-men,素什锦,,,1,素菜
+kong-chinese-noodle-restaurant,狼牙土豆,,辣味,1,前菜
+kong-chinese-noodle-restaurant,口水鸡,,辣味,1,前菜
+kong-chinese-noodle-restaurant,钟水饺,,,1,
+kong-chinese-noodle-restaurant,麻辣饺子,,辣味,1,
+kong-chinese-noodle-restaurant,清汤饺子,,,1,
+kong-chinese-noodle-restaurant,麻婆豆腐面,€13.90,辣味,1,
+kong-chinese-noodle-restaurant,花生拌面,€13.90,,1,
+kong-chinese-noodle-restaurant,辣椒牛肉面,€14.90,辣味,1,
+kong-chinese-noodle-restaurant,青花椒米线,€13.90,辣味,1,
+kong-chinese-noodle-restaurant,红烧牛肉面,€14.90,,1,
+kong-chinese-noodle-restaurant,姜黄鸡肉面,€14.90,,1,
+kong-chinese-noodle-restaurant,甜辣拌面,€13.90,辣味,1,
+kong-chinese-noodle-restaurant,番茄鸡蛋面,€13.90,,1,
+kong-chinese-noodle-restaurant,空招牌酱面,,,1,
+kong-chinese-noodle-restaurant,酒酿丸子,,,1,
+kongfu-chili,柠檬虾,,辣味,1,
+kongfu-chili,串串,,辣味,1,
+kongfu-chili,二合一拌面,,辣味,1,
+kongfu-chili,茄子面,,,1,
+kongfu-chili,花生拌面,,,1,
+kongfu-chili,三合一面,€13.50,辣味,1,
+kongfu-chili,炸酱面,€13.50,,1,
+kongfu-chili,牛肉面,€13.50,,1,
+lala-noodle-of-sichuan,饺子,,辣味,1,
+lala-noodle-of-sichuan,素蒸饺,,,1,
+lala-noodle-of-sichuan,小笼包,,,1,
+lala-noodle-of-sichuan,卤排骨,,,0,
+lala-noodle-of-sichuan,油泼面,€12.90,辣味,1,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,五香豆腐面,€13.90,,1,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,担担面,€14.90,辣味,1,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,炸酱面,€14.90,辣味,1,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,酸菜肉丝面,€14.90,,1,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,麻辣棒棒鸡面,€15.90,辣味,0,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,沙茶牛肉面,€16.90,,0,手工拉面 / Hausgemachte Nudeln
+lala-noodle-of-sichuan,罗汉素汤面,€13.90,,0,汤面 / Nudelsuppe mit Hausgemachten Nudeln
+lala-noodle-of-sichuan,麻辣牛肉汤面,€17.90,辣味,1,汤面 / Nudelsuppe mit Hausgemachten Nudeln
+lala-noodle-of-sichuan,五香排骨卤面,€16.90,,0,汤面 / Nudelsuppe mit Hausgemachten Nudeln
+lala-noodle-of-sichuan,麻辣鸡肉小吃,,辣味,0,
+lala-noodle-of-sichuan,麻辣五花肉小吃,,辣味,0,
+lala-noodle-of-sichuan,麻辣排骨小吃,,辣味,0,
+lala-noodle-of-sichuan,麻辣牛肉小吃,,辣味,1,
+lala-noodle-of-sichuan,桂林米粉,,,1,桂林米粉 / Guilin Rice Noodles
+lala-noodle-of-sichuan,广西老友粉,,辣味,0,广西老友粉 / Old Friends Rice Noodles
+lala-noodle-of-sichuan,汤圆,,,0,
+lala-noodle-of-sichuan,麻糍,,,1,
+lanzhou-beef-noodles-charlottenburg,清汤牛肉面,,,1,
+lanzhou-beef-noodles-charlottenburg,口水鸡,,辣味,1,前餐 / Vorspeisen
+lanzhou-beef-noodles-charlottenburg,京拌茄子,,,1,前餐 / Vorspeisen
+lanzhou-beef-noodles-charlottenburg,牛肉饺子,,,1,前餐 / Vorspeisen
+lanzhou-beef-noodles-charlottenburg,潼关肉夹馍,,,1,前餐 / Vorspeisen
+lanzhou-beef-noodles-charlottenburg,茶叶蛋,,,1,前餐 / Vorspeisen
+lanzhou-beef-noodles-charlottenburg,红烧牛肉面,€14.80,,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,新疆大盘鸡面,€14.80,辣味,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,油泼面（炸豆腐）,€14.80,辣味,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,油泼面（红烧牛肉）,€14.80,辣味,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,担担面,,辣味,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,酸菜清汤牛肉面,,,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-charlottenburg,红烧牛仔骨面,,,1,面食 / Handgezogene Nudeln
+lanzhou-beef-noodles-fhain,口水鸡,,,1,前菜
+lanzhou-beef-noodles-fhain,京拌茄子,,,0,前菜
+lanzhou-beef-noodles-fhain,牛肉饺子,,,1,前菜
+lanzhou-beef-noodles-fhain,潼关肉夹馍,,,1,前菜
+lanzhou-beef-noodles-fhain,茶叶蛋,,,0,前菜
+lanzhou-beef-noodles-fhain,清汤牛肉面,,,1,
+lanzhou-beef-noodles-fhain,红烧牛肉面,,,1,
+lanzhou-beef-noodles-fhain,新疆大盘鸡面,,,1,
+lanzhou-beef-noodles-fhain,油泼面（炸豆腐）,,,1,
+lanzhou-beef-noodles-fhain,油泼面（红烧牛肉）,,,1,
+lanzhou-beef-noodles-fhain,担担面,,,1,
+lanzhou-beef-noodles-fhain,酸菜清汤牛肉面,,,1,
+lanzhou-beef-noodles-fhain,红烧牛仔骨面,,,1,
+lao-xiang,小笼包,,,1,
+lao-xiang,芝麻球,,,0,
+lao-xiang,手工牛肉丸,,,0,
+lao-xiang,炸虾饺,,,1,
+lao-xiang,叉烧包,,,1,
+lao-xiang,肠粉,,,1,
+lao-xiang,榴莲酥,,,0,
+lao-xiang,马蹄糕,,,0,
+lao-xiang,猪仔豆沙包,,,1,
+lao-xiang,鲜竹卷,,,0,
+lao-xiang,流沙包,,,1,
+lao-xiang,广东蛋挞,,,0,
+lao-xiang,黑椒蒸牛仔骨,,,0,
+lao-xiang,黑椒蒸猪肚,,,0,
+lao-xiang,特色韭菜牛肉春卷,,,0,
+lao-xiang,马拉糕,,,0,
+lao-xiang,潮州粉果,,,0,
+lao-xiang,腌皮红米肠,,,0,
+lao-xiang,糯米鸡,,,1,
+lao-xiang,椰丝香芝卷,,,0,
+lao-xiang,煎豆腐饺,,,1,
+lao-xiang,红油抄手,,,1,
+lao-xiang,醪糟丸子,,,0,
+lao-xiang,鲜虾粥,,,0,
+lao-xiang,艇仔粥,,,0,
+lao-xiang,皮蛋瘦肉粥,,,0,
+lao-xiang,口水鸡,,,1,
+lao-xiang,白切鸡,,,0,
+lao-xiang,夫妻肺片,,,1,
+lao-xiang,凉拌猪耳,,,0,
+lao-xiang,凉拌肚丝,,,0,
+lao-xiang,干锅酱椒嫩豆腐,,,0,
+lao-xiang,外婆家蒸蛋,,,0,
+lao-xiang,辣子炒香干,,,0,
+lao-xiang,家乡豆腐,,,0,
+lao-xiang,麻婆豆腐,,,1,
+lao-xiang,甜酸炸鸡,,,0,
+lao-xiang,宫爆鸡丁,,,0,
+lao-xiang,四川炸鸡,,,0,
+lao-xiang,家乡鸡脚王,,,0,
+lao-xiang,脆皮烧肉,,,0,
+lao-xiang,芹菜牛肉,,,0,
+lao-xiang,双炸牛肉,,,0,
+lao-xiang,孜然羊肉,,,0,
+lao-xiang,清蒸鲈鱼,,,0,
+lao-xiang,酸菜鱼,,,0,
+lecker-song,豆腐饺子,,,1,
+lecker-song,四季豆饺子,,,1,
+lecker-song,野菜饺子,,,1,
+lecker-song,土豆饺子,,,1,
+lecker-song,什锦包,,,1,
+lecker-song,素叉烧包,,,1,
+lecker-song,咖喱南瓜饺子,,,0,
+lecker-song,烧卖,,,1,
+lecker-song,猪肉白菜饺子,,,1,
+lecker-song,虾饺,,,1,
+lecker-song,鸡冠饺,,,1,
+lecker-song,黑牛肉饺子,,,0,
+lecker-song,三色饺子,,,0,
+lecker-song,小笼包,,,1,
+lecker-song,四季豆煎饺,,,0,
+lecker-song,野菜煎饺,,,0,
+lecker-song,土豆煎饺,,,0,
+lecker-song,黑牛肉煎饺,"9,90 €",,0,
+lecker-song,西葫芦煎饺,,,0,
+lecker-song,猪肉白菜煎饺,"9,90 €",,0,
+lecker-song,咖喱南瓜煎饺,,,0,
+lecker-song,豆腐煎饺,,,0,
+lecker-song,豆沙包,,,0,
+lecker-song,糯米糍,,,0,
+lecker-song,粽子,,,0,
+lecker-song,红油馄饨,,,1,
+lecker-song,红油饺子,,,0,
+lecker-song,甜辣成都面,,,0,
+lecker-song,北京炸酱面,,,0,
+lei-s-k-che,夫妻肺片,,,1,
+lei-s-k-che,口水鸡,,,1,
+lei-s-k-che,饺子,,,0,前菜
+lei-s-k-che,虾饺,,,0,前菜
+lei-s-k-che,烧卖,,,0,前菜
+lei-s-k-che,酸辣粉,,,0,
+lei-s-k-che,米线,,,0,
+lei-s-k-che,鱼香茄子,,,0,素菜
+lei-s-k-che,地三鲜,,,1,素菜
+lei-s-k-che,干煸豆角,,,0,素菜
+lei-s-k-che,麻婆豆腐,,,1,
+lei-s-k-che,宫保鸡丁,,,0,
+lei-s-k-che,辣椒炒肉,,,1,
+lei-s-k-che,蒜香椒盐排骨,,,0,
+lei-s-k-che,糖醋排骨,,,1,
+lei-s-k-che,红烧肉,,,0,
+lei-s-k-che,酸菜鱼,,,1,
+lei-s-k-che,干锅鸭,,,0,
+lei-s-k-che,汤圆,,,0,
+lei-s-k-che,手撕包菜,,,0,素菜
+lei-s-k-che,茄子煲,,,0,素菜
+lei-s-k-che,素食麻辣烫,,,0,素菜
+lei-s-k-che,黑椒鸡柳,,,0,
+lei-s-k-che,湖南辣子鸡,,,1,
+lei-s-k-che,鱼香双炸鸡,,,0,
+lei-s-k-che,香辣鸡胗,,,0,
+lei-s-k-che,鱼香肉丝,,,0,
+lei-s-k-che,鱼香双炸肉,,,0,
+lei-s-k-che,韭菜炒肉,,,0,
+lei-s-k-che,锅包肉,,,0,
+lei-s-k-che,水煮肉片,,,0,
+lei-s-k-che,小酥肉,,,0,
+lei-s-k-che,红烧金鲷鱼,,,0,
+lei-s-k-che,红烧黄花鱼,,,0,
+lei-s-k-che,水煮鱼,,,1,
+lei-s-k-che,毛氏火焙鱼,,,0,
+lei-s-k-che,金鲷鱼剁椒/清蒸,,,0,
+lei-s-k-che,茄汁鱼块,,,0,
+lei-s-k-che,日本豆腐,,,0,
+lei-s-k-che,海鲜豆腐煲,,,0,
+lei-s-k-che,干煸鱿鱼,,,0,
+lei-s-k-che,香辣小龙虾,,,1,
+lei-s-k-che,毛血旺,,,0,
+lei-s-k-che,火锅自助,,,0,
+lei-s-k-che,巫山烤鱼,,,0,
+lei-s-k-che,煎饺,,,0,前菜
+little-little-restaurant,盐酥鸡,,,1,前菜
+little-little-restaurant,炸虾,,,1,前菜
+little-little-restaurant,红油馄饨,,,1,前菜
+little-little-restaurant,小笼包,,,1,
+little-little-restaurant,虾饺,,,1,
+little-little-restaurant,素粉果,,,1,
+little-little-restaurant,三鲜饺子,,,1,
+little-little-restaurant,牛肉葱香饺子,,,1,
+little-little-restaurant,番茄牛肉饺子,,,1,
+little-little-restaurant,鸡肉玉米马蹄饺子,,,1,
+little-little-restaurant,猪肉豆角饺子,,,1,
+little-little-restaurant,酸菜猪肉饺子,,,1,
+little-little-restaurant,素饺子,,,1,
+little-little-restaurant,经典牛肉面,,,1,
+little-little-restaurant,炸酱面,,,1,
+little-little-restaurant,酸菜牛肉面,,,1,
+little-little-restaurant,炸鸡汤面,,,1,
+little-little-restaurant,大肉包,,,1,
+little-little-restaurant,素包子,,,1,
+little-little-restaurant,红糖糍粑,,,0,
+liu-nudelhaus,四川牛肉面,€15.00,,1,
+liu-nudelhaus,生椒牛肉面,€14.00,,1,
+liu-nudelhaus,四川杂酱面,€13.00,,1,
+liu-nudelhaus,素四川杂酱面,€14.00,,1,
+liu-nudelhaus,酸菜肉丝面,€13.00,,1,
+liu-nudelhaus,酸菜油豆腐面,€12.50,,1,
+liu-nudelhaus,酸辣粉,€13.00,,1,
+liu-nudelhaus,甜水面,€9.00,,1,
+liu-nudelhaus,凉面,,,1,
+liu-nudelhaus,香菇炖鸡面,€12.00,,1,
+liu-nudelhaus,香菇豆腐面,€11.50,,1,
+liu-nudelhaus,番茄鸡蛋面,€12.00,,1,
+liu-nudelhaus,番茄油豆腐面,€12.00,,0,
+liu-nudelhaus,老麻抄手,,,0,
+liu-nudelhaus,素老麻抄手,,,0,
+liu-nudelhaus,酸辣抄手,,,0,
+liu-nudelhaus,素酸辣抄手,,,0,
+liu-nudelhaus,龙抄手,,,0,
+liu-nudelhaus,钟水饺,,,0,
+liu-nudelhaus,素钟水饺,,,0,
+liu-nudelhaus,辣子鸡,,,0,
+liu-nudelhaus,麻辣藕片,,,0,
+liu-nudelhaus,辣卤油豆腐,,,0,
+liu-nudelhaus,香锅千层肚,,,0,
+liu-nudelhaus,铁板鱿鱼,,,0,
+liu-nudelhaus,麻辣鸡爪,,,0,
+lon-men-s-noodle-house,牛肉面,,,1,
+lon-men-s-noodle-house,鸡腿面,,,0,
+lon-men-s-noodle-house,蹄膀面,,,0,
+lon-men-s-noodle-house,馄饨面,,,1,
+lon-men-s-noodle-house,炸鸭面,,,0,
+lon-men-s-noodle-house,炸排骨面,,,0,
+lon-men-s-noodle-house,酸辣面,,,0,
+lon-men-s-noodle-house,牛肉粿条,,,0,
+lon-men-s-noodle-house,馄饨粿条,,,1,
+lon-men-s-noodle-house,新竹炒米粉,,,0,
+lon-men-s-noodle-house,牛肉炒米粉,,,0,
+lon-men-s-noodle-house,炸鸭炒米粉,,,0,
+lon-men-s-noodle-house,麻酱面,,,0,
+lon-men-s-noodle-house,炸鸭干面,,,0,
+lon-men-s-noodle-house,炸排骨干面,,,0,
+lon-men-s-noodle-house,香辣肉燥面,,,0,
+lon-men-s-noodle-house,牛肉干面,,,0,
+lon-men-s-noodle-house,红油馄饨面,,,1,
+lon-men-s-noodle-house,水饺,,,1,
+lon-men-s-noodle-house,锅贴,,,1,
+lon-men-s-noodle-house,素锅贴,,,1,
+lon-men-s-noodle-house,红油馄饨,,,1,
+lon-men-s-noodle-house,虾饺,,,1,
+lon-men-s-noodle-house,烧卖,,,1,
+lon-men-s-noodle-house,小笼包,,,1,
+lon-men-s-noodle-house,素笼包,,,1,
+lon-men-s-noodle-house,台式割包,,,0,
+lon-min,饺子,,,1,
+lon-min,宫保鸡丁,,,1,
+lon-min,椒盐虾,,,0,
+lon-min,水煮鱼,,,1,
+lon-min,水煮牛,,,1,
+lon-min,干炒鸭脯,,,0,
+lon-min,干炒鸡胗,,,0,
+lon-min,花椒鸡,,,0,
+lon-min,麻婆豆腐,,,1,
+lon-min,干煸四季豆,,,0,
+lon-min,回锅肉,,,1,
+lon-min,孜然鸡肉,,,0,
+lon-min,花生酱鸡胸,,,0,
+lon-min,北京鸭卷,,,0,
+lon-min,厨师面,,,0,
+lon-min,什锦牛肉,,,0,
+lon-min,黑椒牛肉,,,0,
+lon-min,虾仁脆皮鸭,,,0,
+lon-min,脆皮鸭,,,0,
+lon-min,厨师鸭,,,0,
+lon-min,鱼香茄子,,,0,素菜
+lon-min,厨师豆腐,,,0,素菜
+lon-min,素饺子,,,1,素菜
+lon-min,虾饺,,,1,
+lon-min,烧卖,,,1,
+lon-min,鸡冠饺,,,1,
+lon-min,锅贴,,,1,
+lon-min,水饺,,,1,
+lon-min,炸虾,,,0,
+long-li-house,甜酸炸豆腐,,,1,素菜
+long-li-house,咖喱炸豆腐,,,1,素菜
+long-li-house,炒白菜,,,0,素菜
+long-li-house,蔬菜豆腐粉丝,,,1,素菜
+long-li-house,川味素菜,,,0,素菜
+long-li-house,辣炒猪肉,,,0,
+long-li-house,回锅肉,,,1,
+long-li-house,川味猪肉,,,0,
+long-li-house,川味牛肉,,,1,
+long-li-house,辣炒牛肉,,,0,
+long-li-house,双炸牛肉,,,0,
+long-li-house,日本牛肉,,,0,
+long-li-house,炸鸡胸,,,1,
+long-li-house,蔬菜鸡肉,,,0,
+long-li-house,咖喱鸡,,,0,
+long-li-house,花生酱脆皮鸡,,,0,
+long-li-house,川味鸡肉,,,0,
+long-li-house,脆皮鸭,,,1,
+long-li-house,宝包鸭,,,0,
+long-li-house,脆皮鸭鸡双拼,,,0,
+long-li-house,红咖喱脆皮鸭,,,0,
+long-li-house,甜酸脆皮鸭,,,0,
+long-li-house,炒大虾,,,0,
+long-li-house,川味大虾,,,0,
+long-li-house,椒盐大虾,,,0,
+long-li-house,炒海鲜,,,1,
+long-li-house,姜葱鱼片,,,0,
+long-li-house,炸鱼片,,,0,
+long-li-house,铁板鱼片,,,0,
+long-li-house,脆皮鸭土豆,,,0,
+long-li-house,香辣脆皮鸡,,,0,
+long-li-house,春卷,,,0,
+long-li-house,夏卷,,,0,
+long-li-house,沙爹鸡肉串,,,0,
+long-li-house,炸馄饨,,,0,
+long-li-house,荔枝,,,0,
+long-li-house,芝麻球,,,0,
+long-march-canteen,辣味白萝卜,8 €,,0,凉菜
+long-march-canteen,凉拌黄瓜,8 €,,0,凉菜
+long-march-canteen,凉拌魔芋面,9 €,,0,凉菜
+long-march-canteen,姜醋蒸茄子,9 €,,1,凉菜
+long-march-canteen,皮蛋拌嫩豆腐,10 €,,0,凉菜
+long-march-canteen,香菜沙拉（虾米或核桃）,"9,5 €",,0,凉菜
+long-march-canteen,蒸秋葵配芥末蘸酱,10 €,,0,凉菜
+long-march-canteen,上海风味鲤鱼,14 €,,0,凉菜
+long-march-canteen,章鱼苤蓝沙拉,14 €,,0,凉菜
+long-march-canteen,金枪鱼刺身配甜菜根,22 €,,0,凉菜
+long-march-canteen,中式薄饼（烤牛肉或蔬菜）,14 €,,0,凉菜
+long-march-canteen,辣油花生鸡肉薄片,14 €,,0,凉菜
+long-march-canteen,辣油香菜烤牛肉薄片,15 €,,0,凉菜
+long-march-canteen,海盐毛豆,9 €,,0,蒸菜
+long-march-canteen,蒜香西兰花,10 €,,0,蒸菜
+long-march-canteen,上海青配蘑菇酱,10 €,,0,蒸菜
+long-march-canteen,芝麻酱蒸菠菜,11 €,,0,蒸菜
+long-march-canteen,黑虎虾配烟熏鳗鱼及鹌鹑蛋,16 €,,0,蒸菜
+long-march-canteen,传统风味茄子,12 €,,0,煮焖菜
+long-march-canteen,川味虾肉馄饨,12 €,,0,煮焖菜
+long-march-canteen,酱油蜂蜜排骨,16 €,,1,煮焖菜
+long-march-canteen,红烧五花肉配上海青,17 €,,0,煮焖菜
+long-march-canteen,泰式罗勒脆豆腐,12 €,,0,煎炸菜
+long-march-canteen,薯条配花椒蛋黄酱,9 €,,0,煎炸菜
+long-march-canteen,新加坡风味大虾,18 €,,0,煎炸菜
+long-march-canteen,鳕鱼条配蜜瓜,18 €,,0,煎炸菜
+long-march-canteen,鸡肉上海春卷,9 €,,0,煎炸菜
+long-march-canteen,素上海春卷,9 €,,0,煎炸菜
+long-march-canteen,牛肉马蹄春卷,14 €,,0,煎炸菜
+long-march-canteen,鹌鹑配柚子红酒蘸汁,17 €,,0,煎炸菜
+long-march-canteen,浙江风味鱿鱼串,14 €,,0,烧烤
+long-march-canteen,辣椒蒜香大虾串,14 €,,0,烧烤
+long-march-canteen,扇贝配嫩豆腐,16 €,,0,烧烤
+long-march-canteen,辣味脆培根,11 €,,0,烧烤
+long-march-canteen,鸡肉马蹄串,15 €,,0,烧烤
+long-march-canteen,黑椒阿根廷牛柳粒,22 €,,0,烧烤
+long-march-canteen,北京风味鸭胸配薄饼,24 €,,0,烧烤
+long-march-canteen,蔬菜蒸饺,10 €,,1,蒸点心
+long-march-canteen,红薯核桃蒸饺,10 €,,0,蒸点心
+long-march-canteen,虾饺,10 €,,1,蒸点心
+long-march-canteen,虾仁马蹄蒸饺,10 €,,0,蒸点心
+long-march-canteen,牛肉芹菜蒸饺,10 €,,0,蒸点心
+long-march-canteen,鸡肉罗勒蒸饺,10 €,,0,蒸点心
+long-march-canteen,羊肉蒸饺,10 €,,0,蒸点心
+long-march-canteen,上海汤包,10 €,,0,蒸点心
+long-march-canteen,三文鱼籽烧卖,10 €,,1,蒸点心
+long-march-canteen,猪肉蘑菇包,10 €,,0,蒸点心
+long-march-canteen,卷心菜豆腐包,10 €,,0,蒸点心
+long-march-canteen,蔬菜煎饺,10 €,,0,煎点心
+long-march-canteen,虾仁马蹄煎饺,10 €,,0,煎点心
+long-march-canteen,鸡肉罗勒煎饺,10 €,,0,煎点心
+long-march-canteen,鸭肉栗子无花果煎饺,10 €,,1,煎点心
+long-march-canteen,牛肉芹菜煎饺,10 €,,0,煎点心
+long-march-canteen,羊肉煎饺,10 €,,0,煎点心
+long-march-canteen,猪肉煎包,10 €,,0,煎点心
+long-march-canteen,脆香蕉甜点,10 €,,0,甜点
+long-march-canteen,巧克力榛子馅甜包,10 €,,0,甜点
+long-march-canteen,白巧克力百香果冻糕,9 €,,0,甜点
+long-march-canteen,姜味黑巧克力冻糕,9 €,,0,甜点
+long-march-canteen,时令果味雪葩,8 €,,0,甜点
+lu-kitchen-bikini,孜然包浆豆腐,,,1,前菜
+lu-kitchen-bikini,酥嫩宫保牛肉,,,1,
+lu-kitchen-bikini,宫保豆腐,,,1,
+lu-kitchen-bikini,黑椒鸡排,,,1,
+lu-kitchen-bikini,黑椒豆腐,,,1,
+lu-kitchen-bikini,黑椒牛肉,,,1,
+lu-kitchen-bikini,茄汁牛肉,,,1,
+lu-kitchen-bikini,炒时蔬,,,1,
+lu-kitchen-bikini,刈包牛肉,,,1,
+lu-kitchen-bikini,刈包鸡肉,,,1,
+lu-kitchen-bikini,刈包豆腐,,,1,
+lu-kitchen-bikini,刈包天妇罗虾,,,1,
+lu-kitchen-bikini,红油抄手,,,1,
+lu-kitchen-bikini,牛肉馅饼,,,1,
+lu-kitchen-bikini,酱香饼,,,1,
+lu-kitchen-fhain,红烧牛肉面,,,1,
+lu-kitchen-fhain,红烧菌菇面,,,1,
+lu-kitchen-fhain,北方炸酱面,,,1,
+lu-kitchen-fhain,麻酱拌面,,,1,
+lu-kitchen-fhain,桂花红烧肉,,,1,
+lu-kitchen-fhain,北京鸭饭,,,1,
+lu-kitchen-fhain,酥嫩宫保牛肉,,,1,
+lu-kitchen-fhain,宫保豆腐,,,1,
+lu-kitchen-fhain,黑椒豆腐,,,1,
+lu-kitchen-fhain,黑椒牛肉,,,1,
+lu-kitchen-fhain,北京鸭刈包,,,1,
+lu-kitchen-fhain,刈包牛肉,,,1,
+lu-kitchen-fhain,刈包鸡肉,,,1,
+lu-kitchen-fhain,刈包豆腐,,,1,
+lu-kitchen-fhain,刈包天妇罗虾,,,1,
+lu-kitchen-fhain,鸡肉烧卖,,,1,
+lu-kitchen-fhain,素蒸饺,,,1,
+lu-kitchen-fhain,牛肉蒸饺,,,1,
+lu-kitchen-fhain,猪肉蒸饺,,,1,
+lucky,炸馄饨,,,0,
+lucky,锅贴,,,0,
+lucky,烧卖,,,0,
+lucky,虾饺,,,0,
+lucky,宫保鸡丁,,辣味,1,
+lucky,宫保猪肉,,辣味,1,
+lucky,宫保牛肉,,辣味,0,
+lucky,上海鸭,,,1,
+lucky,炸大虾,,,0,
+lucky,炸鱼柳,,,1,
+lucky,麻婆豆腐,,辣味,1,
+lucky,铁板牛肉,,辣味,0,
+lucky-star,叉烧包,,,1,
+lucky-star,虾饺,,,1,
+lucky-star,烧卖,,,1,
+lucky-star,锅贴,,,1,
+lucky-star,炸虾云吞,,,0,前菜
+lucky-star,口水鸡,,辣味,0,
+lucky-star,夫妻肺片,,辣味,0,
+lucky-star,凉拌猪耳,,辣味,0,
+lucky-star,凉拌猪舌,,,0,
+lucky-star,牛肉河粉汤/面,,,0,
+lucky-star,鲜虾水饺汤面,,,0,
+lucky-star,麻婆豆腐,,辣味,0,
+lucky-star,家常五花肉,,,0,
+lucky-star,宫保鸡丁,,辣味,0,
+lucky-star,四川辣子鸡,,辣味,0,
+lucky-star,豉椒鸡,,,0,
+lucky-star,西兰花鸡,,,0,
+lucky-star,宫保脆皮鸭,,辣味,0,
+lucky-star,甜酸脆皮鸭,,,0,
+lucky-star,白菜豆腐,,,0,素菜
+lucky-star,耗油牛肉,,,0,
+lucky-star,荷兰豆牛肉,,,0,
+lucky-star,X.O.酱牛肉,,,0,
+lucky-star,沙茶牛肉,,,0,
+lucky-star,小白菜牛肉,,,0,
+lucky-star,宫爆虾球,,辣味,0,
+lucky-star,水煮肉,,辣味,0,
+lucky-star,水煮牛,,辣味,0,
+lucky-star,水煮鱼片,,辣味,0,
+lucky-star,酸菜鱼片,,辣味,0,
+lucky-star,家常豆腐,,,0,
+lucky-star,麻辣牛肚,,辣味,0,
+lulu-s,红油抄手,,辣味,1,前菜
+lulu-s,手工水饺,,,1,前菜
+lulu-s,口水鸡,,辣味,0,前菜
+lulu-s,芥末大虾,,,0,前菜
+lulu-s,糖醋排骨,,,0,前菜
+lulu-s,广式叉烧,,,0,前菜
+lulu-s,沙爹鸡串,,辣味,0,前菜
+lulu-s,宫保鸡丁,,辣味,1,
+lulu-s,辣子鸡丁,,辣味,1,
+lulu-s,干锅鸡,,辣味,0,
+lulu-s,将军鸡,,辣味,0,
+lulu-s,海南鸡,,,0,
+lulu-s,北京烤鸭,,,1,
+lulu-s,宫保牛,,辣味,0,
+lulu-s,荷塘牛肉,,,0,
+lulu-s,干锅牛肉,,辣味,1,
+lulu-s,将军牛肉,,,0,
+lulu-s,水煮牛肉,,辣味,1,
+lulu-s,牛腩煲,,,0,
+lulu-s,金汤肥牛,,辣味,0,
+lulu-s,京酱肉丝,,,0,
+lulu-s,小炒肉,,辣味,0,
+lulu-s,锅包肉,,,1,
+lulu-s,老上海红烧肉,,,1,
+lulu-s,四川回锅肉,,辣味,0,
+lulu-s,猪肉炖粉条,,,0,
+lulu-s,干锅大肠,,辣味,0,
+lulu-s,宫保大虾,,辣味,0,
+lulu-s,椒盐大虾,,,0,
+lulu-s,豆腐大虾,,,0,
+lulu-s,水煮鱼,,辣味,1,
+lulu-s,酸菜鱼,,辣味,1,
+lulu-s,鱼煲,,,0,
+lulu-s,锡纸烤鱼,,辣味,0,
+lulu-s,干锅牛蛙,,辣味,0,
+lulu-s,干锅大虾,,辣味,0,
+lulu-s,鱼香茄子,,辣味,1,
+lulu-s,地三鲜,,,1,
+lulu-s,菌菇豆腐,,,0,
+lulu-s,麻婆豆腐,,辣味,1,
+lulu-s,椒盐豆腐,,,0,
+lulu-s,三汁焖锅,,,1,
+lulu-s,东北铁锅炖,,,1,
+lulu-s,自助火锅,,辣味,1,
+lychee,回锅肉,"20,00 €",辣味,1,
+lychee,清蒸鲈鱼,"22,00 €",,0,
+lychee,椒盐大虾,"30,00 €",,0,
+lychee,香菜洋葱牛柳,"35,00 €",,0,
+lychee,芝麻鸡配时蔬,"22,00 €",,0,
+lychee,海鲜煲,"29,90 €",,0,
+lychee,肉末拌面,,,0,
+lychee,凉面,,辣味,0,
+lychee,四川汤面,,辣味,0,
+lychee,宫保鸡丁,,辣味,1,
+lychee,四川鸡,"14,80 €",辣味,0,
+lychee,北京烤鸭卷,,,0,
+lychee,上海鸭,,,0,
+lychee,北京烤鸭,,,0,
+lychee,洋葱牛肉,,辣味,0,
+lychee,蚝油西兰花牛肉,,,0,
+lychee,宫保牛肉,,辣味,0,
+lychee,黑椒牛肉,,辣味,0,
+lychee,四川牛肉,,辣味,0,
+lychee,孜然牛肉,"20,00 €",辣味,0,
+lychee,水煮牛肉,"21,80 €",辣味,1,
+lychee,宫保大虾,,辣味,0,
+lychee,宫保带子,,辣味,0,
+lychee,咖喱大虾,,辣味,0,
+lychee,清蒸比目鱼,,,0,
+lychee,酸菜鱼,"24,90 €",辣味,0,
+lychee,糖醋里脊,"20,00 €",,0,
+lychee,鱼香茄子煲,"18,00 €",辣味,0,
+lychee,鱼香肉丝,"18,00 €",辣味,0,
+lychee,酸菜肥肠煲,"20,00 €",辣味,0,
+lychee,啤酒鸭,"26,00 €",,0,
+lychee,孜然羊肉,"22,80 €",辣味,0,
+lychee,炒肥肠,"20,00 €",,0,
+lychee,麻婆豆腐,"18,80 €",辣味,1,素菜
+lychee,宫保豆腐,"17,00 €",辣味,0,素菜
+lychee,蔬菜豆腐,"17,00 €",,0,素菜
+lychee,鱼香茄子,"17,00 €",辣味,1,素菜
+lychee,地三鲜,"18,30 €",,0,素菜
+lychee,西芹豆干,,,0,素菜
+lychee,蒜苗豆干,"18,80 €",,0,素菜
+lychee,通菜,"17,00 €",,0,素菜
+lychee,炒菠菜,,,0,素菜
+lychee,干锅花菜,"18,00 €",辣味,0,素菜
+lychee,烧卖,,,1,
+lychee,虾饺,,,1,
+lychee,小笼包,,,1,
+lychee,叉烧包,,,1,
+lychee,红油水饺,,辣味,1,
+lychee,锅贴,,,1,
+lychee,芝麻球,,,0,
+lychee,豆豉蒸排骨,,,0,
+lychee,豉汁凤爪,,,1,
+lychee,水饺,,,0,
+macao,四川牛肉,,辣味,1,
+macao,日式牛肉,,,0,
+macao,辣炒牛肉,,辣味,0,
+macao,香辣脆皮牛肉,,辣味,0,
+macao,糖醋脆皮猪,,,0,
+macao,川味脆皮猪,,辣味,0,
+macao,叉烧,,辣味,1,
+macao,腰果鸡丁,,辣味,0,
+macao,甜酸炸鸡,,,0,
+macao,川味脆皮鸡,,辣味,0,
+macao,香酥鸭,,,1,
+macao,川味香酥鸭,,辣味,0,
+macao,甜酸鸭,,,0,
+macao,上海鸭,,,1,
+macao,广式脆皮鸭,,,0,
+macao,广式甜酸鸭,,,0,
+macao,炸大虾,,,1,
+macao,咖喱虾,,辣味,0,
+macao,腰果虾,,辣味,0,
+mala-house,麻辣烫,,,1,
+man-far,炸馄饨,,,0,
+man-far,豆豉辣炒猪肉,,辣味,0,
+man-far,香辣脆皮猪,,辣味,1,
+man-far,咕咾肉,,,1,
+man-far,四川牛肉,,辣味,1,
+man-far,豆豉牛肉,,辣味,0,
+man-far,日本牛肉,,,0,
+man-far,香辣脆皮牛肉,,辣味,0,
+man-far,上海脆皮鸡,,,1,
+man-far,香辣脆皮鸡,,辣味,0,
+man-far,腰果鸡丁,,,0,
+man-far,甜酸炸鸡,,,0,
+man-far,豆豉鸡,,辣味,0,
+man-far,香酥鸭配大虾,,,1,
+man-far,香辣脆皮鸭,,辣味,0,
+man-far,甜酸鸭,,,0,
+man-far,上海鸭,,,1,
+man-far,豆豉鸭,,辣味,0,
+man-far,炸鱼柳,,,0,
+man-far,宫保大虾,,辣味,1,
+man-far,甜酸大虾,,,0,
+mandarine-bowl,卤肉饭,,,1,
+mandarine-bowl,猪脚饭,,,1,
+mandarine-bowl,红烧牛肉盖浇饭,,,0,
+mandarine-bowl,青椒肉丝盖浇饭,,,0,
+mandarine-bowl,鱼香肉丝盖浇饭,,辣味,0,
+mandarine-bowl,宫保鸡丁盖浇饭,,辣味,0,
+mandarine-bowl,麻婆豆腐盖浇饭,,辣味,0,
+mandarine-bowl,盐水鸭,,,1,
+mandarine-bowl,夫妻肺片,,辣味,0,
+mandarine-bowl,麻婆豆腐,,辣味,1,
+mandarine-bowl,干煸四季豆,,,1,
+mandarine-bowl,手撕包菜,,,0,
+mandarine-bowl,包菜粉丝,,,0,
+mandarine-bowl,油焖茄子,,,1,
+mandarine-bowl,脆脆茄茄,,,0,
+mandarine-bowl,干锅花菜,,辣味,0,
+mandarine-bowl,高汤干丝,,,1,
+mandarine-bowl,农家小炒肉,,辣味,1,
+mandarine-bowl,鱼香肉丝,,辣味,1,
+mandarine-bowl,糖醋里脊,,,0,
+mandarine-bowl,外婆焖猪手,,,0,
+mandarine-bowl,养生肚肺汤,,,0,
+mandarine-bowl,辣炒鸡杂,,辣味,1,
+mandarine-bowl,农家小炒鸡,,辣味,0,
+mandarine-bowl,川香辣子鸡,,辣味,1,
+mandarine-bowl,水煮牛肉,,辣味,1,
+mandarine-bowl,杭椒牛肉,,辣味,1,
+mandarine-bowl,小炒黄牛肉,,辣味,1,
+mandarine-bowl,铁板黑椒牛仔粒,,,0,
+mandarine-bowl,干煸肚丝,,辣味,0,
+mandarine-bowl,白菜牛腩煲,,,0,
+mandarine-bowl,酸菜豆花牛,,辣味,0,
+mandarine-bowl,干锅开背大虾,,辣味,1,
+mandarine-bowl,金沙咸蛋黄焗虾,,,0,
+mandarine-bowl,鲜香杂鱼烩,,,0,
+mandarine-bowl,麻辣口水牛蛙,,辣味,0,
+mandarine-bowl,清蒸鲈鱼,,,0,
+mandarine-bowl,剁椒鲈鱼,,辣味,0,
+mandarine-bowl,水煮鱼,,辣味,1,
+mandarine-bowl,家烧小黄鱼,,,0,
+mandarine-bowl,麻辣肥肠鸡煲,,辣味,0,
+mandarine-bowl,猪蹄鸡爪煲,,,0,
+mandarine-bowl,干锅排骨,,辣味,0,
+mankee,鲜虾馄饨汤,,,0,
+mankee,红油抄手,,辣味,1,
+mankee,红油饺子,,辣味,1,
+mankee,炸馄饨,,,0,
+mankee,夫妻肺片,,辣味,0,
+mankee,口水鸡,,辣味,0,
+mankee,凉拌猪耳,,辣味,0,
+mankee,香辣肚丝,,辣味,0,
+mankee,宫保豆腐,,辣味,0,
+mankee,蒜蓉空心菜,,,0,
+mankee,鱼香茄子,,辣味,1,
+mankee,水煮鱼,,辣味,1,
+mankee,清蒸鲈鱼,,,1,
+mankee,椒盐虾,,,0,
+mankee,香辣鱿鱼,,辣味,0,
+mankee,清蒸鳕鱼,,,0,
+mankee,酸菜白鱼,,辣味,0,
+mankee,剁椒鲈鱼,,辣味,0,
+mankee,椒盐小黄鱼,,,0,
+mankee,蒜蓉开背虾,,,0,
+mankee,海鲜豆腐煲,,,0,
+mankee,宫保鸡丁,,辣味,1,荤菜
+mankee,鱼香肉丝,,辣味,0,荤菜
+mankee,红烧肉,,,1,荤菜
+mankee,麻婆豆腐,,辣味,1,荤菜
+mankee,干锅肥肠,,辣味,1,荤菜
+mankee,牛腩煲,,辣味,1,荤菜
+mankee,辣子鸡丁,,辣味,1,荤菜
+mankee,葱烧牛筋,,辣味,0,荤菜
+mankee,京酱肉丝,,,0,
+mankee,锅包肉,,,1,
+mankee,烤鱼,,辣味,1,
+mankee,农家小炒肉,,辣味,0,荤菜
+mankee,回锅肉,,辣味,1,荤菜
+mankee,水煮牛肉,,辣味,1,荤菜
+mankee,孜然牛肉,,辣味,0,荤菜
+mankee,孜然羊肉,,辣味,0,荤菜
+mankee,酸菜腰花,,辣味,0,荤菜
+mankee,重庆干锅鸡,,辣味,0,荤菜
+mankee,干煸四季豆,,辣味,0,荤菜
+mankee,香干炒肉丝,,,0,荤菜
+mankee,排骨烧四季豆,,,0,荤菜
+mankee,蚝油牛肉,,,0,荤菜
+mankee,北京鸭,,,1,
+mankee,小笼包,,,1,
+mankee,虾饺,,,0,
+mankee,烧卖,,,0,
+mankee,包子,,,1,
+mankee,蒸饺,,,0,
+mankee,牛腩汤面,,辣味,0,
+mankee,拌面,,辣味,0,
+mao-master,冒菜,,,1,
+mao-zeit,冒菜,,,1,
+marubi,烤麸,,,0,
+marubi,煎饺,,,1,
+marubi,水饺,,,1,
+marubi,红油馄饨,,辣味,1,
+marubi,馄饨汤,,,1,
+marubi,煎馄饨,,,1,
+marubi,叉烧面,€9.00,,1,
+marubi,牛肉面,€11.50,,1,
+marubi,拌面,,,1,
+marubi,麻酱拌面,,,1,
+marubi,担担面,,辣味,1,
+marubi,重庆小面,,辣味,1,
+marubi,糯米糍,,,0,
+may-noodles,牛肉姜饺,,,1,
+may-noodles,猪肉虾仁饺,,辣味,1,
+may-noodles,蔬菜粉丝饺,,,1,
+may-noodles,毛氏红烧肉汤面,,辣味,1,
+may-noodles,茄子豆腐汤面,,辣味,1,
+may-noodles,西安拌面,,辣味,1,
+may-noodles,鸡肉拌面,,辣味,1,
+may-noodles,茄子豆腐拌面,,辣味,1,
+mayflower,东坡肘子,,,0,
+mayflower,红薯牛肉,,,0,
+mayflower,三鲜锅巴,,,0,
+mayflower,八珍豆腐,,,0,
+mayflower,酱爆鸭肉,,,0,
+mayflower,红焖牛肉,,,0,
+mayflower,小笼包,,,1,
+mayflower,芝麻煎包,,,0,
+mayflower,手工虾麦,,,1,
+mayflower,锅贴,,,1,
+mayflower,红油水饺,,辣味,1,
+mayflower,虾饺,,,1,
+mayflower,叉烧包,,,1,
+mayflower,酸辣粉,,辣味,1,前菜
+mayflower,口水鸡,,辣味,1,
+mayflower,东北凉皮,,辣味,0,
+mayflower,红烧茄子,,,0,素菜
+mayflower,红烧豆腐,,,0,素菜
+mayflower,黑椒牛柳,,,0,
+mayflower,香酥鸭胸,,,0,
+mayflower,孜然羊肉,,辣味,0,
+mayflower,糖醋排骨,,,0,
+mayflower,红烧肉,,,0,
+mayflower,麻婆豆腐,,辣味,1,
+meet-noodles,锅贴,,,1,
+meet-noodles,生煎包,,,1,
+meet-noodles,虾饺,,,1,
+meet-noodles,烧麦,,,1,
+meet-noodles,小笼包,,,1,
+meet-noodles,素蒸饺,,,1,
+meet-noodles,红油水饺,,辣味,1,
+meet-noodles,清汤牛肉面,,,1,
+meet-noodles,香辣牛肉汤面,,辣味,1,
+meet-noodles,鸡肉辣酱汤面,,辣味,1,
+meet-noodles,雪菜香干汤面,,,1,
+meet-noodles,素红烧牛肉汤面,,辣味,1,
+meet-noodles,素鸡汤面,,,0,
+meet-noodles,香辣牛肉面,,辣味,0,
+meet-noodles,鸡肉辣酱面,,辣味,0,
+meet-noodles,炸鸭面,,辣味,0,
+meet-noodles,四川担担面,,辣味,0,
+meet-noodles,雪菜香干面,,,0,
+meet-noodles,素红烧牛肉面,,辣味,0,
+meet-noodles,花生酱拌面,,,0,
+meet-noodles,油泼面,,辣味,0,
+meet-noodles,排骨油泼面,,辣味,0,
+meet-noodles,牛肉油泼面,,辣味,0,
+meet-noodles,鸡肉油泼面,,辣味,0,
+meet-noodles,麻婆豆腐,,辣味,0,
+meet-noodles,鱼香茄子,,辣味,0,
+meet-you,红油抄手,,辣味,1,
+meet-you,小笼包,,,1,
+meet-you,生煎包,,,1,
+meet-you,豆腐脑,,,1,
+meet-you,韭菜盒子,,,0,
+meet-you,包子,,,0,
+meet-you,烧卖,,,0,
+meet-you,葱油饼,,,0,
+meet-you,豆浆,,,0,
+meet-you,油条,,,0,
+meet-you,粢饭团,,,0,
+meet-you,煎饼果子,,,1,
+meet-you,肉夹馍,,,0,
+meet-you,锅贴,,,0,
+meet-you,葱油拌面,,,0,
+meet-you,咸豆浆,,,0,
+meet-you,荠菜馄饨,,,0,
+meet-you,北方手工水饺,,,0,
+meet-you,大肉包子,,,0,
+meet-you,豆沙包,,,0,
+meet-you,八宝饭,,,0,
+meet-you,上海汤汁春卷,,,0,
+meet-you,沪市叉烧包,,,0,
+meet-you,上海小馄饨,,,0,
+meet-you,咖喱牛肉汤粉,,,0,
+meet-you,牛肉煎包,,,0,
+meet-you,猪脚面,,,1,
+meet-you,麻婆豆腐,,重辣,1,
+meet-you,口水鸡,,辣味,0,
+meet-you,干煸四季豆,,辣味,0,
+meet-you,宫保鸡丁,,辣味,0,
+meet-you,水煮牛肉,,重辣,1,
+meet-you,三杯猪蹄,,辣味,1,
+meet-you,锅包肉,,,0,
+meet-you,酸菜鱼,,辣味,1,
+meet-you,蛋黄大虾,,,0,
+meet-you,担担面,,辣味,1,
+meet-you,湖南米粉,,辣味,0,
+meet-you,湖南拌粉,,辣味,0,
+meet-you,重庆小面,,辣味,0,
+meet-you,四川担担面,,辣味,0,
+meet-you,湖南剁椒米粉,,辣味,0,
+meet-you,牛腩麻辣拌米粉,,辣味,0,
+meet-you,上海香炸鸭,,,0,
+meet-you,甜酸香炸鸭,,,0,
+meet-you,香酥炸鸭配花生酱,,,0,
+meet-you,广式烤鸭,,,0,
+meet-you,菠萝咕噜肉,,,0,
+meet-you,砂锅东坡肉,,,0,
+meet-you,烧鸭阳春面,,,0,
+meet-you,牛肉汤面,,,0,
+meet-you,片儿川,,,0,
+meet-you,清蒸银鳕鱼,,,0,
+meet-you,干锅大虾,,辣味,0,
+meet-you,椒盐虾球,,辣味,0,
+meet-you,蟹粉豆腐,,,0,
+mibap,蜜汁鸡便当,,,1,
+mibap,台式炸鸡便当,,,1,
+mibap,素肉燥饭,,,1,
+mibap,素食卤肉便当,,,1,
+mibap,炸糖醋鸡丁便当,,,1,
+mibap,特制卤肉便当,,,1,
+mibap,肉燥干面,,,1,
+mibap,卤豆腐干面,,,1,
+mibap,味噌百菇汤,,,0,
+mibap,昆布柴鱼海鲜汤,,,0,
+mibap,特制牛肉面,,,1,
+mibap-cafe,巧克力华夫饼,,,0,
+mibap-cafe,咸焦糖华夫饼,,,1,
+mibap-cafe,辣椒芝士华夫饼,,,0,
+mibap-cafe,珍珠卡仕达华夫饼,,,1,
+mibap-cafe,咸蛋黄肉松华夫饼,,,1,
+mibap-cafe,卡布奇诺,,,0,
+mibap-cafe,拿铁,,,0,
+mibap-cafe,美式咖啡,,,0,
+mibap-cafe,青柠苏打,,,0,
+ming-dynastie-jannowitzbr-cke,小笼包,,,1,
+ming-dynastie-jannowitzbr-cke,猪肉卷心菜煎饺,,,1,
+ming-dynastie-jannowitzbr-cke,麻婆豆腐,,辣味,1,
+ming-dynastie-jannowitzbr-cke,宫保鸡丁,,辣味,1,
+ming-dynastie-jannowitzbr-cke,毛血旺,,辣味,1,
+ming-dynastie-jannowitzbr-cke,北京烤鸭,,,1,
+ming-dynastie-jannowitzbr-cke,孜然羊肉,,辣味,1,
+ming-dynastie-jannowitzbr-cke,空心菜,,,0,素菜
+ming-dynastie-jannowitzbr-cke,上海青,,,0,素菜
+ming-dynastie-jannowitzbr-cke,干煸四季豆,,,0,
+ming-dynastie-jannowitzbr-cke,鱼香茄子煲,,辣味,0,
+ming-dynastie-jannowitzbr-cke,重庆辣子鸡,,辣味,1,
+ming-dynastie-jannowitzbr-cke,水煮鱼,,辣味,1,
+ming-dynastie-jannowitzbr-cke,水煮牛肉,,辣味,1,
+ming-dynastie-jannowitzbr-cke,宫保豆腐,,辣味,0,素菜
+ming-dynastie-jannowitzbr-cke,素鱼香茄子,,辣味,0,素菜
+ming-dynastie-jannowitzbr-cke,素煎饺,,,1,
+ming-dynastie-jannowitzbr-cke,回锅肉,,,1,
+ming-dynastie-jannowitzbr-cke,宫保铁板虾球,,,1,
+ming-dynastie-west,点心猪肉饺,,,0,
+ming-dynastie-west,小笼包,,,1,
+ming-dynastie-west,青田大饼,,,0,
+ming-dynastie-west,宫保鸡丁,,,1,
+ming-dynastie-west,八宝炸鸭,,,0,
+ming-dynastie-west,鱼香肉丝,,,1,
+ming-dynastie-west,孜然羊肉,,,0,
+ming-dynastie-west,农家牛肉,,,0,
+ming-dynastie-west,铁板牛仔骨,,,0,
+ming-dynastie-west,水煮鱼,,,1,
+ming-dynastie-west,香菇菜心,,,0,素菜
+ming-dynastie-west,重庆辣子鸡,,辣味,1,
+ming-dynastie-west,大盘鸡,,辣味,0,
+ming-dynastie-west,鱼香鸡丁,,,1,
+ming-dynastie-west,北京烤鸭（半只）,,,0,
+ming-dynastie-west,明炉烤鸭,,,0,
+ming-dynastie-west,地三鲜,,,0,素菜
+ming-dynastie-west,蒜蓉空心菜,,,0,素菜
+ming-dynastie-west,红烧茄子,,,0,素菜
+ming-dynastie-west,宫保豆腐,,,1,素菜
+ming-dynastie-west,毛血旺,,辣味,1,
+ming-dynastie-west,香辣虾,,辣味,0,
+ming-dynastie-west,宫保铁板虾球,,,1,
+ming-dynastie-west,鱼香茄子煲,,,1,
+ming-dynastie-west,干煸四季豆,,,0,
+ming-dynastie-west,麻婆豆腐,,,1,
+ming-dynastie-west,干锅肥肠,,辣味,0,
+ming-dynastie-west,酸汤肥牛,,辣味,0,
+ming-dynastie-west,鸡爪大肠煲,,辣味,0,
+ming-dynastie-west,酱椒鲈鱼,,辣味,0,
+ming-dynastie-west,广式烧鸭半只,,,1,
+ming-jia,鸡肉虾饺,,,0,
+ming-jia,小笼包,,,1,
+ming-jia,香辣脆皮鸡,,辣味,0,
+ming-jia,腰果鸡丁,,,1,
+ming-jia,宫保鸭,,辣味,1,
+ming-jia,海鲜鸭,,,1,
+ming-jia,四川鸭,,辣味,1,
+ming-jia,咖喱椰汁鸭,,,1,
+ming-jia,甜酸炸鸡,,,1,
+ming-jia,咖喱椰汁鸡,,,1,
+ming-jia,豆芽荷兰豆,,,1,素菜
+ming-jia,蔬菜豆腐,,,1,素菜
+ming-jia,红烧茄子,,,1,素菜
+ming-jia,蚝油大虾,,,1,
+ming-jia,香辣大虾,,辣味,1,
+ming-jia,麻婆豆腐,,辣味,1,素菜
+mingtastic,手工牛腱面,,,1,
+mingtastic,手工排骨面,,,1,
+mingtastic,手工麻婆豆腐面,,,1,
+mingtastic,油泼手工面,,辣味,1,
+mingtastic,油泼五花肉面,,辣味,1,
+mingtastic,油泼鱼香茄子面,,辣味,1,
+mingtastic,馄饨汤,,,0,
+mingtastic,炸馄饨,,,0,
+mingtastic,猪肉包子,,,1,
+mingtastic,牛肉洋葱包子,,,0,
+mingtastic,鱼香茄子包子,,,0,
+mingtastic,糖醋里脊包子,,,0,
+mingtastic,蔬菜包子,,,0,
+mingtastic,红豆包,,,0,
+mingtastic,红油猪肉抄手,,辣味,1,
+mingtastic,牛肉汤面,,,1,
+mingtastic,牛腱汤面,,,1,
+mingtastic,馄饨面,,,1,
+mingtastic,肉夹馍,,,1,
+miss-wu,蝦肉餛飩湯,,,1,
+miss-wu,葱油餅,,,0,
+miss-wu,棒棒雞,,,0,
+miss-wu,風味牛肉,,,0,
+miss-wu,炸大蝦,,,0,
+miss-wu,豆豉香脆魚,,,0,
+miss-wu,春卷,,,0,
+miss-wu,水餃,,,0,
+miss-wu,素煎餃,,,0,
+miss-wu,虾饺,,,0,
+miss-wu,蝦燒賣,,,0,
+miss-wu,小籠包,,,1,
+miss-wu,爆炒脆鴨,,辣味,1,
+miss-wu,木須鴨,,,1,
+miss-wu,時蔬脆皮鴨,,,1,
+miss-wu,北京烤鴨,,,1,
+miss-wu,宫保鸡丁,,辣味,1,
+miss-wu,香油嫩雞,,,1,
+miss-wu,炸醬面,,,1,
+miss-wu,香煎鱸魚柳,,,1,
+miss-wu,剁椒魚,,辣味,1,
+miss-wu,乾燒明蝦,,辣味,1,
+miss-wu,招牌無錫排骨,,,1,
+miss-wu,蠔油牛肉,,,1,
+miss-wu,葱爆羊排,,,1,
+miss-wu,魚香茄子,,辣味,1,素菜
+miss-wu,葱爆杏鮑菇,,,1,素菜
+miss-wu,宮保素雞丁,,辣味,1,素菜
+miss-wu,招牌家常豆腐,,,1,素菜
+miss-wu,羅漢齋,,,1,素菜
+mizu-reisnudeln,原汤鸡丝米线,€9.90,,1,
+mizu-reisnudeln,红烧鸡块米线,€13.90,,0,
+mizu-reisnudeln,原汤鸡腿米线,€13.90,,0,
+mizu-reisnudeln,红烧牛肉米线,€14.90,,1,
+mizu-reisnudeln,酸菜牛肉末米线,€13.90,,0,
+mizu-reisnudeln,清汤牛肉米线,€13.90,,1,
+mizu-reisnudeln,大虾米线,€15.90,,1,
+mizu-reisnudeln,清汤青菜米线,€10.90,,1,
+mizu-reisnudeln,红烧豆腐米线,€10.90,,0,
+mizu-reisnudeln,金汤过桥米线,€26.00,,1,
+mizu-reisnudeln,原汤过桥米线,€25.00,,1,
+mizu-reisnudeln,鸡丝麻辣米线,€12.90,辣,1,
+mizu-reisnudeln,西红柿鸡蛋米线,€10.90,,0,
+mizu-reisnudeln,鸡丝麻酱干拌米线,€12.90,,1,
+mizu-reisnudeln,香酥鸡肉,"5,00 €",,0,
+mizu-reisnudeln,小酥肉（牛肉）,"7,90 €",,0,
+mizu-reisnudeln,炸麻团,"5,00 €",,0,
+mizu-reisnudeln,热烹牛肉串,"5,00 €/2 Stk.",,0,
+mizu-reisnudeln,热烹羊肉串,"5,00 €/2 Stk.",,0,
+mizu-reisnudeln,汽锅鲜鸡汤,"5,00 €",,0,
+mizu-reisnudeln,汽锅萝卜牛肉汤,"5,00 €",,0,
+moii-cafe,港式奶茶,,,1,
+moii-cafe,港式鸳鸯,,,1,
+moii-cafe,宇治抹茶拿铁,,,0,
+moii-cafe,生椰拿铁,,,0,
+moii-cafe,桂圆红枣冰饮,,,0,
+moii-cafe,桂花酒酿奶,,,0,
+moii-cafe,草莓抹茶拿铁,,,0,
+moii-cafe,椰子巧克力咖啡豆曲奇,,,0,
+moii-cafe,手工雪花酥,,,0,
+moii-cafe,5英寸日式舒芙蕾芝士蛋糕,,,1,
+moii-cafe,肉松小贝（2个）,,,1,
+moii-cafe,每日蛋糕卷,,,1,
+moii-cafe,烤黄油麻薯,,,1,
+moii-cafe,经典葡式蛋挞,,,0,
+moii-cafe,柚子葡萄整条蛋糕卷（预订）,,,0,
+moii-cafe,椰子草莓整条蛋糕卷（预订）,,,0,
+moii-cafe,芋泥红丝绒整条蛋糕卷（预订）,,,0,
+moii-cafe,三重巧克力整条蛋糕卷（预订）,,,0,
+moii-cafe,生椰拿铁整条蛋糕卷（预订）,,,0,
+moii-cafe,伯爵焦糖整条蛋糕卷（预订）,,,0,
+moii-cafe,泰式奶茶整条蛋糕卷（预订）,,,0,
+moii-cafe,竹炭宇治抹茶整条蛋糕卷（预订）,,,0,
+moii-cafe,栗子饼干整条蛋糕卷（预订）,,,0,
+moii-cafe,浓厚抹茶整条蛋糕卷（预订）,,,0,
+mr-liu,锅贴,,,1,
+mr-liu,什锦蒸饺,,,1,
+mr-liu,北京炸酱面,,,1,
+mr-liu,凉拌面,,,1,
+mr-liu,四川汤面,,辣味,1,
+mr-liu,上海脆皮鸡,,,1,
+mr-liu,上海脆皮鸭,,,1,
+mr-liu,四川酱烧茄子,,辣味,1,素菜
+mr-liu,什锦牛肉,,,0,
+mr-liu,洋葱牛肉,,,0,
+mr-liu,回锅肉,,,0,
+mr-liu,青椒炒肉,,,0,
+mr-liu,鱼香肉丝,,,0,
+mr-liu,宫保鸡,,,0,
+mr-liu,什锦虾仁,,,0,
+mr-liu,麻婆豆腐,,辣味,0,
+mr-liu,炸鸡,,,0,
+mr-liu,炸鸭,,,0,
+mr-liu,干煸豆角,,辣味,0,
+mr-liu,手撕包菜,,辣味,0,
+mr-liu,虎皮青椒,,辣味,0,
+mr-liu,什锦豆腐,,,0,
+mr-liu,干炒牛河,,,0,
+mr-liu,什锦煎饺,,,0,
+mr-noodle-chen-fhain,红烧牛肉Biángbiáng面,,,1,
+mr-noodle-chen-fhain,牛肉辣油Biángbiáng面,,辣味,1,
+mr-noodle-chen-fhain,油泼Biángbiáng面,,辣味,1,
+mr-noodle-chen-fhain,芝麻酱鸡胸拌面,,,1,
+mr-noodle-chen-fhain,牛肉拌面,,,1,
+mr-noodle-chen-fhain,小炒牛肉面,,辣味,1,
+mr-noodle-chen-fhain,牛肉夹馍,,,1,
+mr-noodle-chen-fhain,孜然牛肉串,,,0,
+mr-noodle-chen-fhain,孜然羊肉串,,,1,
+mr-noodle-chen-fhain,手抓羊肉,,,0,
+mr-noodle-chen-fhain,鸡肉串,,,0,
+mr-noodle-chen-wedding,红烧牛肉Biángbiáng面,,,1,
+mr-noodle-chen-wedding,牛肉辣油Biángbiáng面,,辣味,1,
+mr-noodle-chen-wedding,油泼Biángbiáng面,,辣味,1,
+mr-noodle-chen-wedding,芝麻酱鸡胸拌面,,,1,
+mr-noodle-chen-wedding,牛肉拌面,,,1,
+mr-noodle-chen-wedding,小炒牛肉面,,辣味,1,
+mr-noodle-chen-wedding,牛肉夹馍,,,1,
+mr-noodle-chen-wedding,孜然牛肉串,,,0,
+mr-noodle-chen-wedding,孜然羊肉串,,,1,
+mr-noodle-chen-wedding,手抓羊肉,,,0,
+mr-noodle-chen-wedding,鸡肉串,,,0,
+munchy,麻辣烫,,辣味,1,
+n-noodles-tea,重庆小面,,,1,
+neu-wuzhou,炸馄饨,,,0,前菜
+neu-wuzhou,馄饨汤,,,0,
+neu-wuzhou,印尼炒饭,,,1,
+neu-wuzhou,寿喜烧牛肉,,,1,
+neu-wuzhou,什锦火锅,,,1,
+neu-wuzhou,回锅肉,,辣味,1,
+neu-wuzhou,宫保猪肉,,辣味,1,
+neu-wuzhou,上海炸鸡,,,1,
+neu-wuzhou,宫保鸡丁,,辣味,1,
+neu-wuzhou,双炸牛肉,,辣味,1,
+neu-wuzhou,上海炸鸭,,,1,
+neu-wuzhou,广东炸鸭,,,1,
+neu-wuzhou,八宝鸭,,辣味,1,
+neu-wuzhou,西兰花冬菇,,,1,素菜
+ni-hao,自助火锅,,,1,
+ni-hao,日式寿喜锅,,,1,
+ni-hao,冬阴功汤,,辣味,1,
+ni-hao,菌菇清汤,,,1,
+ni-hao,炸馄饨,,,0,Vorspeise 前餐
+ni-hao,馄饨汤,,,0,Suppe 汤
+ni-hao,叉烧包,,,1,Dim Sum 点心
+ni-hao,素菜包,,,1,Dim Sum 点心
+ni-hao,小笼包,,,1,Dim Sum 点心
+ni-hao,虾饺,,,1,Dim Sum 点心
+ni-hao,荷叶鸡,,,0,Dim Sum 点心
+ni-hao,鸡肉蒸饺,,,1,Dim Sum 点心
+ni-hao,素菜蒸饺,,,1,Dim Sum 点心
+ni-s-restaurant,招牌大汤包,,,1,DIM SUM / 特色自制点心
+ni-s-restaurant,上海小笼包,,,1,DIM SUM / 特色自制点心
+ni-s-restaurant,手工糯烧卖,,,1,DIM SUM / 特色自制点心
+ni-s-restaurant,蒸饺/红油水饺,,,1,DIM SUM / 特色自制点心
+ni-s-restaurant,大叉烧包,,,1,DIM SUM / 特色自制点心
+ni-s-restaurant,豆腐素包,,,0,DIM SUM / 特色自制点心
+ni-s-restaurant,油泼面,,辣味,1,手工面食&米饭
+ni-s-restaurant,老北京炸酱面,,,1,手工面食&米饭
+ni-s-restaurant,武汉热干面,,辣味,1,手工面食&米饭
+ni-s-restaurant,海南鸡饭,,,1,手工面食&米饭
+ni-s-restaurant,汤面,,,1,手工面食&米饭
+ni-s-restaurant,上海虾肉小馄饨,,,0,特色小菜
+ni-s-restaurant,红油抄手,,辣味,1,特色小菜
+ni-s-restaurant,椒盐豆腐,,,0,特色小菜
+ni-s-restaurant,四喜烤麸,,,0,特色小菜
+ni-s-restaurant,糖醋小排,,,0,特色小菜
+ni-s-restaurant,豆豉排骨,,,0,特色小菜
+ni-s-restaurant,蜜汁叉烧,,,0,特色小菜
+ni-s-restaurant,孜然鸡串,,辣味,0,特色小菜
+ni-s-restaurant,火爆小鱿鱼,,辣味,0,特色小菜
+ni-s-restaurant,香煎带子,,,0,特色小菜
+ni-s-restaurant,本帮熏鱼,,,0,特色小菜
+ni-s-restaurant,上海油爆虾,,,0,特色小菜
+ni-s-restaurant,芥末大虾,,,0,特色小菜
+ni-s-restaurant,麻婆豆腐,,辣味,0,
+ni-s-restaurant,四川辣子鸡,,辣味,1,
+ni-s-restaurant,水煮牛肉,,辣味,0,
+ni-s-restaurant,生煎小笼包,,,1,
+ni-s-restaurant,宫保虾,,辣味,0,
+ni-s-restaurant,甜酸辣脆皮鸡,,辣味,0,
+ni-s-restaurant,回锅肉,,辣味,0,
+ni-s-restaurant,京酱肉丝,,,0,
+ni-s-restaurant,煎饺,,,1,DIM SUM / 特色自制点心
+no-98-restaurant,北京烤鸭,"74,90 €",,1,烧腊类 / Aus dem Grill / Grilled
+no-98-restaurant,香酥鸭,"22,90 €",辣,1,特色菜 Signature Dishes
+no-98-restaurant,冒烤鸭,"31,90 €",辣,1,特色菜 Signature Dishes
+no-98-restaurant,麻辣兔丁,"18,90 €",辣,0,特色菜 Signature Dishes
+no-98-restaurant,香辣牛肉丁,"22,90 €",辣,1,特色菜 Signature Dishes
+no-98-restaurant,咸蛋黄避风塘鱼片,"23,90 €",,0,特色菜 Signature Dishes
+no-98-restaurant,咸蛋黄避风塘虾,"26,90 €",,0,特色菜 Signature Dishes
+no-98-restaurant,薄荷排骨,"17,90 €",,0,特色菜 Signature Dishes
+no-98-restaurant,芥末虾,"26,90 €",,1,特色菜 Signature Dishes
+no-98-restaurant,香辣凤爪,"17,90 €",辣,0,特色菜 Signature Dishes
+no-98-restaurant,农家一碗香,"17,90 €",辣,0,特色菜 Signature Dishes
+no-98-restaurant,湖南辣椒炒肉,"17,90 €",辣,1,特色菜 Signature Dishes
+no-98-restaurant,小炒黄牛肉,"19,90 €",辣,1,"牛肉 Rind, Beef"
+no-98-restaurant,香辣脆牛肉,"18,90 €",辣,0,"牛肉 Rind, Beef"
+no-98-restaurant,咖喱牛肉,"18,90 €",,0,"牛肉 Rind, Beef"
+no-98-restaurant,水煮牛肉,"28,90 €",重辣,1,"牛肉 Rind, Beef"
+no-98-restaurant,牛腩腐竹煲,"18,90 €",,0,"牛肉 Rind, Beef"
+no-98-restaurant,川香辣子鸡,"17,90 €",重辣,1,"鸡肉 Hähnchen, Chicken"
+no-98-restaurant,双椒鸡丁,"17,90 €",辣,0,"鸡肉 Hähnchen, Chicken"
+no-98-restaurant,宫保鸡丁,"17,90 €",,1,"鸡肉 Hähnchen, Chicken"
+no-98-restaurant,咖喱炸鸡,"17,90 €",,0,"鸡肉 Hähnchen, Chicken"
+no-98-restaurant,蔬菜炸鸭,"18,90 €",,0,"鸭肉 Ente, Duck"
+no-98-restaurant,甜酸炸鸭,"19,90 €",,0,"鸭肉 Ente, Duck"
+no-98-restaurant,鱼香肉丝,"17,90 €",,0,"猪肉 Schwein, Pork"
+no-98-restaurant,糖醋里脊,"17,90 €",,0,"猪肉 Schwein, Pork"
+no-98-restaurant,回锅肉,"17,90 €",,1,"猪肉 Schwein, Pork"
+no-98-restaurant,麻婆豆腐,"17,90 €",辣,1,"猪肉 Schwein, Pork"
+no-98-restaurant,梅菜扣肉,"19,90 €",,0,"猪肉 Schwein, Pork"
+no-98-restaurant,干锅肥肠,"18,90 €",辣,0,"猪肉 Schwein, Pork"
+no-98-restaurant,香辣虾,"25,90 €",辣,0,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,宫保虾仁,"25,90 €",,0,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,水煮鱼,"32,90 €",重辣,1,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,酸菜鱼,"32,90 €",辣,1,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,清蒸鲈鱼,"21,90 €",,0,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,松鼠鱼,"32,90 €",,0,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,毛血旺,"30,90 €",重辣,1,"海鲜 Aus dem Meer, Sea Food"
+no-98-restaurant,清炒上海青,"13,90 €",,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,蒜蓉空心菜,"13,90 €",,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,鱼香茄子,"16,90 €",,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,手撕包菜,"13,90 €",辣,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,干锅花菜,"14,90 €",辣,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,酸辣土豆丝,"12,90 €",,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,干煸豆角,"14,90 €",,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,素麻婆豆腐,"14,90 €",辣,0,蔬菜类 Vegetarische Gerichte
+no-98-restaurant,咖喱豆腐,"14,90 €",,0,蔬菜类 Vegetarische Gerichte
+noodle-plus,烤麸,,,0,前菜
+noodle-plus,叉烧,,,1,
+noodle-plus,卤牛腱,,,0,前菜
+noodle-plus,担担面,,辣味,1,
+noodle-plus,拌面,,,1,
+noodle-plus,麻酱米粉,,,0,
+noodle-plus,麻酱面,,,1,
+noodle-plus,炒米粉,,,0,Gebratene Reisbandnudeln / 炒饭 / 炒米粉
+noodle-plus,红油馄饨,,辣味,1,
+noodle-plus,花生酱馄饨,,,1,
+noodle-plus,虾饺,,,1,
+noodle-plus,花生酱饺子,,,1,
+noodle-plus,烧卖,,,1,
+noodle-plus,红油饺子,,辣味,1,
+noodle-plus,煎饺,,,1,
+noodle-plus,宫保鸡丁,,辣味,0,Reisgerichte / 盖浇饭
+noodle-plus,麻婆豆腐,,辣味,0,Reisgerichte / 盖浇饭
+noodle-plus,红烧牛肉,,,0,Reisgerichte / 盖浇饭
+noodle-plus,烧鸭,,,0,
+noodle-plus,红烧牛肉面,,,0,
+noodle-plus,叉烧面,,,1,
+noodle-plus,鸡肉面,,,0,
+noodle-plus,辣味猪肉面,,辣味,0,
+noodle-plus,雪菜肉丝面,,,0,
+noodle-plus,福建贡丸面,,,0,
+noodle-plus,大虾仁面,,,0,
+noodle-plus,西红柿鸡蛋面,,,0,
+noodle-plus,芝麻汤圆,,,0,
+noodle-plus,糯米糍,,,0,
+noodle-point,鸡肉锅贴,,,1,
+noodle-point,蔬菜锅贴,,,0,
+noodle-point,虾饺,,,0,
+noodle-point,小笼包,,,1,
+noodle-point,红油抄手,,辣味,1,
+noodle-point,馄饨汤,,,0,
+noodle-point,茶叶蛋,,,0,
+noodle-point,鸡排汤面,,,1,
+noodle-point,牛肉汤面,,,1,
+noodle-point,红烧牛肉汤面,,,1,
+noodle-point,担担面,,辣味,1,
+noodle-point,海鲜汤面,,,0,
+noodle-point,豆腐汤面,€12.90,,1,
+noodle-point,炸酱面,,辣味,1,
+noodle-point,新疆大盘鸡面,,,1,
+noodle-point,牛肉拌面,,辣味,1,
+noodle-point,油泼面,,辣味,1,
+noodle-point,花生拌面,,,0,
+noodle-point,𰻝𰻝面,€13.90,,1,
+noodle-point,鱼香茄子,,辣味,0,
+noodle-point,麻婆豆腐,,辣味,0,
+panda-garden,馄饨汤,,,0,
+panda-garden,印尼炒饭,,辣味,1,
+panda-garden,鸡肉杂碎,,,1,
+panda-garden,甜酸脆皮鸭,,,1,
+panda-garden,宫保脆皮鸭,,辣味,1,
+panda-garden,鸭肉杂碎,,,0,
+panda-garden,咖喱蔬菜豆腐,,辣味,0,
+panda-garden,鸭肉粉丝,,,0,
+panda-garden,宫保豆腐,,辣味,1,
+panda-garden,四川豆腐,,辣味,1,
+panda-ii,沙嗲鸡串,,辣味,0,前菜
+panda-ii,烤大虾串,,,0,前菜
+panda-ii,炸大虾,,,0,
+panda-ii,炸馄饨,,,0,前菜
+panda-ii,馄饨汤,,,1,
+panda-ii,四川鸡肉,,辣味,0,
+panda-ii,鸡肉杂碎,,,0,
+panda-ii,回锅肉,,辣味,1,
+panda-ii,咕噜肉,,,1,
+panda-ii,香辣牛肉,,辣味,0,
+panda-ii,牛肉杂碎,,,0,
+panda-ii,熊猫鸭,,辣味,1,
+panda-ii,脆皮鸭配杂菜,,,1,
+panda-ii,甜酸脆皮鸭,,,1,
+panda-ii,豆豉辣味脆皮鸭,,辣味,1,
+panda-ii,泰式咖喱脆皮鸭,,辣味,0,
+panda-ii,泰式咖喱鸡,,辣味,0,
+panda-ii,咖喱大虾,,辣味,0,
+panda-ii,豆豉大虾,,辣味,0,
+panda-ii,四川大虾,,辣味,0,
+panda-ii,四川炸鱼片,,辣味,0,
+panda-ii,咖喱炸鱼片,,辣味,0,
+panda-ii,甜酸炸鱼片,,,0,
+panda-ii,咖喱豆腐,,辣味,0,
+panda-ii,上海青菜,,,0,
+panda-ii,蔬菜杂碎,,,0,
+panda-ii,寿喜烧牛肉,,,1,
+panda-ii,炒三鲜,,,0,
+panda-ii,铁板牛肉,,辣味,0,
+panda-ii,铁板脆皮鸭,,,0,
+panda-ii,铁板大虾,,,0,
+panda-ii,小笼包,,,1,
+panda-ii,虾饺,,,1,
+panda-ii,虾烧卖,,,0,
+panda-ii,锅贴,,,1,
+panda-ii,烧卖,,,1,
+panda-ii,荔枝,,,0,
+panda-meister-halensee,水饺,,,1,
+panda-meister-halensee,煎饺,,,1,
+panda-meister-halensee,红油饺子,,辣味,1,
+panda-meister-halensee,炸酱面,,,1,
+panda-meister-halensee,担担面,,辣味,1,
+panda-meister-halensee,拌面,,,1,
+panda-meister-halensee,麻酱面,,辣味,1,
+panda-meister-halensee,𰻝𰻝面,,辣味,1,
+panda-meister-halensee,油泼面,,辣味,1,面
+panda-meister-halensee,牛肉汤面,,,1,SUPPEN / 面汤
+panda-meister-halensee,云吞面,,,1,SUPPEN / 面汤
+panda-meister-halensee,鸡肉汤面,,,0,面汤
+panda-meister-halensee,素饺汤,,,0,
+panda-meister-halensee,酸辣汤,,辣味,0,
+panda-meister-halensee,卤肉饭,,,0,
+panda-meister-halensee,麻婆豆腐,,辣味,0,
+panda-meister-halensee,鱼香茄子,,辣味,0,
+panda-meister-halensee,小笼包,,,1,
+panda-meister-halensee,烧卖,,,1,
+panda-meister-halensee,包子,,,1,
+panda-meister-moabit,水饺,,,1,
+panda-meister-moabit,煎饺,,,1,
+panda-meister-moabit,牛肉汤面,,,1,
+panda-meister-moabit,鸡肉汤面,,,0,
+panda-meister-moabit,炸酱面,,,1,
+panda-meister-moabit,鸡肉拌面,,,1,
+panda-meister-moabit,饺子汤,,,0,
+panda-meister-moabit,素拌面,,,0,
+panda-meister-moabit,素汤面,,,0,
+panda-meister-moabit,卤肉饭,,,0,
+panda-meister-moabit,麻婆豆腐,,辣味,0,
+panda-meister-moabit,包子,,,1,
+panda-meister-ostbahnhof,水饺,,,1,
+panda-meister-ostbahnhof,煎饺,,,1,
+panda-meister-ostbahnhof,拌面,,,1,
+panda-meister-ostbahnhof,素汤面,,,0,
+panda-meister-ostbahnhof,炸酱面,,,1,
+panda-meister-ostbahnhof,番茄鸡蛋面,,,0,
+panda-meister-ostbahnhof,牛肉汤面,,,1,
+panda-meister-ostbahnhof,饺子汤,,,0,
+panda-meister-ostbahnhof,鸡肉汤面,,,0,
+panda-meister-ostbahnhof,馄饨汤,,,0,
+panda-meister-ostbahnhof,卤肉饭,,,1,
+panda-meister-ostbahnhof,地锅鸡,,辣味,0,
+panda-meister-ostbahnhof,甜酸鸡肉,,,0,
+panda-meister-ostbahnhof,麻婆豆腐,,辣味,0,
+panda-meister-ostbahnhof,包子,,,1,
+peking-ente,北京烤鸭,,,1,SPEZIALITÄTEN / 北京烤鸭
+peking-ente,炸馄饨,,,0,
+peking-ente,红油北京饺子,,辣味,1,
+peking-ente,煎饺,,,1,
+peking-ente,虾饺,,,0,
+peking-ente,小笼包,,,1,
+peking-ente,素包子,,,0,
+peking-ente,红烧茄子,,,1,
+peking-ente,麻婆豆腐,,辣味,1,
+peking-ente,左宗棠鸡,,辣味,1,
+peking-ente,牛肉杏鲍菇,,辣味,1,
+peking-ente,干锅鸡,,辣味,1,
+peking-ente,干煸四季豆,,辣味,1,
+peking-ente,黑椒牛肉,,,1,
+peking-ente,孜然羊肉,,辣味,1,
+peking-ente,葱爆羊肉,,,0,
+peking-ente,宫保鸡丁,,辣味,1,
+peking-ente,五香脆炸鸡,,辣味,0,
+peking-ente,甜酸鸡肉,,,0,
+peking-ente,红烧肉,,,1,
+peking-ente,鱼香肉丝,,辣味,1,
+peking-ente,糖醋里脊,,,0,
+peking-ente,香辣回锅肉,,辣味,0,
+peking-ente,香酥鸭,,,0,
+peking-ente,甜酸香酥鸭,,,0,
+peking-ente,蒜辣香酥鸭,,辣味,0,
+peking-ente,甜酸炸大虾,,,0,
+peking-ente,宫保虾,,辣味,0,
+peking-ente,金丝芥末虾,,,1,
+peking-ente,焦溜红鲈,,,1,
+peking-ente,清蒸鳕鱼,,,1,
+peking-ente,宫保豆腐,,辣味,0,
+peking-ente,上海青菜,,,0,
+peking-ente,炒菜心,,,0,
+peking-perle,北京鸭,,,1,
+peking-perle,四川火锅,,辣味,1,
+peking-perle,锅贴,,,0,前菜
+peking-perle,炸馄饨,,,0,前菜
+peking-perle,菠萝鸭,,,1,
+peking-perle,酥炸鸭,,,1,
+peking-perle,红咖喱鸭,,辣味,1,
+peking-perle,辣味鸭,,辣味,1,
+peking-perle,八宝炸鸭,,辣味,0,
+peking-perle,干炒牛肉,,辣味,1,
+peking-perle,水煮牛肉,,辣味,1,
+peking-perle,日本牛肉,,,0,
+peking-perle,沙茶牛肉,,,0,
+peking-perle,黑胡椒牛肉,,,0,
+peking-perle,宫保鸡丁,,辣味,0,
+peking-perle,菠萝鸡,,,0,
+peking-perle,红咖喱鸡,,辣味,0,
+peking-perle,辣味鸡,,辣味,0,
+peking-perle,咕咾肉,,,0,
+peking-perle,鱼香肉丝,,辣味,0,
+peking-perle,麻婆豆腐,,辣味,0,
+peking-perle,干锅花菜,,辣味,0,
+peking-perle,回锅肉,,辣味,0,
+peking-perle,八宝辣酱,,辣味,0,
+peking-perle,干煸四季豆,,辣味,0,
+peking-perle,鱼香茄子,,辣味,0,
+peking-perle,炸豆腐,,,0,
+ph-nix-buffet,自助餐,,,1,
+ph-nix-buffet,现场铁板烧,,,1,
+ph-nix-buffet,菠萝脆皮鸡,,,0,
+ph-nix-buffet,鸡肉杂碎,,,0,
+ph-nix-buffet,甜酸脆皮鸭,,,1,
+ph-nix-buffet,上海脆皮鸭,,,1,
+ph-nix-buffet,炸鱼片,,,0,
+ph-nix-buffet,虾仁杂碎,,,1,
+ph-nix-buffet,宫保虾,,辣味,0,
+ph-nix-buffet,蔬菜豆腐,,辣味,0,素菜
+pong-s-china-restaurant,什锦炒面,,,1,
+pong-s-china-restaurant,泰式咖喱牛肉,,辣味,0,
+pong-s-china-restaurant,四川鸡,,辣味,1,
+pong-s-china-restaurant,香酥鸡,,,1,
+pong-s-china-restaurant,泰式咖喱鸭,,辣味,1,
+pong-s-china-restaurant,八宝鸭,,,1,
+pong-s-china-restaurant,炸大虾,,,0,
+pong-s-china-restaurant,麻婆豆腐,,辣味,1,
+pong-s-china-restaurant,鱼香茄子,,辣味,1,
+pong-s-china-restaurant,芝麻鸡,,,1,
+pong-s-china-restaurant,荔枝鸡,,,1,
+pong-s-china-restaurant,豆豉鸡,,,1,
+pong-s-china-restaurant,西兰花三鲜,,,1,
+pong-s-china-restaurant,四川三鲜,,辣味,1,
+pong-s-china-restaurant,三鲜煲,,,1,
+pong-s-china-restaurant,香辣粉丝煲,,辣味,1,
+pong-s-china-restaurant,铁板豆豉牛肉,,,1,
+pong-s-china-restaurant,铁板三鲜,,,1,
+pong-s-china-restaurant,花生酱香酥鸭,,,1,
+prince,小笼包,,,1,
+prince,烧卖,,,1,
+prince,松露烧卖,,,1,
+prince,虾饺,,,1,
+prince,双蛋虾饺,,,1,
+prince,带子饺,,,1,
+prince,咸蛋流沙包,,,1,
+prince,叉烧包,,,0,
+prince,咸蛋鸡包,,,0,
+prince,鲜虾肠粉,,,1,
+prince,脆皮虾肠,,,1,
+prince,上海饺,,辣味,1,
+prince,青柠虾,,辣味,0,
+prince,香抽鱼卷,,,0,
+prince,黄咖喱蟹,,,0,
+prince,凤爪,,,0,
+prince,豉汁排骨,,,0,
+prince,沙姜牛柏叶,,,0,
+prince,叉烧肠,,,0,
+prince,芋角,,,0,
+prince,咸水角,,,0,
+prince,蛋挞,,,0,
+prince,叉烧酥,,,0,
+prince,菠萝包,,,0,
+prince,马来糕,,,0,
+prince,黑芝麻汤圆,,,0,
+prince,杨枝甘露,,,0,
+prince,黑松露菌菇饺,,,0,素菜
+prince,蘑菇包,,,0,素菜
+prince,素肠粉,,,0,素菜
+prince,葱油饼,,,0,素菜
+prince,脆炸芥末虾,,辣味,1,
+prince,太子北京烤鸭,,,1,
+prince,海蜇头,,,0,
+prince,醉鸡,,,0,
+prince,奶油鸡,,,0,
+prince,糖醋鸡,,,0,
+prince,宫保鸡丁,,,1,
+prince,港式白切鸡,,,0,
+prince,麻婆豆腐,,辣味,1,
+prince,黑椒炒牛粒,,,1,
+prince,XO酱带子,,,0,
+prince,咸蛋花枝圈,,,0,
+prince,蒜蓉虾,,辣味,0,
+prince,上海三文鱼,,,0,
+prince,阿叁鱼,,辣味,0,
+prince,脆皮烧肉,,,0,
+prince,烧鸭,,,0,
+prince,四川茄子,,辣味,0,
+prince,白灼菠菜,,,0,
+prince,咖喱杂菜,,,0,
+prince,椒盐豆腐,,辣味,0,
+prince,炒粿条,,,1,
+regent,什菌炒菜,,,0,
+regent,寿喜烧粉丝杂菌,,,0,
+regent,香酥鸡片,,,1,
+regent,甜酸炸猪肉,,,1,
+regent,甜酸炸鱼,,,0,
+regent,甜酸炸鸡,,,1,
+regent,甜酸香酥鸭,,,1,
+regent,甜酸炸大虾,,,1,
+regent,什锦大虾鸡牛炒菜,,,0,
+regent,香酥鸭,,,1,
+regent,香辣香酥鸭,,辣味,1,
+regent,铁板豆豉鸡,,辣味,1,
+regent,铁板豆豉牛肉,,,1,
+regent,铁板豆豉大虾,,,1,
+regent,宫保大虾,,辣味,1,
+reuter,甜酱鸡腿,,,0,
+reuter,四川香辣牛肉,,辣味,1,
+reuter,印尼炒饭,,,0,
+reuter,香辣炸鸡胸饭,,辣味,0,
+reuter,上海鸡,,,1,
+reuter,香酥鸡,,辣味,0,
+reuter,四川鸡,,辣味,0,
+reuter,宫保鸡丁,,辣味,1,
+reuter,泰式红咖喱鸡,,辣味,0,
+reuter,菠萝甜酸鸡,,,0,
+reuter,蔬菜鸡片,,,0,
+reuter,洋葱猪肉,,,0,
+reuter,四川猪肉,,辣味,0,
+reuter,京都炸猪排,,,0,
+reuter,香酥猪肉,,辣味,0,
+reuter,鱼香肉丝,,辣味,1,
+reuter,宫保牛肉,,辣味,1,
+reuter,洋葱牛肉,,,0,
+reuter,蔬菜牛肉,,,0,
+reuter,四川牛肉,,辣味,0,
+reuter,姜汁西兰花牛肉,,,1,
+reuter,冬菇粉丝牛肉,,,0,
+reuter,三鲜炒肉,,辣味,0,
+reuter,香酥牛肉,,辣味,0,
+reuter,泰式咖喱牛肉,,辣味,0,
+reuter,麻辣牛肉,,辣味,0,
+reuter,冬菇粉丝香酥鸭,,,1,
+reuter,泰式咖喱香酥鸭,,辣味,1,
+reuter,四川鸭,,辣味,0,
+reuter,八宝香酥鸭,,辣味,1,
+reuter,菠萝甜酸鸭,,,0,
+reuter,大虾香酥鸭,,,0,
+reuter,上海香酥鸭,,,0,
+reuter,广东香酥鸭,,,0,
+reuter,西兰花蒜香大虾,,,0,
+reuter,双冬大虾,,,0,
+reuter,炸大虾,,,0,
+reuter,宫保大虾,,辣味,0,
+reuter,香辣炸鱼柳,,辣味,0,
+reuter,蔬菜鱿鱼,,辣味,0,
+reuter,菠萝甜酸炸鱼柳,,,0,
+reuter,炒杂菜,,,0,
+reuter,罗汉斋,,,0,
+rong-s-noodlehouse,牛肉面,€10.00,,1,
+rong-s-noodlehouse,红油牛肉拌面,€10.00,辣味,1,
+rong-s-noodlehouse,红油豆腐拌面,€10.00,辣味,1,
+rong-s-noodlehouse,猪肉包,,,0,
+rosengarten,双椒鲈鱼,,辣味,1,
+rosengarten,铁板香煎大虾,,,1,
+rosengarten,八爷烤鸭,,,1,
+rosengarten,烧卖,,,1,
+rosengarten,虾饺,,,1,
+rosengarten,小笼包,,,1,
+rosengarten,宫保鸡丁,,辣味,1,
+rosengarten,香酥鸡,,,0,
+rosengarten,辣子鸡,,辣味,0,
+rosengarten,香酥鸭,,,1,
+rosengarten,干煸四季豆,,辣味,0,
+rosengarten,蚂蚁上树,,辣味,0,
+rosengarten,鱼香牛肉,,辣味,0,
+rosengarten,宫保羊肉,,辣味,0,
+rosengarten,鱼香茄子煲,,辣味,1,素菜
+rosengarten,麻婆豆腐,,辣味,1,素菜
+rotbohnen-charlottenburg,大葱肉包（2个）,"3,80 € / 2",,1,
+rotbohnen-charlottenburg,胡萝卜鸡蛋木耳素包（2个）,"3,80 € / 2",,1,
+rotbohnen-charlottenburg,馄饨汤,"6,50 € / 4 · 11,80 € / 8",,0,
+rotbohnen-charlottenburg,馄饨面,"13,90 € / 6 + noodles",,1,
+rotbohnen-charlottenburg,素臊子面,"13,90 €",,0,
+rotbohnen-charlottenburg,麻辣小面（可做纯素，辣度可调）,"12,90 €",辣味,1,
+rotbohnen-charlottenburg,牛肉香菇拌面,"14,90 €",,1,
+rotbohnen-charlottenburg,素炸酱面,"12,90 €",辣味,1,
+rotbohnen-charlottenburg,鸡肉炒拉面,"14,90 €",辣味,1,
+rotbohnen-charlottenburg,黄焖鸡面,"13,90 €",,0,
+rotbohnen-charlottenburg,红烧牛肉面,"14,90 €",,1,
+rotbohnen-charlottenburg,碗杂面（可做纯素）,"12,90 €",,1,
+rotbohnen-charlottenburg,盲盒麻辣烫（牛肉鸡肉高汤）,"9,90 €",辣味,1,
+rotbohnen-charlottenburg,卤肉饭,"14,90 €",,1,
+rotbohnen-charlottenburg,黄焖鸡饭,"10,00 €",,0,
+rotbohnen-charlottenburg,地三鲜,"10,00 €",,1,
+rotbohnen-charlottenburg,红烧猪蹄,"13,00 €",,1,
+rotbohnen-charlottenburg,东北溜肉段,"13,00 €",,0,
+rotbohnen-charlottenburg,牛肉大葱饺子（水煮/煎）,"6,50 € / 6 · 11,90 € / 12",,1,
+rotbohnen-charlottenburg,芹菜牛肉饺子（水煮/煎）,"6,50 € / 6 · 11,90 € / 12",,0,
+rotbohnen-charlottenburg,酸菜猪肉饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,1,
+rotbohnen-charlottenburg,芹菜猪肉饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,0,
+rotbohnen-charlottenburg,香菇肉饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,0,
+rotbohnen-charlottenburg,白菜猪肉饺子（水煮/煎）,"6,50 € / 6 · 11,90 € / 12",,0,
+rotbohnen-charlottenburg,虾鲜肉饺子（水煮/煎）,"6,50 € / 6 · 11,90 € / 12",,0,
+rotbohnen-charlottenburg,韭菜肉饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,0,
+rotbohnen-charlottenburg,西葫芦鸡蛋饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,1,
+rotbohnen-charlottenburg,豆角胡萝卜鸡蛋木耳饺子（水煮/煎）,"5,50 € / 6 · 9,90 € / 12",,0,
+rotbohnen-charlottenburg,自选称重麻辣烫（牛肉鸡肉高汤）,"3,19 € / 100 g",辣味,1,
+rotbohnen-charlottenburg,炸酱面加5只虾,"14,90 €",,0,
+rotbohnen-fhain,干煸豆角,"6,00 €",,0,
+rotbohnen-fhain,猪肉韭菜包,,,1,
+rotbohnen-fhain,素包子,,,1,
+rotbohnen-fhain,水饺,"11,90 €",,1,
+rotbohnen-fhain,煎饺,"11,90 €",,1,
+rotbohnen-fhain,煎饼果子,"6,00 €",,1,
+rotbohnen-fhain,馄饨汤,,,0,
+rotbohnen-fhain,云吞面,,,1,
+rotbohnen-fhain,素臊子面,,,0,
+rotbohnen-fhain,酸辣米粉,"12,90 €",辣味,0,
+rotbohnen-fhain,麻辣小面,,辣味,1,
+rotbohnen-fhain,牛肉香菇拌面,,,1,
+rotbohnen-fhain,素炸酱面,,辣味,1,
+rotbohnen-fhain,鸡肉炒拉面,,辣味,1,
+rotbohnen-fhain,黄焖鸡面,,,0,
+rotbohnen-fhain,牛肉面,,,1,
+rotbohnen-fhain,碗杂面,,,1,
+rotbohnen-fhain,盲盒麻辣烫,"9,90 €",辣味,1,
+rotbohnen-fhain,卤肉饭,,,1,
+rotbohnen-fhain,黄焖鸡米饭,,,0,
+rotbohnen-fhain,地三鲜,,,1,
+rotbohnen-fhain,红烧猪蹄,,,1,
+rotbohnen-fhain,东北溜肉段,,,1,
+royal-garden,午市自助,"15,90 €",,1,
+royal-garden,蒙古自助,"24,90 €",,1,
+royal-garden,炒猪肉配杂菜,,,0,
+royal-garden,洋葱炒牛肉,,,0,
+royal-garden,香酥鸡配杂菜,,,0,
+royal-garden,甜酸菠萝香酥鸡,,,0,
+royal-garden,香酥鸭配杂菜,,,1,
+royal-garden,甜酸菠萝香酥鸭,,,1,
+royal-gourmet,杂菜鸡胸,,,0,
+royal-gourmet,宫保牛肉,,辣味,1,
+royal-gourmet,甜酸菠萝香酥鸭,,,1,
+royal-gourmet,香酥鸭配杂菜,,,1,
+royal-gourmet,甜酸炸鱼柳,,,0,
+royal-gourmet,咖喱香酥鸡,,辣味,0,
+ruyixuan-hotpot,单锅底,,,0,
+ruyixuan-hotpot,鸳鸯锅,,,1,
+ruyixuan-hotpot,三拼锅底,,,0,
+ruyixuan-hotpot,牛油臻味锅,,辣味,1,
+ruyixuan-hotpot,番茄盛宴锅,,,1,
+ruyixuan-hotpot,珍馐菌菇锅,,,1,
+ruyixuan-hotpot,胶原滋养花胶鸡锅,,,1,
+ruyixuan-hotpot,珍笋老鸭御膳锅,,,1,
+sanku-maots-ai-fhain,冒菜,,,1,
+sanku-maots-ai-fhain,经典川味汤,,辣味,1,
+sanku-maots-ai-fhain,木姜子汤,,,1,
+sanku-maots-ai-fhain,三鲜汤,,,0,
+sanku-maots-ai-fhain,老坛酸菜汤,,,1,
+sanku-maots-ai-mitte,冒菜,,,1,
+sanku-maots-ai-mitte,经典川味汤,,辣味,1,
+sanku-maots-ai-mitte,木姜子汤,,,1,
+sanku-maots-ai-mitte,三鲜汤,,,0,
+sanku-maots-ai-mitte,老坛酸菜汤,,,1,
+seepalast,Wan-Tan-Suppe,"4,00 €",,0,
+seepalast,Peking Ente Roll,"7,50 €",,0,前菜
+seepalast,Gebratene Nudeln mit Ente kross,,,1,
+seepalast,GONG BAO Huhn,"12,90 €",辣,0,
+seepalast,BA-BAO Ente,"17,50 €",,0,
+seepalast,Sushi menu,,,0,
+shan-hai-ji,霸王牛骨·Biang Biang面,€18.90,,1,山海霸王牛骨 / Shan Hai Rinderknochen „Der König“
+shan-hai-ji,霸王牛骨·汤面,€18.90,,1,山海霸王牛骨 / Shan Hai Rinderknochen „Der König“
+shan-hai-ji,霸王牛骨·独享,€ 16.90,,0,山海霸王牛骨 / Shan Hai Rinderknochen „Der König“
+shan-hai-ji,秘制烧烤羊排 Biang Biang面（3块）,€18.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,烧烤牛肋排 Biang Biang面（约200g-250g）,€22.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,烧烤黑虎虾 Biang Biang面（3个）,€18.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,照烧鸡排 Biang Biang面,€13.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,椒盐猪肋排 Biang Biang面,€13.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,酱卤牛腩 Biang Biang面,€14.50,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,白卤酱卤牛肉 Biang Biang面,€14.50,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,面拖大排 Biang Biang面,€13.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,葱烧大排 Biang Biang面,€12.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,山海烤麸 Biang Biang面,€12.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,三合一 Biang Biang面（卤卤酱卤牛肉，葱烧大排，烤麸）,€18.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,油泼虾滑手工扯面,€13.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,油泼鲜肉手工扯面,€12.90,,0,山海记 Biang Biang面 / Biang-Biang-Nudeln
+shan-hai-ji,山海记秘制烤羊排（1块）,€ 5.90,,0,烧烤单点 / Vom Grill
+shan-hai-ji,烧烤牛肋排（约200–250克）,€ 19.90,,0,烧烤单点 / Vom Grill
+shan-hai-ji,烧烤黑虎虾（3只）,€ 15.90,,0,烧烤单点 / Vom Grill
+shan-hai-ji,照烧鸡扒（约250–300克）,€ 10.90,,0,烧烤单点 / Vom Grill
+shan-hai-ji,椒盐猪肋排,€ 10.90,,0,烧烤单点 / Vom Grill
+shan-hai-ji,烧烤拼盘,€ 65.80,,0,烧烤单点 / Vom Grill
+shan-hai-ji,金汁经典鲜肉生煎（4个）,€ 8.50,,1,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,金汁霸王牛肉生煎（4个）,€ 9.50,,1,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,金汁椒麻鲜虾生煎（4个）,€ 9.50,,1,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,江南素锦生煎（4个）,€ 7.90,,0,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,金汁鲜肉锅贴（4个）,€ 8.50,,0,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,金汁牛肉锅贴（4个）,€ 9.50,,0,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,江南素锦锅贴（4个）,€ 7.90,,0,海派金汁生煎 / Shanghaier Jianbao
+shan-hai-ji,江南开胃泡菜,€ 4.50,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,凉拌土豆丝,€ 4.50,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,脆爽凉拌黄瓜,€ 4.50,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,酱香萝卜,€ 4.50,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,小葱拌豆腐,€ 5.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,盐香毛豆（不辣/辣）,€ 5.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,凉味三拼（江南开胃泡菜·脆爽黄瓜·江南酱萝卜）,€ 7.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,江南手工春卷（3个）,€ 7.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,酱卤牛肉·冷切,€ 7.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,白卤牛肉·冷切,€ 8.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,软炸大虾,€ 8.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,面拖大排,€ 6.90,,0,凉菜小食 / Kalte Vorspeisen & kleine Speisen
+shan-hai-ji,杨枝甘露·芒果与柚子,€ 6.90,,0,东方甜味小集 / Östliche Desserts
+shan-hai-ji,杨枝甘露·芒果与柚子配椰子冰淇淋,€ 7.90,,0,东方甜味小集 / Östliche Desserts
+shan-hai-ji,酒酿和糯米圆子·牛奶布丁与香草冰淇淋,€ 7.50,,0,东方甜味小集 / Östliche Desserts
+shan-hai-ji,抹茶牛奶布丁配抹茶冰淇淋与甜糯米丸子,€ 7.50,,0,东方甜味小集 / Östliche Desserts
+shan-hai-ji,冰淇淋球,€ 2.50,,0,东方甜味小集 / Östliche Desserts
+shan-hai-ji,牛肉汤面/粉丝汤,€13.90,,0,牛肉·牛腩汤面 / Rinderbrühen-Nudelsuppe
+shan-hai-ji,牛腩汤面/粉丝汤,€13.90,,0,牛肉·牛腩汤面 / Rinderbrühen-Nudelsuppe
+shan-hai-ji,白卤酱卤牛肉面结汤+上海葱油拌面,€17.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,牛腩面结汤+上海葱油拌面,€17.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,白卤酱卤牛肉面结面/粉丝,€15.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,牛腩面结面/粉丝,€15.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,白卤酱卤牛肉烤麸汤面,€15.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,牛腩烤麸汤面,€15.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,上海虾仁葱油拌面,€12.90,,1,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,上海葱烧大排葱油拌面,€12.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,江南烤麸汤面,€11.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,江南烤麸拌面,€11.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,经典四合一汤面/粉丝（白卤酱卤牛肉，牛腩，面结，烤麸）,€18.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,经典四合一拌面（白卤酱卤牛肉，牛腩，面结，烤麸）,€18.90,,0,江南风味 / Jiangnan-Spezialitäten
+shan-hai-ji,酱香牛肉酸辣粉,€13.90,,0,酸辣开胃 / Sauer-scharf & appetitanregend
+shan-hai-ji,牛腩酸辣粉,€13.90,,0,酸辣开胃 / Sauer-scharf & appetitanregend
+shan-hai-ji,烤麸酸辣粉,€11.90,,0,酸辣开胃 / Sauer-scharf & appetitanregend
+shan-hai-ji,手打鲜牛丸汤,€ 7.90,,0,匠心汤品 / Handgemachte Suppen
+shan-hai-ji,手打鲜虾丸汤,€ 7.90,,0,匠心汤品 / Handgemachte Suppen
+shan-hai-ji,经典白卤酱卤牛肉面结汤,€ 9.90,,0,匠心汤品 / Handgemachte Suppen
+shan-hai-ji,经典牛腩面结汤,€ 9.90,,0,匠心汤品 / Handgemachte Suppen
+shan-hai-ji,经典原味酱香饼,€ 9.90,,1,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,酱香牛肉酱香饼,€ 14.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,软炸大虾酱香饼,€ 13.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,酥香大排酱香饼,€ 12.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,山海记三合一酱香饼（卤牛肉，酥香大排，软炸大虾）,€ 15.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,梅干菜鲜肉锅盔,€ 7.90,,1,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,葱香椒盐鲜肉锅盔,€ 7.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shan-hai-ji,牛肉锅盔,€ 8.90,,0,中国传统手工饼 / Chinesische handgemachte Fladen
+shanghai,红烧肉配荷叶饼,,,0,
+shanghai,回锅肉,,,0,
+shanghai,糖醋里脊,,,0,
+shanghai,川味辣子猪,,辣味,0,
+shanghai,水饺,,,1,
+shanghai,煎饺,,,1,
+shanghai,宫保鸡丁,,,0,
+shanghai,辣子鸡,,辣味,1,
+shanghai,水煮牛,,辣味,1,
+shanghai,红烧牛腩,,,0,
+shanghai,尖椒炒牛肉,,辣味,0,
+shanghai,西芹炒牛肉,,,0,
+shanghai,宫保牛肉,,辣味,0,
+shanghai,麻婆豆腐,,辣味,1,素菜
+shanghai,家常豆腐,,,0,素菜
+shanghai,上海青油豆腐,,,0,素菜
+shanghai,鱼香茄子,,,0,素菜
+shanghai,蒜蓉空心菜,,,0,素菜
+shanghai,明炉烤鸭半只,,,1,
+shanghai,八宝脆鸭,,,0,
+shanghai,小份上海蔬菜脆鸭,,,0,
+shanghai,水煮鱼,,辣味,1,
+shanghai,酸菜鱼,,辣味,1,
+shaniu-s-house-of-noodles-fhain,煎饼果子,,,1,
+shaniu-s-house-of-noodles-fhain,麻辣牛肉面,,辣味,1,
+shaniu-s-house-of-noodles-fhain,香辣豆腐面,,辣味,1,
+shaniu-s-house-of-noodles-fhain,担担面,,辣味,1,
+shaniu-s-house-of-noodles-fhain,酸菜牛肉面,,辣味,0,
+shaniu-s-house-of-noodles-fhain,香菇豆腐竹笋面,,,0,
+shaniu-s-house-of-noodles-fhain,炸酱辣面,,辣味,1,
+shaniu-s-house-of-noodles-fhain,红烧牛肉面,,,1,
+shaniu-s-house-of-noodles-fhain,黄焖鸡面,,,0,
+shaniu-s-house-of-noodles-fhain,凉面,,,0,
+shaniu-s-house-of-noodles-fhain,卤肉饭,,,0,
+shaniu-s-house-of-noodles-fhain,宫保鸡丁,,辣味,1,
+shaniu-s-house-of-noodles-fhain,茄盒,,,0,
+shaniu-s-house-of-noodles-fhain,回锅肉,,辣味,1,
+shaniu-s-house-of-noodles-fhain,麻婆豆腐,,辣味,1,
+shaniu-s-house-of-noodles-fhain,西兰花牛肉,,,0,
+shaniu-s-house-of-noodles-fhain,酸菜鱼,,辣味,0,
+shaniu-s-house-of-noodles-fhain,西兰花蒜蓉,,,0,
+shaniu-s-house-of-noodles-fhain,鱼香茄子,,辣味,1,
+shaniu-s-house-of-noodles-fhain,家常豆腐,,,0,
+shaniu-s-house-of-noodles-fhain,辣炒茄子,,辣味,0,
+shaniu-s-house-of-noodles-fhain,椒盐豆腐,,,0,
+shaniu-s-house-of-noodles-fhain,排骨饭,,,0,
+shaniu-s-house-of-noodles-fhain,锅包肉,,,1,
+shaniu-s-house-of-noodles-fhain,锅包豆腐,,,0,
+shaniu-s-house-of-noodles-fhain,水饺,,,0,
+shaniu-s-house-of-noodles-fhain,煎饺,,,0,
+shaniu-s-house-of-noodles-fhain,红油抄手,,辣味,1,
+shaniu-s-house-of-noodles-fhain,馄饨汤,,,0,
+shaniu-s-house-of-noodles-tiergarten,广西米粉,,,1,
+shaniu-s-house-of-noodles-tiergarten,牛肉米粉,,,1,
+shaniu-s-house-of-noodles-tiergarten,肉末米粉,,辣味,1,
+shaniu-s-house-of-noodles-tiergarten,香菇豆腐米粉,,,0,
+shaniu-s-house-of-noodles-tiergarten,叉烧米粉,,,0,
+shaniu-s-house-of-noodles-tiergarten,酸菜肉末米粉,,辣味,0,
+shaniu-s-house-of-noodles-tiergarten,烧鸭米粉,,,0,
+shaniu-s-house-of-noodles-tiergarten,牛肉炒河粉,,,1,
+shaniu-s-house-of-noodles-tiergarten,炒面,,,0,
+shaniu-s-house-of-noodles-tiergarten,石锅米线,,,1,
+shaniu-s-house-of-noodles-tiergarten,石锅碱水面,,,0,
+shaniu-s-house-of-noodles-tiergarten,火辣石锅馄饨米线,,辣味,1,
+shaniu-s-house-of-noodles-tiergarten,烧鸭饭,,,1,
+shaniu-s-house-of-noodles-tiergarten,豉油鸡腿扒饭,,,0,
+shaniu-s-house-of-noodles-tiergarten,叉烧饭,,,0,
+shaniu-s-house-of-noodles-tiergarten,猪脚饭,,,0,
+shaniu-s-house-of-noodles-tiergarten,傻妞自助火锅,,,1,
+shaniu-s-house-of-noodles-tiergarten,椰子鸡锅底,,,0,
+shaniu-s-house-of-noodles-tiergarten,老鸭汤锅底,,,0,
+shaniu-s-house-of-noodles-tiergarten,秘制烧鸭,,,1,
+shaniu-s-house-of-noodles-tiergarten,冒菜烧鸭锅,,,1,
+shaniu-s-house-of-noodles-tiergarten,素菜冒菜锅,,,0,
+shaniu-s-house-of-noodles-tiergarten,牛蝎子锅,,,1,
+shaniu-s-house-of-noodles-tiergarten,虾饺,,,0,
+shaniu-s-house-of-noodles-tiergarten,馄饨汤,,,0,
+shaniu-s-house-of-noodles-tiergarten,红油抄手,,辣味,0,
+shaniu-s-house-of-noodles-tiergarten,云吞汤面,,,0,
+shaniu-s-house-of-noodles-tiergarten,麻婆豆腐,,辣味,0,
+shaniu-s-house-of-noodles-tiergarten,回锅肉,,,0,
+shaniu-s-house-of-noodles-tiergarten,糖醋排骨,,,0,
+shaniu-s-house-of-noodles-tiergarten,宫保鸡丁,,辣味,0,
+shaniu-s-house-of-noodles-tiergarten,黑椒菠萝牛肉,,,0,
+shaniu-s-house-of-noodles-tiergarten,炸大虾,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,小笼包,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,烧麦,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,虾饺,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,水饺,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,煎饺,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,红油抄手,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,馄饨汤,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,红烧牛肉面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,香辣豆腐面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,担担面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,凉面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,卤肉饭,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,卤肉面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,酸汤肥肠面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,酸汤肥牛面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,香菇豆干笋芽拌面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,剁椒肉末拌面,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,酸汤鸡杂面/饭,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,排骨饭,,,1,
+shaniu-s-house-of-noodles-wilmersdorf,卤牛肚,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,卤猪耳朵,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,卤牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,夫妻肺片,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,蜜汁叉烧,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,烧鸭,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,宫保鸡丁,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,辣子鸡,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,鱼香茄子,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,糖醋排骨,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,回锅肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,麻婆豆腐,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,孜然牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,尖椒牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,红焖牛腩,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,洋葱炒牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,西兰花炒牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,麻辣牛肉,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,酸菜鱼,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,椒盐大虾,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,家常豆腐,,,0,
+shaniu-s-house-of-noodles-wilmersdorf,椒盐豆腐,,,0,
+shaniu-s-market-bistro,牛肉拌饭,,,1,
+shaniu-s-market-bistro,豆腐拌饭,,,1,
+shaniu-s-market-bistro,麻婆豆腐,,,1,
+shaniu-s-market-bistro,辣炒年糕,,,0,
+shaniu-s-market-bistro,叉烧包,,,1,
+shaniu-s-market-bistro,小笼包,,,1,
+shaniu-s-market-bistro,虾饺,,,1,
+shaniu-s-market-bistro,生煎包,,,1,
+shaniu-s-market-bistro,烧卖,,,0,
+shaniu-s-market-bistro,馄饨汤,,,0,
+shaniu-s-market-bistro,红油抄手,,,1,
+shaniu-s-market-bistro,猪肉蒸饺,,,0,
+shaniu-s-market-bistro,猪肉煎饺,,,0,
+shaniu-s-market-bistro,鲜竹卷,,,0,
+shaniu-s-market-bistro,豉汁排骨,,,0,
+shaniu-s-market-bistro,素包子,,,0,
+shaniu-s-market-bistro,千层饼,,,0,
+shaniu-s-market-bistro,猪肉馅饼,,,0,
+shaniu-s-market-bistro,红豆馅饼,,,0,
+shaniu-s-market-bistro,甜包,,,0,
+shaniu-s-market-bistro,豆腐花,,,0,
+shaniu-s-market-bistro,甜豆花,,,0,
+shaniu-s-market-bistro,经典绿豆煎饼,,,0,
+shaniu-s-market-bistro,油条煎饼,,,0,
+shaniu-s-market-bistro,蘑菇煎饼,,,0,
+shaniu-s-market-bistro,火腿煎饼,,,0,
+shaniu-s-market-bistro,炸鸡煎饼,,,0,
+shaniu-s-market-bistro,牛肉面/粉,,,0,
+shaniu-s-market-bistro,豆腐面/粉,,,0,
+shaniu-s-market-bistro,鲜肉馄饨面/粉,,,0,
+shaniu-s-market-bistro,麻酱面/粉,,,0,
+shaniu-s-market-bistro,酸菜豆腐面/粉,,,0,
+shaniu-s-market-bistro,酸菜牛肉面/粉,,,0,
+shaniu-s-market-bistro,麻辣牛肉面/粉,,,0,
+shaniu-s-market-bistro,油泼豆腐面/粉,,,0,
+shaniu-s-market-bistro,油泼牛肉面/粉,,,0,
+shanshan,老北京炸酱面,"15,90 €",,0,中式小吃
+shanshan,牛肉面,"15,90 €",,0,中式小吃
+shanshan,叉烧面,"15,90 €",,0,中式小吃
+shanshan,红烧肥肠面,"15,90 €",,0,中式小吃
+shanshan,牛肉馄饨,"10,90 €",,0,中式小吃
+shanshan,大葱牛肉包,"7,90 €",,0,中式小吃
+shanshan,牛肉煎饺,"8,50 €",,0,中式小吃
+shanshan,饺子,"16,90 €",,0,中式小吃
+shanshan,京东肉饼,"7,90 €",,0,中式小吃
+shanshan,素菜鸡蛋馅饼,"4,80 €",,0,中式小吃
+shanshan,馒头,"4,00 €",,0,中式小吃
+shanshan,葱香花卷,"4,30 €",,0,中式小吃
+shanshan,虾饺,"6,50 €",,0,中式小吃
+shanshan,烧卖,"6,50 €",,0,中式小吃
+shanshan,虾卖,"6,50 €",,0,中式小吃
+shanshan,一人点心拼盘,"16,90 €",,0,中式小吃
+shanshan,二人点心拼盘,"32,90 €",,0,中式小吃
+shanshan,蒜蓉海带丝,"8,50 €",,0,凉菜
+shanshan,老醋花生,"8,50 €",,0,凉菜
+shanshan,麻辣蒜蓉拍黄瓜,"7,90 €",,0,凉菜
+shanshan,南京甜辣腌白菜,"7,90 €",,0,凉菜
+shanshan,苏式叉烧肉,"8,90 €",,1,凉菜
+shanshan,剁椒松花蛋,"8,90 €",,0,凉菜
+shanshan,南京盐水鸭,"11,50 €",,1,凉菜
+shanshan,糖醋小排,"9,90 €",,0,凉菜
+shanshan,口水鸡,"9,90 €",,0,凉菜
+shanshan,自制卤猪耳,"9,90 €",,0,凉菜
+shanshan,自制卤牛骨,"13,50 €",,0,凉菜
+shanshan,炒混合杂菜,"15,90 €",,0,素菜
+shanshan,辣椒毛豆炒雪菜,"16,90 €",,0,素菜
+shanshan,酱烧茄子,"18,90 €",,0,素菜
+shanshan,素麻婆豆腐,"18,90 €",,0,素菜
+shanshan,西红柿炒鸡蛋,"16,90 €",,0,素菜
+shanshan,蒜苗香干,"18,90 €",,0,素菜
+shanshan,清炒时蔬菜,"17,90 €",,0,素菜
+shanshan,地三鲜,"18,90 €",,0,素菜
+shanshan,醋爆土豆丝,"15,90 €",,0,素菜
+shanshan,干锅豆干包菜,"18,90 €",,0,素菜
+shanshan,鸡蛋素菜炒饭,"15,90 €",,0,素菜
+shanshan,素菜炒面,"15,90 €",,0,素菜
+shanshan,红烧肉,"18,90 €",,0,正餐
+shanshan,麻婆豆腐,"18,90 €",,0,正餐
+shanshan,海鲜豆腐咸肉煲,"19,90 €",,0,正餐
+shanshan,回锅肉,"18,90 €",,0,正餐
+shanshan,椒盐大虾,"25,90 €",,0,正餐
+shanshan,红烧大虾,"25,90 €",,0,正餐
+shanshan,蒜蓉铁板大虾,"25,90 €",,0,正餐
+shanshan,砂锅红焖羊肉,"23,90 €",,0,正餐
+shanshan,鱼香茄子,"18,90 €",,0,正餐
+shanshan,蒜苗香干炒猪肉,"18,90 €",,0,正餐
+shanshan,炸鸭配沙拉和米饭,"21,90 €",,0,正餐
+shanshan,新鲜雪里红炒猪肉,"18,90 €",,0,正餐
+shanshan,宫爆鸡丁,"18,90 €",,0,正餐
+shanshan,爆炒肥肠,"20,90 €",,0,正餐
+shanshan,砂锅牛肉,"20,90 €",,0,正餐
+shanshan,砂锅猪手,"19,90 €",,0,正餐
+shanshan,猪肉干锅包菜,"18,90 €",,0,正餐
+shanshan,夫妻肺片,"11,90 €",,0,今日特选菜单
+shanshan,湖南小炒牛肉,"20,90 €",,0,今日特选菜单
+shanshan,水煮牛肉,"20,90 €",,0,今日特选菜单
+shanshan,牛腩牛筋煲,"20,90 €",,0,今日特选菜单
+shanshan,蚝油牛肉,"20,90 €",,0,今日特选菜单
+shanshan,蒜苗牛肚,"19,90 €",,0,今日特选菜单
+shanshan,糯米饭仔排,"20,90 €",,0,今日特选菜单
+shanshan,咸鹅烩冻豆腐,"20,90 €",,0,今日特选菜单
+shanshan,珊珊三鲜大锅巴,"20,90 €",,1,今日特选菜单
+shanshan,酸菜猪肚鸭血煲,"20,90 €",,0,今日特选菜单
+shanshan,肥肠鸭血煲,"20,90 €",,0,今日特选菜单
+shanshan,韭菜炒河虾,"20,90 €",,0,今日特选菜单
+shanshan,日本玉子豆腐,"20,90 €",,0,今日特选菜单
+shanshan,蒜蓉粉丝蒸秋葵,"18,90 €",,0,今日特选菜单
+shanshan,素家常豆腐,"17,90 €",,0,今日特选菜单
+shanshan,毛血旺（需提前预订）,"36,90 €",,1,今日特选菜单
+shanshan,南京1人鸭血粉丝汤（2份起订）,"11,90 €",,1,今日特选菜单
+shanshan,老北京吊子,"22,90 €",,1,珊珊特色
+shanshan,铁板包菜粉丝,"18,90 €",,0,珊珊特色
+shanshan,上汤菠菜,"19,90 €",,0,珊珊特色
+shanshan,珊珊一锅鲜,"21,90 €",,1,珊珊特色
+shanshan,风味排骨,"20,90 €",,0,珊珊特色
+shanshan,风味茄子,"18,90 €",,0,珊珊特色
+shanshan,椒盐孜然猪手,"19,90 €",,0,珊珊特色
+shanshan,大煮干丝（需提前一天预订）,"21,90 €",,1,需提前一天预订
+shanshan,上海腌笃鲜（需提前一天预订）,"42,00 €",,0,需提前一天预订
+shanshan,油爆虾（需提前一天预订）,"10,90 €",,0,需提前一天预订
+shanshan,松鼠鲤鱼（需提前一天预订）,"45,90 €",,1,需提前一天预订
+shanshan,酸菜鲤鱼（需提前一天预订）,"45,90 €",,0,需提前一天预订
+shanshan,扬州狮子头（需提前一天预订，每个计价，两个起订）,"12,50 €",,1,需提前一天预订
+shanshan,砂锅蛋饺（需提前一天预订）,"23,90 €",,0,需提前一天预订
+shanshan,东山老鹅（需提前一天预订）,"39,90 €",,0,需提前一天预订
+shanshan,南京老鸭煲（需提前一天预订）,"49,90 €",,1,需提前一天预订
+shanshan,江宁肚包鸡（需提前一天预订）,"43,00 €",,1,需提前一天预订
+shanshan,烧鸡公（需提前一天预订）,"45,90 €",,0,需提前一天预订
+shanshan,自制甜汤圆,"9,90 €",,1,甜食
+shanxi-nudelhaus,刀削面,,,1,
+shanxi-nudelhaus,口水鸡,,,0,
+shanxi-nudelhaus,夫妻肺片,,,0,
+shanxi-nudelhaus,云吞汤,,,0,
+shanxi-nudelhaus,煎饺,,,1,
+shanxi-nudelhaus,虾饺,,,0,
+shanxi-nudelhaus,烧卖,,,0,
+shanxi-nudelhaus,糯米烧卖,,,0,
+shanxi-nudelhaus,小笼包,,,0,
+shanxi-nudelhaus,宫保鸡丁,,,0,
+shanxi-nudelhaus,辣子鸡,,,0,
+shanxi-nudelhaus,水煮鸡片,,,0,
+shanxi-nudelhaus,水煮牛肉,,,0,
+shanxi-nudelhaus,孜然牛肉,,,0,
+shanxi-nudelhaus,黑椒牛柳,,,0,
+shanxi-nudelhaus,回锅肉,,,0,
+shanxi-nudelhaus,水煮鱼,,,0,
+shanxi-nudelhaus,家常豆腐,,,0,
+shanxi-nudelhaus,香菇油菜,,,0,
+shanxi-nudelhaus,宫保豆腐,,,0,
+shanxi-nudelhaus,麻婆豆腐,,,0,
+shanxi-nudelhaus,红烧肉,,,0,
+shanxi-nudelhaus,鱼香豆腐,,,0,
+shanxi-nudelhaus,青菜豆腐,,,0,
+shanxi-nudelhaus,牛腩煲,,,0,
+shanxi-nudelhaus,毛血旺,,,1,
+shanxi-nudelhaus,干锅鸡,,,0,
+shanxi-nudelhaus,干锅海鲜,,,0,
+shanxi-nudelhaus,干锅花菜,,,0,
+shanxi-nudelhaus,干锅豆腐,,,0,
+shanxi-nudelhaus,干锅鸭,,,0,
+shanxi-nudelhaus,卤肉饭,,,0,
+shanxi-nudelhaus,芝麻球,,,0,
+shifang-house,馄饨汤,"7,00 €",,0,前菜
+shifang-house,红油抄手,"7,00 €",,0,前菜
+shifang-house,炸馄饨,"7,00 €",,0,前菜
+shifang-house,夫妻肺片,"8,80 €",,1,前菜
+shifang-house,水晶肉,"8,00 €",,0,前菜
+shifang-house,蒜泥白肉,"8,80 €",,0,前菜
+shifang-house,糖醋排骨,"8,80 €",,0,前菜
+shifang-house,盐水鸭,"10,00 €",,1,前菜
+shifang-house,口水鸡,"8,80 €",,1,前菜
+shifang-house,烧卖,,,0,
+shifang-house,手工水饺,"10,00 €",,0,
+shifang-house,特色蒸饺,"10,00 €",,0,
+shifang-house,特色煎饺,"11,00 €",,0,
+shifang-house,水晶虾饺,"8,00 €",,0,
+shifang-house,小笼汤包,"8,00 €",,0,
+shifang-house,红糖糍粑,"8,00 €",,0,
+shifang-house,宫保鸡丁,"17,00 €",,1,
+shifang-house,宫保牛肉,"18,00 €",,0,
+shifang-house,鱼香肉丝,"17,00 €",,1,
+shifang-house,麻婆豆腐,"15,00 €",,1,
+shifang-house,四川回锅肉,"17,00 €",,1,
+shifang-house,湘式小炒牛肉,"19,00 €",,1,
+shifang-house,川味辣子鸡,"18,00 €",,1,
+shifang-house,老妈蹄花,"20,00 €",,0,
+shifang-house,板栗红烧肉,"20,00 €",,0,
+shifang-house,水煮牛肉,"20,00 €",,1,
+shifang-house,孜然羊肉,"20,00 €",,0,
+shifang-house,椒盐排骨,"20,00 €",,0,
+shifang-house,清炖狮子头,"8,00 €/Stück",,1,
+shifang-house,金汤肥牛,"20,00 €",,0,
+shifang-house,水煮肉片,,,0,
+shifang-house,海鲜豆腐煲,"20,00 €",,0,
+shifang-house,特色北京片鸭,,,0,
+shifang-house,清蒸鲈鱼,"18,00 €",,0,
+shifang-house,鱼香茄子,"14,00 €",,1,素菜
+shifang-house,蒜蓉空心菜,"15,00 €",,0,素菜
+shifang-house,地三鲜,"14,00 €",,0,素菜
+shifang-house,干煸四季豆,"14,00 €",,0,素菜
+shifang-house,干锅包菜,"14,00 €",,0,素菜
+shifang-house,椒盐豆腐,"14,00 €",,0,素菜
+shifang-house,咸蛋黄茄子,"16,00 €",,0,素菜
+shifang-house,扬州煲,,,1,
+shooloongkan-hotpot,单味锅,,,1,
+shooloongkan-hotpot,太极锅,,,1,
+shooloongkan-hotpot,冬阴功锅,,,1,
+shooloongkan-hotpot,鸳鸯锅,,,1,
+shooloongkan-hotpot,三味锅,,,1,
+shooloongkan-hotpot,牛油红锅,,,1,
+shooloongkan-hotpot,番茄锅,,,1,
+shooloongkan-hotpot,菌菇锅,,,1,
+shooloongkan-hotpot,双椒牛肉,,,0,
+shooloongkan-hotpot,牛肉串,,,0,
+shooloongkan-hotpot,龙家小酥肉,,,1,
+shooloongkan-hotpot,红糖糍粑,,,1,
+shu-wei-fang-szechuan-house,蔬菜汤,"5,00 €",,0,前餐
+shu-wei-fang-szechuan-house,西红柿蛋花汤,"5,00 €",,0,前餐
+shu-wei-fang-szechuan-house,馄炖汤,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,小春卷,"5,00 €",,0,前餐
+shu-wei-fang-szechuan-house,XO拌豆腐,"8,00 €",,0,前餐
+shu-wei-fang-szechuan-house,凉拌黄瓜,"6,80 €",,0,前餐
+shu-wei-fang-szechuan-house,凉拌木耳,"6,80 €",,0,前餐
+shu-wei-fang-szechuan-house,盐水毛豆,"6,20 €",,0,前餐
+shu-wei-fang-szechuan-house,香干花生米,"8,00 €",,0,前餐
+shu-wei-fang-szechuan-house,五香牛肉,"8,80 €",,0,前餐
+shu-wei-fang-szechuan-house,夫妻肺片,"8,80 €",,1,前餐
+shu-wei-fang-szechuan-house,麻辣耳丝,"8,80 €",,0,前餐
+shu-wei-fang-szechuan-house,蒜泥白肉,"8,80 €",,0,前餐
+shu-wei-fang-szechuan-house,红油肚丝,"8,80 €",,0,前餐
+shu-wei-fang-szechuan-house,糖醋排骨,"8,80 €",,0,前餐
+shu-wei-fang-szechuan-house,口水鸡,"8,80 €",,1,前餐
+shu-wei-fang-szechuan-house,椒盐鸡皮,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,红油抄手,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,凉拌海带丝,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,剁椒皮蛋,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,手工水饺,"10,00 €",,0,前餐
+shu-wei-fang-szechuan-house,素饺,"10,00 €",,0,前餐
+shu-wei-fang-szechuan-house,虾饺,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,小笼包,"7,20 €",,0,前餐
+shu-wei-fang-szechuan-house,甜酸炸鸭,"16,00 €",,0,正餐
+shu-wei-fang-szechuan-house,甜酸炸鸡,"14,00 €",,0,正餐
+shu-wei-fang-szechuan-house,炒面炸鸭,"16,00 €",,0,正餐
+shu-wei-fang-szechuan-house,炒面炸鸡,"14,00 €",,0,正餐
+shu-wei-fang-szechuan-house,好事双炸·鸡,"14,00 €",,0,正餐
+shu-wei-fang-szechuan-house,好事双炸·牛,"15,00 €",,0,正餐
+shu-wei-fang-szechuan-house,好事双炸·大虾,"19,00 €",,0,正餐
+shu-wei-fang-szechuan-house,宫保牛肉,"15,00 €",,0,正餐
+shu-wei-fang-szechuan-house,XO酱炒大虾,"19,00 €",,0,正餐
+shu-wei-fang-szechuan-house,红咖喱炸鸭,"16,00 €",,0,正餐
+shu-wei-fang-szechuan-house,炒面·鸡,"14,00 €",,0,正餐
+shu-wei-fang-szechuan-house,炒面·牛,"15,00 €",,0,正餐
+shu-wei-fang-szechuan-house,炒面·豆腐,"13,00 €",,0,正餐
+shu-wei-fang-szechuan-house,红咖喱豆腐,"13,00 €",,0,正餐
+shu-wei-fang-szechuan-house,四川回锅肉,"15,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,鱼香肉丝,"15,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,宫保鸡丁,"15,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,湘式小炒牛,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,川味辣子鸡,"17,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,孜然羊肉,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,椒盐排骨,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,板栗烧肉,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,清炖狮子头,"8,00 € / Stück",,0,特色菜
+shu-wei-fang-szechuan-house,牛腩煲,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,干锅香辣猪手,"18,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,老妈蹄花,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,干锅肥肠,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,干锅鸡,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,干锅虾,"22,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,蒜蓉开片虾,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,金汤肥牛,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,凤爪肥肠煲,"18,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,清蒸鱼,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,红焖羊肉煲,"25,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,湘式剁椒鱼,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,沸腾水煮鱼,"25,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,水煮牛肉,"18,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,麻婆豆腐,"14,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,石锅鸡,"22,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,馋嘴牛蛙,"22,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,蒜苗炒牛肚,"16,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,辣子肥肠,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,川味啤酒肥牛,"22,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,酸菜鱼,"25,00 €",,1,特色菜
+shu-wei-fang-szechuan-house,荷香糯米排骨,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,椒盐大虾,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,韭菜炒河虾,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,干炒牛河,"16,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,火爆腰花,"18,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,水煮腰花,"20,00 €",,0,特色菜
+shu-wei-fang-szechuan-house,鱼香茄子,"14,00 €",,0,素菜
+shu-wei-fang-szechuan-house,地三鲜,"14,00 €",,0,素菜
+shu-wei-fang-szechuan-house,干煸四季豆,"13,00 €",,0,素菜
+shu-wei-fang-szechuan-house,酸辣土豆丝,"10,00 €",,0,素菜
+shu-wei-fang-szechuan-house,西芹香干,"14,00 €",,0,素菜
+shu-wei-fang-szechuan-house,季节时蔬,"14,00 €",,0,素菜
+shu-wei-fang-szechuan-house,干锅包菜,"14,00 €",,0,素菜
+sichuan,夫妻肺片,,,1,
+sichuan,红油耳丝,,,0,
+sichuan,口水鸡,,,1,
+sichuan,农家小炒肉,,,1,荤菜
+sichuan,麻婆豆腐,,,1,荤菜
+sichuan,鱼香肉丝,,,1,荤菜
+sichuan,重庆辣子鸡,,,1,荤菜
+sichuan,回锅肉,,,1,荤菜
+sichuan,农夫辣子肥肠,,,1,荤菜
+sichuan,水煮牛肉,,,1,荤菜
+sichuan,鱼香脆皮虾仁,,,0,
+sichuan,诸葛烤鱼,,,1,
+sichuan,鱼香茄子,,,1,素菜
+sichuan,干煸四季豆,,,0,素菜
+sichuan,干锅肥肠,,,1,
+sichuan,干锅四川椒香鸡,,,0,
+sichuan,虎皮尖椒,,,1,
+sichuan,酸辣粉,,,1,
+sichuan,红油水饺,,,1,
+sichuan,水饺,,,0,
+sichuan,烧卖,,,0,
+sichuan,小笼包,,,0,
+sichuan,宫保鸡丁,,,0,
+sichuan,宫保大虾,,,0,
+sonne,酸菜牛腩豆腐煲,,,1,
+sonne,口水鸡,,,1,前菜
+sonne,水煮牛肉,,,1,
+sonne,海鲜毛血旺,,,1,
+sonne,香菇菜心,,,0,
+sonne,火锅,,,1,火锅 / Feuertopf Buffet
+sonne,馄饨汤,,,0,汤类
+sonne,四川猪肉,,,0,午餐类
+sonne,宫保鸡,,,0,鸡肉类
+sonne,湖南香菜牛肉,,,0,牛肉类
+sonne,干煸五香牛肉,,,0,牛肉类
+sonne,酸汤肥牛,,,0,牛肉类
+sonne,干炒牛河,,,0,牛肉类
+sonne,新疆大盘鸡,,,0,特色菜
+sonne,麻婆豆腐,,,0,猪肉类
+sonne,飘香小肥羊,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,糯米蒸排骨,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,剁椒鱼头,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,串香麻辣烫,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,锅包牛肉,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,海鲜豆腐煲,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,海鲜锅仔,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,芋仔排骨煲,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,辣味牛肚锅仔,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,过桥羊肉,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,百鸟归巢,,,0,特色菜类 / Spezial-Menü / Special Menu
+sonne,蒜蓉粉丝扇贝,,,0,特色菜类 / Spezial-Menü / Special Menu
+sun-wah,杂碎猪肉,,,0,
+sun-wah,木耳粉丝猪肉,,,1,
+sun-wah,家常辣炒猪肉,,,1,
+sun-wah,杂碎牛肉,,,0,
+sun-wah,家常辣炒牛肉,,,1,
+sun-wah,寿喜烧牛肉,,,0,
+sun-wah,杂碎鸡肉,,,0,
+sun-wah,三鲜杂炒,,,0,
+sun-wah,豆芽脆皮鸭,,,1,
+sun-wah,芦笋蘑菇脆皮鸭,,,1,
+sun-wah,港式脆皮鸭,,,1,
+sun-wah,八宝脆皮鸭,,,1,
+sun-wah,芦笋蘑菇鸭肉,,,0,
+sun-wah,木耳竹笋鸭肉,,,0,
+sun-wah,竹笋蘑菇大虾,,,0,
+sun-wah,鸭肉蘑菇大虾,,,0,
+sun-wah,木耳粉丝豆腐,,,0,
+sun-wah,绿咖喱椰奶豆腐,,,0,
+susu-vegan-food,剁椒酱绿豆凉粉,,,0,
+susu-vegan-food,酸辣拌粉丝,,,0,
+susu-vegan-food,麻酱素饺,,,1,前菜
+susu-vegan-food,辣酱素饺,,,1,前菜
+susu-vegan-food,酸辣剁椒蔬菜素汤饺,,,1,
+susu-vegan-food,麻婆豆腐盖饭,,,1,
+susu-vegan-food,豌杂素臊子面,€11.00,,1,
+susu-vegan-food,花生酱拌面,,,1,
+susu-vegan-food,担担面,€12.00,,1,
+susu-vegan-food,钟水饺,,,1,
+susu-vegan-food,刈包,,,1,
+susu-vegan-food,豆浆金汤面,€12.00,,1,
+susu-vegan-food,成都小干锅,,,1,
+szechuan-k-che,鱼香茄子,,,1,素菜 VEGETARISCH
+szechuan-k-che,风味茄子,,,0,素菜 VEGETARISCH
+szechuan-k-che,麻婆豆腐,,,1,素菜 VEGETARISCH
+szechuan-k-che,椒盐豆腐,,,0,素菜 VEGETARISCH
+szechuan-k-che,家常豆腐,,,0,素菜 VEGETARISCH
+szechuan-k-che,干煸豆角,,,0,素菜 VEGETARISCH
+szechuan-k-che,虎皮青椒,,,0,素菜 VEGETARISCH
+szechuan-k-che,地三鲜,,,0,素菜 VEGETARISCH
+szechuan-k-che,手撕包菜,,,0,素菜 VEGETARISCH
+szechuan-k-che,上海青,,,0,素菜 VEGETARISCH
+szechuan-k-che,西芹炒烤香干,,,0,素菜 VEGETARISCH
+szechuan-k-che,西红炒鸡蛋,,,0,素菜 VEGETARISCH
+szechuan-k-che,四川鸭,,,1,鸭肉 ENTE
+szechuan-k-che,香酥鸭,,,1,鸭肉 ENTE
+szechuan-k-che,咖喱鸭,,,0,鸭肉 ENTE
+szechuan-k-che,虾鸭,,,0,鸭肉 ENTE
+szechuan-k-che,宫保鸡丁,,,1,鸡肉 HUHN
+szechuan-k-che,四川辣子鸡,,,1,鸡肉 HUHN
+szechuan-k-che,咖喱鸡,,,0,鸡肉 HUHN
+szechuan-k-che,香酥鸡,,,0,鸡肉 HUHN
+szechuan-k-che,水煮牛肉,,,1,牛肉 RIND
+szechuan-k-che,洋葱牛肉,,,0,牛肉 RIND
+szechuan-k-che,孜然牛肉,,,0,牛肉 RIND
+szechuan-k-che,咖喱牛肉,,,0,牛肉 RIND
+szechuan-k-che,手工牛肉饺子,,,0,牛肉 RIND
+szechuan-k-che,麻婆豆腐加牛肉,,,0,牛肉 RIND
+szechuan-k-che,牛腩煲,,,0,牛肉 RIND
+szechuan-k-che,尖椒肥肠,,,0,猪肉 SCHWEIN
+szechuan-k-che,宫保肉片,,,0,猪肉 SCHWEIN
+szechuan-k-che,水煮猪肉,,,1,猪肉 SCHWEIN
+szechuan-k-che,香酥猪肉,,,0,猪肉 SCHWEIN
+szechuan-k-che,手工猪肉饺子,,,1,猪肉 SCHWEIN
+szechuan-k-che,枣香肉,,,1,猪肉 SCHWEIN
+szechuan-k-che,糖醋排骨,,,0,猪肉 SCHWEIN
+szechuan-k-che,葱爆羊肉,,,0,羊肉 LAMM
+szechuan-k-che,孜然羊肉,,,1,羊肉 LAMM
+szechuan-k-che,爆炒羊肉,,,1,羊肉 LAMM
+szechuan-k-che,酸菜鱼,,,1,鱼 & 虾 FISCH & GARNELEN
+szechuan-k-che,川香水煮鱼,,,1,鱼 & 虾 FISCH & GARNELEN
+szechuan-k-che,宫保虾,,,0,鱼 & 虾 FISCH & GARNELEN
+szechuan-k-che,什锦虾,,,0,鱼 & 虾 FISCH & GARNELEN
+szechuan-k-che,咖喱虾,,,0,鱼 & 虾 FISCH & GARNELEN
+szechuan-k-che,椒盐虾,,,0,鱼 & 虾 FISCH & GARNELEN
+tai-lee,饺子,,,1,
+tai-lee,包子,,,1,
+tai-lee,烧卖,,,1,
+tai-lee,泰利脆皮鸭,,,1,
+tai-lee,八宝脆皮鸭,,,1,
+tai-lee,铁板三鲜,,,0,
+tai-lee,宫保脆皮鸭,,,0,
+tai-lee,宫保大虾鸡胸,,,0,
+tai-lee,罗勒牛肉,,,1,
+tai-lee,罗勒鸡肉,,,0,
+tai-lee,罗勒猪肉,,,0,
+tai-lee,红咖喱椰汁脆皮鸭锅,,,0,
+tai-lee,红咖喱椰汁鸡肉锅,,,0,
+tai-lee,咕噜肉,,,0,
+tai-lee,宫保猪肉,,,0,
+tai-lee,青椒竹笋牛肉,,,0,
+tai-lee,洋葱牛肉,,,0,
+tai-lee,寿喜烧牛肉,,,0,
+tai-lee,宫保鸡胸,,,0,
+tai-lee,四川鸡胸,,,0,
+tai-lee,泰利蒜香脆皮鸭,,,1,
+tai-lee,广东脆皮鸭,,,1,
+tai-lee,大虾蘑菇脆皮鸭,,,0,
+tai-lee,宫保大虾,,,0,
+tai-lee,咖喱炸巴沙鱼片,,,0,
+tai-lee,禅豆腐锅,,,1,
+tai-lee,甜酸炸豆腐,,,0,
+tai-lee,绿咖喱豆腐蔬菜,,,0,
+tak-kee,辣子蒸𩶘鱼,,,1,黑板菜单
+tak-kee,瑶柱桂花炒津丝,,,1,黑板菜单
+tak-kee,麻辣鸡煲,,,1,黑板菜单
+tak-kee,大虾粉丝煲,,,1,黑板菜单
+tak-kee,赛螃蟹（带子大虾）,,,1,黑板菜单
+tak-kee,椒盐牛柳粒,,,1,黑板菜单
+tak-kee,脆皮烧肉,,,1,黑板菜单
+tak-kee,滋补酒煮鸡,,,1,黑板菜单
+tak-kee,XO酱蒸北菇鸡,,,1,黑板菜单
+tangs-kantine,夫妻肺片,,,0,
+tangs-kantine,卤猪耳,,,0,
+tangs-kantine,小笼包,,,1,
+tangs-kantine,包子,,,1,
+tangs-kantine,锅贴,,,1,
+tangs-kantine,三鲜蒸饺,,,1,
+tangs-kantine,鸡冠饺,,,0,
+tangs-kantine,虾饺,,,1,
+tangs-kantine,烧卖,,,1,
+tangs-kantine,虾烧卖,,,0,
+tangs-kantine,粉果,,,0,
+tangs-kantine,牛肉饺,,,0,
+tangs-kantine,炸素馄饨,,,0,
+tangs-kantine,家常豆腐,,,0,
+tangs-kantine,宫保豆腐,,,0,
+tangs-kantine,地三鲜,,,0,
+tangs-kantine,青椒豆干,,,0,
+tangs-kantine,火焰鸡,,,1,
+tangs-kantine,叫花鸡,,,1,
+tangs-kantine,宫保鸡丁,,,1,
+tangs-kantine,上海鸭,,,0,
+tangs-kantine,幸福鸭,,,1,
+tangs-kantine,可乐鸭,,,0,
+tangs-kantine,农家水煮牛肉,,,1,
+tangs-kantine,铁板牛肉,,,0,
+tangs-kantine,回锅肉,,,1,
+tangs-kantine,麻婆豆腐,,,1,
+tangs-kantine,鱼香猪肉,,,0,
+tangs-kantine,花菜肉末,,,0,
+tangs-kantine,洋葱青椒猪肉,,,0,
+tangs-kantine,农家水煮鱼,,,1,
+tangs-kantine,粤式清蒸鲈鱼,,,0,
+tangs-kantine,干烧鱼,,,0,
+tangs-kantine,黑椒芝麻烤大虾,,,0,
+tangs-kantine,蒜蓉蔬菜炒大虾,,,0,
+tangs-kantine,杂酱面,,,1,
+tangs-kantine,番茄鸡蛋面,,,0,
+tangs-kantine,酸豆角肉末面,,,1,
+tangs-kantine,上海凉面,,,0,
+tangs-kantine,重庆小面,,,1,
+tangs-kantine,羊肉煲,,,1,
+tangs-kantine,葱爆羊肉,,,1,
+tangs-kantine,豆腐蔬菜煲,,,0,
+tangs-kantine,猪肉豆腐煲,,,0,
+tangs-kantine,芝麻球,,,0,
+tangs-kantine,汤圆,,,0,
+tangs-kantine,南瓜饼,,,0,
+tantan-douhua,摊摊豆花,,,1,
+tantan-douhua,香料豆花,,,0,
+tantan-douhua,豆花面,,,1,
+tantan-douhua,燃面,,,1,
+tantan-douhua,葱油面,,,0,
+tantan-douhua,枸杞甜豆花,,,0,
+tao-yuan-noodlehouse,红油抄手,,,1,前菜
+tao-yuan-noodlehouse,肉夹馍,,,1,前菜
+tao-yuan-noodlehouse,油泼面,€11.90,,1,
+tao-yuan-noodlehouse,重庆小面,,,1,
+tao-yuan-noodlehouse,麻酱面,,,1,
+tao-yuan-noodlehouse,炸酱面,,,1,
+tao-yuan-noodlehouse,兰州牛肉面,,,1,
+tao-yuan-noodlehouse,𰻝𰻝面,,,1,
+tao-yuan-noodlehouse,麻辣鸡丝米线,,,1,
+tao-yuan-noodlehouse,茄汁海鲜粉条,,,0,
+tao-yuan-noodlehouse,猪肉白菜饺,,,1,全手工煎饺
+tao-yuan-noodlehouse,牛肉香菜饺,,,1,全手工煎饺
+tao-yuan-noodlehouse,虾仁三鲜饺,,,1,全手工煎饺
+tao-yuan-noodlehouse,素三鲜饺,,,1,全手工煎饺
+tao-yuan-noodlehouse,饺子拼盘,,,0,全手工煎饺
+tao-yuan-noodlehouse,麻心汤圆,,,0,
+teegeb-ck-haus,口水鸡,,,0,小凉菜
+teegeb-ck-haus,凉拌猪耳,,,0,小凉菜
+teegeb-ck-haus,四喜烤麸冷吃,,,0,小凉菜
+teegeb-ck-haus,凉拌猪舌头,,,0,小凉菜
+teegeb-ck-haus,云吞汤,,,0,汤 / 云吞
+teegeb-ck-haus,酸辣云吞,,,1,汤 / 云吞
+teegeb-ck-haus,纯素云吞,,,0,汤 / 云吞
+teegeb-ck-haus,蒸猪肉白菜饺,,,1,饺子、包子
+teegeb-ck-haus,蒸牛肉西芹饺,,,1,饺子、包子
+teegeb-ck-haus,蒸猪肉虾仁韭菜饺,,,1,饺子、包子
+teegeb-ck-haus,蒸猪肉墨鱼韭菜饺,,,1,饺子、包子
+teegeb-ck-haus,广东晶虾饺,,,1,饺子、包子
+teegeb-ck-haus,猪肉虾烧卖,,,1,饺子、包子
+teegeb-ck-haus,饺子拼盘,,,0,饺子、包子
+teegeb-ck-haus,猪肉沫拌面,,,1,面条
+teegeb-ck-haus,红烧牛肉面,,,1,面条
+teegeb-ck-haus,四喜烤麸面,,,0,面条
+teegeb-ck-haus,麻辣素拌面,,,1,面条
+teegeb-ck-haus,酸辣红薯粉,,,1,面条
+teegeb-ck-haus,杂酱肉末酸辣红薯粉,,,0,面条
+teegeb-ck-haus,青椒猪肉馍,,,0,馍/饼
+teegeb-ck-haus,牛肉馍,,,0,馍/饼
+teegeb-ck-haus,四喜烤麸饼,,,0,馍/饼
+teegeb-ck-haus,什锦香辣豆皮饼,,,0,馍/饼
+teegeb-ck-haus,鸭肉卷饼,,,0,馍/饼
+teegeb-ck-haus,黑芝麻馅汤圆,,,0,手工汤圆
+teegeb-ck-haus,花生馅汤圆,,,0,手工汤圆
+ten-seconds-yunnan-rice-noodle-berlin,云南过桥米线,,,1,
+ten-seconds-yunnan-rice-noodle-berlin,番茄过桥米线,€14.50,,1,
+ten-seconds-yunnan-rice-noodle-berlin,酸辣金汤过桥米线,€14.50,辣,1,
+ten-seconds-yunnan-rice-noodle-berlin,麻辣过桥米线,€14.50,辣,1,
+ten-seconds-yunnan-rice-noodle-berlin,韩式泡菜过桥米线,€14.50,,1,
+ten-seconds-yunnan-rice-noodle-berlin,青花椒肥牛米线,€16.50,辣,1,
+ten-seconds-yunnan-rice-noodle-berlin,番茄豆腐米线（素）,,,1,
+ten-seconds-yunnan-rice-noodle-berlin,虫草花鸡肉米线,€14.50,,0,
+ten-seconds-yunnan-rice-noodle-berlin,冒菜肥牛米线,,重辣,0,
+ten-seconds-yunnan-rice-noodle-berlin,酸菜鱼米线,€15.50,重辣,0,
+ten-seconds-yunnan-rice-noodle-berlin,豆腐拌粉（素）,,,1,
+ten-seconds-yunnan-rice-noodle-berlin,牛腩拌粉,€14.50,,0,
+the-butterfly-lovers,混沌汤,,,0,汤
+the-butterfly-lovers,担担面,,,1,小菜
+the-butterfly-lovers,水饺,,,0,小菜
+the-butterfly-lovers,红油水饺,,,0,小菜
+the-butterfly-lovers,锅贴,,,0,小菜
+the-butterfly-lovers,蒸小笼包,,,0,小菜
+the-butterfly-lovers,煎小笼包,,,0,小菜
+the-butterfly-lovers,麻婆豆腐,,,1,主菜
+the-butterfly-lovers,三杯菇,,,0,主菜
+the-butterfly-lovers,干锅花菜,,,0,主菜
+the-butterfly-lovers,水煮豆腐类,,,1,主菜
+the-butterfly-lovers,干煸四季豆,,,0,主菜
+the-butterfly-lovers,干煸莲藕,,,0,主菜
+the-butterfly-lovers,炝炒空心菜,,,0,主菜
+the-butterfly-lovers,香菇上海青,,,0,主菜
+the-butterfly-lovers,鱼香茄子,,,1,茄子
+the-butterfly-lovers,红烧茄子,,,0,茄子
+the-butterfly-lovers,地三鲜,,,1,茄子
+the-butterfly-lovers,宫保素鸡丁,,,1,素菜
+the-butterfly-lovers,辣子素鸡丁,,,1,素菜
+the-butterfly-lovers,什锦素鸭,,,0,素菜
+the-butterfly-lovers,回锅素肉,,,1,素菜
+the-butterfly-lovers,茄汁素鸡块,,,0,素菜
+the-butterfly-lovers,红烧素狮子头,,,0,素菜
+the-butterfly-lovers,水煮八珍,,,1,素菜
+the-butterfly-lovers,京酱素肉,,,0,素菜
+the-butterfly-lovers,酸辣宽粉,,,1,素食 / 面
+the-butterfly-lovers,混沌汤面,,,0,素食 / 面
+the-butterfly-lovers,手拉酸辣宽粉,,,0,素食 / 面
+the-butterfly-lovers,汤圆,,,0,
+the-butterfly-lovers,椰子汤圆,,,0,
+the-butterfly-lovers,花生汤圆,,,0,
+the-noodle-town-mitte,素菜饺子,,,1,
+the-noodle-town-mitte,经典小笼包,,,1,
+the-noodle-town-mitte,鲜虾饺,,,1,
+the-noodle-town-mitte,豆腐𰻝𰻝面,€14.50,,1,
+the-noodle-town-mitte,茄子𰻝𰻝面,€14.50,,1,
+the-noodle-town-mitte,牛肉𰻝𰻝面,€15.50,,1,
+the-noodle-town-mitte,豆腐草本汤面,,,1,
+the-noodle-town-mitte,茄子草本汤面,,,1,
+the-noodle-town-mitte,牛肉草本汤面,,,1,
+the-noodle-town-xberg,素菜饺子,,,1,
+the-noodle-town-xberg,经典小笼包,,,1,
+the-noodle-town-xberg,鲜虾饺,,,1,
+the-noodle-town-xberg,豆腐𰻝𰻝面,€14.50,,1,
+the-noodle-town-xberg,茄子𰻝𰻝面,€14.50,,1,
+the-noodle-town-xberg,牛肉𰻝𰻝面,€15.50,,1,
+the-noodle-town-xberg,豆腐草本汤面,,,1,
+the-noodle-town-xberg,茄子草本汤面,,,1,
+the-noodle-town-xberg,牛肉草本汤面,,,1,
+the-tree-noodle-house,炸蘑菇,,,0,前菜
+the-tree-noodle-house,麻婆豆腐面,€13.20,,1,
+the-tree-noodle-house,麻酱拌面,€13.20,,1,
+the-tree-noodle-house,甜辣拌面,,,1,
+the-tree-noodle-house,豌杂面,€13.20,,1,
+the-tree-noodle-house,双椒牛肉面,€13.20,,1,
+the-tree-noodle-house,红烧牛肉面,€13.90,,1,
+the-tree-noodle-house,番茄煎蛋拌面,€13.20,,1,
+the-tree-noodle-house,担担面,€13.50,,1,
+the-tree-noodle-house,鱼香肉丁面,€13.50,,1,
+the-tree-noodle-house,辣鸡面,€13.50,,1,
+the-tree-noodle-house,干拌抄手,,,1,
+the-tree-noodle-house,酒酿汤圆,,,0,
+tianfu,烧卖,,,0,
+tianfu,宫保鸡丁,,辣味,1,
+tianfu,葱爆鸭片,,,0,
+tianfu,重庆烤鱼,,辣味,1,
+tianfu,洋葱炒牛肉,,,0,
+tianfu,荷兰豆炒腊肉,,辣味,1,
+tianfu,红烧豆腐,,,0,
+tianfu,口水鸡,,辣味,1,
+tianfu,蒜泥白肉,,辣味,0,
+tianfu,夫妻肺片,,辣味,1,
+tianfu,凉拌海蜇,,,0,
+tianfu,豉汁凤爪,,辣味,0,
+tianfu,鱼香鸡片,,辣味,0,
+tianfu,甜酸炸鸡,,,0,
+tianfu,香菇鸡片,,,0,
+tianfu,鸡丁兰花,,,0,
+tianfu,香酥鸡,,,0,
+tianfu,腰果鸡丁,,,0,
+tianfu,辣子鸡丁,,辣味,1,
+tianfu,茄汁鸡块,,,0,
+tianfu,四川鸭片,,辣味,0,
+tianfu,宫保大虾,,辣味,0,
+tianfu,西兰花大虾,,,0,
+tianfu,铁板茄汁鱼片,,,0,
+tianfu,水煮鱼,,辣味,1,
+tianfu,豆瓣鱼片,,辣味,0,
+tianfu,家常鱿鱼,,辣味,0,
+tianfu,干煸四季豆,,辣味,1,
+tianfu,麻婆豆腐,,辣味,1,
+tianfu,家常豆腐,,,0,
+tianfu,鱼香茄子,,辣味,0,
+tianfu,红烧茄子,,,0,
+tianfu,香菇上海青,,,0,
+tianfu,蒜泥炒空心菜,,,1,
+tianfu,回锅肉,,辣味,1,
+tianfu,糖醋里脊,,,0,
+tianfu,蚂蚁上树,,辣味,0,
+tianfu,红烧肉,,,0,
+tianfu,鱼香肉丝,,辣味,1,
+tianfu,京酱肉丝,,,0,
+tianfu,水煮肉片,,辣味,0,
+tianfu,西兰花牛肉,,,0,
+tianfu,孜然牛肉,,辣味,1,
+tianfu,铁板黑胡椒牛肉,,辣味,0,
+tianfu,水煮牛肉,,辣味,1,
+tianfuzius,担担面,,辣味,1,
+tianfuzius,酸辣粉,,辣味,1,
+tianfuzius,饺子,,,1,
+tianfuzius,锅贴,,,1,
+tianfuzius,红油饺子,,辣味,1,
+tianfuzius,小笼包,,,1,
+tianfuzius,生煎小笼包,,,0,
+tianfuzius,包子,,,0,
+tianfuzius,干锅花菜,,辣味,1,
+tianfuzius,干锅菌类,,辣味,1,
+tianfuzius,水煮豆腐类,,辣味,1,
+tianfuzius,麻婆豆腐,,辣味,1,
+tianfuzius,老干妈豆腐丁,,辣味,0,
+tianfuzius,青红椒炒百叶结,,,0,
+tianfuzius,红烧豆腐,,,0,
+tianfuzius,虎皮尖椒,,辣味,0,
+tianfuzius,腰果马蹄,,,0,
+tianfuzius,干煸四季豆,,辣味,1,
+tianfuzius,干煸莲藕,,辣味,0,
+tianfuzius,回锅素肉,,辣味,1,
+tianfuzius,鱼香茄子,,辣味,1,
+tianfuzius,红烧茄子,,,0,
+tianfuzius,地三鲜,,,1,
+tianfuzius,马蹄炒茄子,,,0,
+tianfuzius,辣子素鸡丁,,辣味,1,
+tianfuzius,宫保素鸡丁,,辣味,1,
+tianfuzius,甜酸鸭卷,,,1,
+tianfuzius,芙蓉素虾,,,0,
+tianfuzius,鱼香大虾,,辣味,0,
+tianfuzius,孜然鱿鱼,,辣味,0,
+tianfuzius,水煮八珍,,辣味,1,
+tianfuzius,什锦素鸭,,,1,
+tianfuzius,四川素鸭片,,辣味,1,
+tianfuzius,汤圆,,,0,
+ting-song-hotpot,火锅,,,1,
+ting-song-hotpot,私房炒制麻辣牛油锅,,辣味,1,
+ting-song-hotpot,麻辣清油,,辣味,1,
+ting-song-hotpot,番茄锅底,,,0,
+ting-song-hotpot,鲜香菌汤,,,1,
+ting-song-hotpot,椰子鸡,,,0,
+ting-song-hotpot,新鲜椰汁,,,0,
+ting-song-hotpot,牛骨枸杞原汤,,,0,
+ting-song-hotpot,养生枸杞清汤,,,0,
+ting-song-hotpot,小酥肉,,,1,
+ting-song-hotpot,盐酥鸡,,,0,
+ting-song-hotpot,炸平菇,,,0,
+ting-song-hotpot,炸豆腐,,,0,
+ting-song-hotpot,炸虾天妇罗,,,0,
+ting-song-hotpot,红糖糍粑,,,1,
+ting-song-hotpot,秘制麻辣嫩牛,,辣味,1,
+ting-song-hotpot,牛百叶,,,0,
+ting-song-hotpot,鸭血,,,0,
+ting-song-hotpot,鸭舌,,,0,
+ting-song-hotpot,鱼豆腐,,,0,
+ting-song-hotpot,油条,,,0,
+ting-song-hotpot,猪肉韭菜水饺,,,0,
+ting-song-hotpot,冰粉,,,0,
+ting-song-hotpot,龟苓膏,,,0,
+toca-rouge,馄饨汤,,辣味,0,
+toca-rouge,芥末蛋黄酱炸虾,,,0,前菜
+toca-rouge,炸虾馄饨,,,0,前菜
+toca-rouge,姜丝蒸小白菜,,,0,前菜
+toca-rouge,甜辣羊排,,辣味,1,
+toca-rouge,BBQ桂皮酱鸭胸,,,1,
+toca-rouge,橙汁鸡,,,1,
+toca-rouge,椰香花生鸡,,,1,
+toca-rouge,四川椒牛肉,,辣味,1,
+toca-rouge,蜂蜜甜薯牛肉,,,1,
+toca-rouge,梨香西葫芦牛肉,,,0,
+toca-rouge,川椒辣鸡,,辣味,1,
+toca-rouge,黑椒牛柳,,辣味,1,
+toca-rouge,麻婆豆腐,,辣味,1,
+toca-rouge,梅子培根大虾,,,0,
+toca-rouge,香煎赤鱼柳,,,0,
+tu-long,青椒牛肉,,辣味,1,热菜
+tu-long,红烧肉,,,1,热菜
+tu-long,麻婆豆腐,,辣味,1,热菜
+tu-long,豉椒牛肚,,,0,热菜
+tu-long,家常豆腐,,,0,热菜
+tu-long,鱼香肉丝,,辣味,1,热菜
+tu-long,鱼香茄子,,辣味,1,热菜
+tu-long,豉椒鱿鱼,,,0,热菜
+tu-long,铁板牛肉,,,1,热菜
+tu-long,羊腩煲,,,1,
+tu-long,醋溜鸡,,,0,热菜
+tu-long,青椒炒鸡,,辣味,0,热菜
+tu-long,西葫芦炒大虾,,,0,热菜
+tu-long,西葫芦粉丝炒虾米,,,0,热菜
+tu-long,宫保虾球,,辣味,1,热菜
+tu-long,宫保鸡片,,辣味,1,热菜
+tu-long,青椒猪肉,,辣味,0,热菜
+tu-long,回锅肉,,辣味,1,热菜
+tu-long,沙嗲牛肉,,,0,热菜
+tu-long,豉椒炒鸡片,,,0,热菜
+tu-long,海鲜豆腐煲,,,1,
+tu-long,豉椒炒大虾,,,0,热菜
+tu-long,姜葱炒大虾,,,1,热菜
+tu-long,豉椒牛肉,,,0,热菜
+tu-long,八珍豆付煲,,,0,
+tu-long,荷兰豆炒牛肉,,,0,热菜
+tu-long,豉椒排骨,,,0,热菜
+tu-long,红烧排骨,,,0,热菜
+tu-long,拌牛肚,,,0,
+tu-long,拌猪耳朵,,,0,
+uuu,辣椒油凉拌沙拉，腰果,16 €,,0,季节菜单示例（2026年5月）
+uuu,野生生蚝配茴香头、苤蓝,16 €,,0,季节菜单示例（2026年5月）
+uuu,油甘鱼生,35 €,,0,季节菜单示例（2026年5月）
+uuu,炸平菇，芹菜根 ，芹菜油，花椒,24 €,,1,季节菜单示例（2026年5月）
+uuu,扇贝，芦笋，木姜子荷兰酱,28 €,,1,季节菜单示例（2026年5月）
+uuu,伊比利亚红烧肉，梅菜,25 €,,1,季节菜单示例（2026年5月）
+uuu,炭烤鹌鹑，薄荷土豆,27 €,,1,季节菜单示例（2026年5月）
+uuu,花卷,4 €,,0,季节菜单示例（2026年5月）
+uuu,哥斯达黎加巧克力雪葩挞，烘焙罂粟籽，糖渍青柠,15 €,,0,季节菜单示例（2026年5月）
+uuu,龙蒿冰淇淋，大黄，黄豆白霜,12 €,,0,季节菜单示例（2026年5月）
+wan-loi,鸡肉串,,辣味,0,
+wan-loi,大虾串,,,0,
+wan-loi,巴比班冈烤猪肉,,辣味,1,
+wan-loi,京都肉,,,0,
+wan-loi,香橘菠萝炸牛肉,,辣味,0,
+wan-loi,芒果鸭,,,1,
+wan-loi,芝麻鸭,,,1,
+wan-loi,芒果鸡,,,0,
+wan-loi,豉椒大虾,,辣味,1,
+wan-loi,咕咾肉,,,0,
+wan-loi,冬菇竹笋牛肉,,,0,
+wan-loi,寿喜烧牛肉,,,0,
+wan-loi,宫保鸡,,辣味,1,
+wan-loi,腰果鸡,,,0,
+wan-loi,三冬鸡,,,0,
+wan-loi,芝麻鸡,,,0,
+wan-loi,菠萝甜酸鸡,,,0,
+wan-loi,上海鸭,,,0,
+wan-loi,四川鸭,,辣味,1,
+wan-loi,大虾脆皮鸭,,,1,
+wan-loi,双菇大虾,,,0,
+wan-loi,腰果大虾,,,0,
+wan-loi,炸虾球,,,0,
+wan-loi,宫保大虾,,辣味,1,
+wan-loi,甜酸鱼柳,,,0,
+wan-loi,宫保鱼柳,,辣味,0,
+wan-loi,豉椒鱼柳,,辣味,0,
+wan-loi,豉椒鱿鱼,,辣味,0,
+wan-loi,豉椒牛肉,,辣味,0,
+wan-loi,西兰花牛肉,,,0,
+wan-loi,炒三鲜,,辣味,0,
+wan-loi,红咖喱鱼锅,,辣味,0,
+wan-loi,三鲜豆腐锅,,辣味,0,
+wan-loi,素豆腐锅,,,0,
+wan-loi,八宝鸭,,辣味,1,
+wan-loi,北京烤鸭,,,1,
+wan-loi,本店北京鸭,,,1,
+wei-dao-jia,红油抄手,,辣味,0,前菜
+wei-dao-jia,夫妻肺片,,辣味,1,前菜
+wei-dao-jia,糖醋排骨,,,0,前菜
+wei-dao-jia,口水鸡,,辣味,1,前菜
+wei-dao-jia,红油猪耳,,辣味,0,前菜
+wei-dao-jia,猪头肉,,,0,前菜
+wei-dao-jia,水饺,,,0,前菜
+wei-dao-jia,水晶虾饺,,,0,前菜
+wei-dao-jia,虾麦,,,0,前菜
+wei-dao-jia,椒盐鸡皮,,,0,前菜
+wei-dao-jia,盐水鸭,,,0,前菜
+wei-dao-jia,南京凉粉,,,0,前菜
+wei-dao-jia,剁椒皮蛋,,辣味,0,前菜
+wei-dao-jia,地三鲜,,,0,
+wei-dao-jia,西芹豆腐干,,,0,
+wei-dao-jia,什锦豆腐,,,0,
+wei-dao-jia,椒盐豆腐,,辣味,0,
+wei-dao-jia,手撕干锅包菜,,辣味,0,
+wei-dao-jia,蒜蓉空心菜,,,0,
+wei-dao-jia,风味茄子,,,0,
+wei-dao-jia,玉米烙,,,0,
+wei-dao-jia,咸蛋黄茄子,,,0,
+wei-dao-jia,蒜蓉秋葵,,,0,
+wei-dao-jia,宫保鸡丁,,辣味,1,
+wei-dao-jia,回锅肉,,辣味,1,
+wei-dao-jia,孜然羊肉,,辣味,0,
+wei-dao-jia,鱼香肉丝,,辣味,1,
+wei-dao-jia,川味辣子鸡,,辣味,1,
+wei-dao-jia,毛氏红烧肉,,,0,
+wei-dao-jia,牛筋牛腩煲,,,0,
+wei-dao-jia,鱼香茄子,,辣味,1,
+wei-dao-jia,干煸四季豆,,辣味,0,
+wei-dao-jia,麻婆豆腐,,辣味,1,
+wei-dao-jia,金陵蛋饺煲,,,0,
+wei-dao-jia,辣炒花蛤,,辣味,0,
+wei-dao-jia,红焖砂锅羊肉,,,0,
+wei-dao-jia,干锅鸡,,辣味,0,
+wei-dao-jia,韭菜炒河虾,,,0,
+wei-dao-jia,干锅肥肠,,辣味,0,
+wei-dao-jia,铁板蒜蓉大虾,,,0,
+wei-dao-jia,凤爪肥肠煲,,辣味,0,
+wei-dao-jia,水煮牛肉,,辣味,1,
+wei-dao-jia,铁板玉子豆腐,,,0,
+wei-dao-jia,爆炒肥肠,,辣味,0,
+wei-dao-jia,铁板鱿鱼须,,,0,
+wei-dao-jia,清蒸鲈鱼,,,0,
+wei-dao-jia,梅菜扣肉,,,0,
+wei-dao-jia,糯米排骨,,,0,
+wei-dao-jia,咸鹅冻豆腐,,,0,
+wei-dao-jia,湘味小炒牛肉,,辣味,0,
+wei-dao-jia,酸汤肥牛,,辣味,0,
+wei-dao-jia,毛血旺,,辣味,1,
+wei-dao-jia,肥肠鱼,,辣味,0,
+wei-dao-jia,酸菜活鱼,,辣味,0,
+wei-dao-jia,香辣猪手,,辣味,0,
+wei-dao-jia,三鲜锅巴,,,0,
+wei-dao-jia,泡椒牛蛙,,辣味,0,
+wei-dao-jia,蒜蓉粉丝虾,,,0,
+wei-dao-jia,鲜椒兔,,辣味,0,
+wei-dao-jia,锅包肉,,,0,
+wei-dao-jia,糯米糍,,,0,
+wei-dao-jia,荔枝,,,0,
+wei-dao-jia,红糖糍粑,,,0,
+wei-dao-jia,松鼠鱼,,,0,
+wei-dao-jia,重庆烧鸡公,,辣味,0,
+wei-dao-jia,老鸭汤,,,0,
+wei-dao-jia,扬州狮子头,,,0,
+wei-dao-jia,东山老鹅,,,0,
+wei-dao-jia,鸭血粉丝汤,,,0,前菜
+wei-dao-jia,青菜豆腐汤,,,0,前菜
+wei-dao-jia,番茄蛋汤,,,0,前菜
+wei-dao-jia,猪肉馄饨汤,,,0,前菜
+wei-dao-jia,小春卷,,,0,前菜
+wei-dao-jia,香菜花生米,,,0,前菜
+wei-dao-jia,香拌牛肉,,辣味,0,前菜
+wei-dao-jia,盐水毛豆,,,0,前菜
+wei-dao-jia,拍黄瓜,,,0,前菜
+wei-dao-jia,凉拌海带丝,,,0,前菜
+wei-dao-jia,小笼包,,,0,前菜
+wei-dao-jia,酸辣土豆丝,,辣味,0,
+wei-dao-jia,什锦鸡,,,0,
+wei-dao-jia,甜酸炸鸡,,,0,
+wei-dao-jia,将军双炸鸡,,,0,
+wei-dao-jia,将军双炸牛,,,0,
+wei-dao-jia,黑椒牛,,,0,
+wei-dao-jia,宫保腰果牛,,辣味,0,
+wei-dao-jia,炒面/炒饭（炸鸡）,,,0,
+wei-dao-jia,炒面/炒饭（炸鸭）,,,0,
+wei-dao-jia,炒面/炒饭（鸡肉）,,,0,
+wei-dao-jia,炒面/炒饭（牛肉）,,,0,
+wei-dao-jia,炒面/炒饭（大虾）,,,0,
+wei-dao-jia,干炒牛河粉,,,0,
+wei-dao-jia,什锦炸鸭,,,0,
+wei-dao-jia,什锦大虾,,,0,
+wei-dao-jia,甜酸大虾,,,0,
+wei-dao-jia,杏鲍菇牛肉,,,0,
+wei-dao-jia,西兰花牛肉,,,0,
+wei-dao-jia,红糖冰粉,,,0,
+wen-cheng-burgsdorfer,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-burgsdorfer,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-burgsdorfer,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-burgsdorfer,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-burgsdorfer,文成牛肉面,,,1,
+wen-cheng-burgsdorfer,文成豆腐香菇面,,,1,
+wen-cheng-burgsdorfer,文成茄子面,,,1,
+wen-cheng-burgsdorfer,文成橙汁鸡面,,,1,
+wen-cheng-burgsdorfer,川味炸鸡刈包,,辣味,0,
+wen-cheng-burgsdorfer,川味炸豆腐刈包,,辣味,0,
+wen-cheng-burgsdorfer,橙汁鸡块,,,0,
+wen-cheng-burgsdorfer,鸡肉香菇白菜饺子,,,0,
+wen-cheng-charlottenburg,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-charlottenburg,孜然羊肉𰻝𰻝面,,辣味,1,
+wen-cheng-charlottenburg,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-charlottenburg,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-charlottenburg,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-charlottenburg,文成牛肉面,,,1,
+wen-cheng-charlottenburg,文成孜然羊肉面,,,1,
+wen-cheng-charlottenburg,文成豆腐香菇面,,,1,
+wen-cheng-charlottenburg,文成茄子面,,,1,
+wen-cheng-charlottenburg,文成橙汁鸡面,,,1,
+wen-cheng-charlottenburg,川味炸鸡刈包,,辣味,0,
+wen-cheng-charlottenburg,川味炸豆腐刈包,,辣味,0,
+wen-cheng-charlottenburg,猪肉韭菜饺子,,,0,
+wen-cheng-charlottenburg,橙汁鸡块,,,0,
+wen-cheng-fhain,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-fhain,孜然羊肉𰻝𰻝面,,辣味,1,
+wen-cheng-fhain,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-fhain,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-fhain,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-fhain,文成牛肉面,,,1,
+wen-cheng-fhain,文成孜然羊肉面,,,1,
+wen-cheng-fhain,文成豆腐香菇面,,,1,
+wen-cheng-fhain,文成茄子面,,,1,
+wen-cheng-fhain,文成橙汁鸡面,,,1,
+wen-cheng-fhain,川味炸鸡刈包,,辣味,0,
+wen-cheng-fhain,川味炸豆腐刈包,,辣味,0,
+wen-cheng-fhain,猪肉韭菜饺子,,,0,
+wen-cheng-fhain,橙汁鸡块,,,0,
+wen-cheng-pberg-1,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-1,孜然羊肉𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-1,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-1,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-1,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-1,文成牛肉面,,,1,
+wen-cheng-pberg-1,文成孜然羊肉面,,,1,
+wen-cheng-pberg-1,文成豆腐香菇面,,,1,
+wen-cheng-pberg-1,文成茄子面,,,1,
+wen-cheng-pberg-1,文成橙汁鸡面,,,1,
+wen-cheng-pberg-1,川味炸鸡刈包,,辣味,0,
+wen-cheng-pberg-1,川味炸豆腐刈包,,辣味,0,
+wen-cheng-pberg-1,猪肉韭菜饺子,,,0,
+wen-cheng-pberg-1,橙汁鸡块,,,0,
+wen-cheng-pberg-2,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-2,孜然羊肉𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-2,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-2,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-2,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-pberg-2,文成牛肉面,,,1,
+wen-cheng-pberg-2,文成孜然羊肉面,,,1,
+wen-cheng-pberg-2,文成豆腐香菇面,,,1,
+wen-cheng-pberg-2,文成茄子面,,,1,
+wen-cheng-pberg-2,文成橙汁鸡面,,,1,
+wen-cheng-pberg-2,川味炸鸡刈包,,辣味,0,
+wen-cheng-pberg-2,川味炸豆腐刈包,,辣味,0,
+wen-cheng-pberg-2,猪肉韭菜饺子,,,0,
+wen-cheng-pberg-2,橙汁鸡块,,,0,
+wen-cheng-selchower,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-selchower,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-selchower,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-selchower,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-selchower,文成牛肉面,,,1,
+wen-cheng-selchower,文成豆腐香菇面,,,1,
+wen-cheng-selchower,文成茄子面,,,1,
+wen-cheng-selchower,文成橙汁鸡面,,,1,
+wen-cheng-selchower,川味炸鸡刈包,,辣味,0,
+wen-cheng-selchower,川味炸豆腐刈包,,辣味,0,
+wen-cheng-selchower,橙汁鸡块,,,0,
+wen-cheng-selchower,鸡肉香菇白菜饺子,,,0,
+wen-cheng-xberg,牛肉𰻝𰻝面,,辣味,1,
+wen-cheng-xberg,孜然羊肉𰻝𰻝面,,辣味,1,
+wen-cheng-xberg,豆腐香菇𰻝𰻝面,,辣味,1,
+wen-cheng-xberg,茄子𰻝𰻝面,,辣味,1,
+wen-cheng-xberg,橙汁鸡𰻝𰻝面,,辣味,1,
+wen-cheng-xberg,文成牛肉面,,,1,
+wen-cheng-xberg,文成孜然羊肉面,,,1,
+wen-cheng-xberg,文成豆腐香菇面,,,1,
+wen-cheng-xberg,文成茄子面,,,1,
+wen-cheng-xberg,文成橙汁鸡面,,,1,
+wen-cheng-xberg,川味炸鸡刈包,,辣味,0,
+wen-cheng-xberg,川味炸豆腐刈包,,辣味,0,
+wen-cheng-xberg,猪肉韭菜饺子,,,0,
+wen-cheng-xberg,橙汁鸡块,,,0,
+wen-s-k-che,卤鸡胗,,,0,前餐 Vorspeisen
+wen-s-k-che,蒜香猪耳,,,0,前餐 Vorspeisen
+wen-s-k-che,红油抄手,,辣味,0,前餐 Vorspeisen
+wen-s-k-che,甜酸鸡球,,,0,主菜 Hauptgerichte
+wen-s-k-che,甜酸炸鸭,,,0,主菜 Hauptgerichte
+wen-s-k-che,素菜炸鸭,,,0,主菜 Hauptgerichte
+wen-s-k-che,宫保鸡丁,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,辣子鸡,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,孜然牛肉,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,水煮牛肉,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,农家小炒,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,糖醋排骨,,,0,主菜 Hauptgerichte
+wen-s-k-che,东坡肉,,,0,主菜 Hauptgerichte
+wen-s-k-che,清蒸鱼,,,0,主菜 Hauptgerichte
+wen-s-k-che,蒜香排骨,,,0,主菜 Hauptgerichte
+wen-s-k-che,红烧猪蹄,,,0,主菜 Hauptgerichte
+wen-s-k-che,青椒香干炒肉丝,,,0,主菜 Hauptgerichte
+wen-s-k-che,洋葱牛肉,,,0,主菜 Hauptgerichte
+wen-s-k-che,酥炸鸭丁,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,蒜苗炒牛肉,,,0,主菜 Hauptgerichte
+wen-s-k-che,干煸牛肉四季豆,,,0,主菜 Hauptgerichte
+wen-s-k-che,香酥炸鸭,,,0,主菜 Hauptgerichte
+wen-s-k-che,四川鸡丁,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,野山椒炒牛柳,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,梅花肉,,,0,主菜 Hauptgerichte
+wen-s-k-che,老上海排骨,,,1,主菜 Hauptgerichte
+wen-s-k-che,香辣鸡腿肉,,辣味,0,主菜 Hauptgerichte
+wen-s-k-che,茄汁大虾,,,0,主菜 Hauptgerichte
+wen-s-k-che,麻婆豆腐,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,锅贴,,,0,点心 Dim Sum
+wen-s-k-che,生煎包,,,0,点心 Dim Sum
+wen-s-k-che,糯米烧卖,,,0,点心 Dim Sum
+wen-s-k-che,小笼包,,,1,点心 Dim Sum
+wen-s-k-che,虾饺,,,0,点心 Dim Sum
+wen-s-k-che,麻糍,,,0,甜点 Dessert
+wen-s-k-che,豆沙包,,,0,甜点 Dessert
+wen-s-k-che,奶黄包,,,0,甜点 Dessert
+wen-s-k-che,水煮鱼片,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,宫保虾仁,,辣味,1,主菜 Hauptgerichte
+wen-s-k-che,椒盐大虾,,,0,主菜 Hauptgerichte
+wen-s-k-che,秘制豆腐,,,0,素菜 Vegetarisch
+wen-s-k-che,干煸豆角,,,0,素菜 Vegetarisch
+wen-s-k-che,辣子香干,,辣味,1,素菜 Vegetarisch
+wen-s-k-che,鱼香茄子,,辣味,1,素菜 Vegetarisch
+wiling,香辣烤鱼,,辣味,0,本店招牌
+wiling,牛杂锅,,辣味,0,新菜推荐
+wiling,羊杂锅,,辣味,0,新菜推荐
+wiling,特色水煮牛肉,,辣味,1,超级下饭
+wiling,香辣猪蹄锅,,辣味,0,老客必点
+wiling,地锅鸡,15.9 €,辣味,0,本店招牌
+wiling,重庆烧鸡公,23.9 €,辣味,0,新菜推荐
+wiling,手工凉皮,11.9 €,辣味,0,最受欢迎
+wiling,千刀肉,17.9 €,辣味,0,超级下饭
+wiling,跳水鲈鱼,25.9 €,辣味,0,老客必点
+wiling,干锅香辣鸭肉,,辣味,0,新菜推荐
+wiling,松鼠鲈鱼,,,0,最受欢迎
+wiling,鸭血肥肠煲,,辣味,0,超级下饭
+wiling,铁板鱿鱼年糕,,,0,老客必点
+wiling,京酱肉丝,,,0,老客必点
+wiling,夫妻肺片,,辣味,1,前菜
+wiling,川味口水鸡,,辣味,1,前菜
+wiling,红油猪耳,,辣味,0,前菜
+wiling,香辣牛肉,,辣味,0,前菜
+wiling,四喜烤麸,,,0,前菜
+wiling,干锅田鸡腿,,辣味,0,新菜推荐
+wiling,石锅黄焖鸡,,辣味,0,家常系列
+wiling,石锅肥肠,,辣味,0,家常系列
+wiling,石锅焖牛腩,,,0,新菜推荐
+wiling,毛血旺,,辣味,1,本店招牌
+wiling,酸汤肥牛,,辣味,0,家常系列
+wiling,水煮牛肚,,辣味,1,家常系列
+wiling,水煮肉片,,辣味,1,最受欢迎
+wiling,川味回锅肉,,辣味,1,最受欢迎
+wiling,椒盐鱿鱼,,,0,超级下饭
+wiling,铁板孜然牛肉,,辣味,0,家常系列
+wiling,铁板孜然羊肉,,辣味,0,家常系列
+wiling,杭椒牛柳,,辣味,0,本店招牌
+wiling,大盘鸡,,辣味,0,新菜推荐
+wiling,蚂蚁上树,,辣味,0,家常系列
+wiling,干煸四季豆,,辣味,0,家常系列
+wiling,麻婆豆腐,,辣味,1,最受欢迎
+wiling,外婆红烧肉,,,0,新菜推荐
+wiling,糖醋排骨,,,0,超级下饭
+wiling,干锅肥肠,,辣味,0,超级下饭
+wiling,清蒸鲈鱼,,,0,家常系列
+wiling,椒盐豆腐,,,0,素菜
+wiling,山药木耳,,,0,素菜
+wiling,蒜蓉空心菜,,,0,素菜
+wiling,鱼香茄子,,辣味,1,家常系列
+wiling,川味酸菜鲈鱼,,辣味,0,最受欢迎
+wiling,辣子鸡,,辣味,1,老客必点
+wiling,香辣孜然鸡翅,,辣味,0,家常系列
+wiling,傣味烤鱼,28.9 €,辣味,1,本店特色
+wiling,贵州小炒木姜鸡,18.9 €,辣味,0,新菜推荐
+wiling,酸汤鱼,27.9 €,辣味,0,最受欢迎
+wiling,狼牙土豆,13.9 €,辣味,0,超级下饭
+wiling,薄荷排骨,18 €,,0,老客必点
+wiling,贵州干锅牛肉,20.9 €,辣味,1,本店招牌
+wiling,傣味炸猪皮,18.9 €,辣味,0,新菜推荐
+wiling,贵州辣炒鸡爪,18.9 €,辣味,0,最受欢迎
+wiling,红三剁,18.9 €,辣味,0,超级下饭
+wiling,酸汤猪脚,18.9 €,辣味,0,老客必点
+wok-show,烤麸,,,0,前菜
+wok-show,口水鸡,,辣味,1,前菜
+wok-show,猪耳朵,,,1,前菜
+wok-show,三鲜饺子,,,1,饺子
+wok-show,鱿鱼海鲜饺子,,,1,饺子
+wok-show,素三鲜饺子,,,0,饺子
+wok-show,牛肉芹菜饺子,,,0,饺子
+wok-show,羊肉白菜饺子,,,0,饺子
+wok-show,羊肉西葫芦饺子,,,0,饺子
+wok-show,猪肉白菜饺子,,,0,饺子
+wok-show,猪肉芹菜饺子,,,0,饺子
+wok-show,猪肉豆角饺子,,,0,饺子
+wok-show,猪肉菠菜饺子,,,0,饺子
+wok-show,猪肉韭菜饺子,,,0,饺子
+wok-show,宫保鸡丁,,辣味,1,荤菜
+wok-show,麻婆豆腐,,辣味,1,荤菜
+wok-show,鸡肉烧茄子,,,0,荤菜
+wok-show,炸鸭,,,1,荤菜
+wok-show,宫保豆腐,,辣味,1,素菜
+wok-show,素烧茄子,,,0,素菜
+wok-show,虾皮炒尖白菜,,,0,素菜
+wunderbau,肉夹馍,,,1,
+wunderbau,清蒸鲈鱼,,,0,鱼虾 / Meeresfrüchte
+wunderbau,圆白菜猪肉馅饼,,,0,
+wunderbau,梅菜扣肉,,,0,Schwein / 猪
+wunderbau,咸水鸭,,,0,
+wunderbau,回锅肉,,辣味,1,Schwein / 猪
+wunderbau,干烧鱼,,辣味,0,
+wunderbau,豆豉蒸排骨,,,0,
+wunderbau,大煮干丝,,,0,
+wunderbau,地三鲜,,,0,
+wunderbau,凉拌茄子,,,0,前菜
+wunderbau,素饺子,,,0,前菜
+wunderbau,宫保豆腐,,辣味,1,
+wunderbau,干煸豆角,,,0,
+wunderbau,炸馄饨,,,0,前菜
+wunderbau,北京烤鸭,,,0,鸡鸭 / Huhn & Ente
+wunderbau,宫保鸡丁,,辣味,1,鸡鸭 / Huhn & Ente
+wunderbau,甜酸大虾,,,0,
+wunderbau,红油水饺,,辣味,0,前菜
+wunderbau,老醋蜇头,,,0,前菜
+wunderbau,孜然羊肉,,辣味,0,Lamm / 羊
+wunderbau,宫保大虾,,辣味,1,Meeresfrüchte / 鱼虾
+wunderbau,红烧肉,,,0,Schwein / 猪
+wunderbau,酥炸鸡,,,0,鸡鸭 / Huhn & Ente
+wunderbau,咖喱鸡丁,,辣味,0,鸡鸭 / Huhn & Ente
+wunderbau,菠萝鸡,,,0,鸡鸭 / Huhn & Ente
+wunderbau,辣子鸡,,辣味,1,鸡鸭 / Huhn & Ente
+wunderbau,盐酥鸡,,,0,鸡鸭 / Huhn & Ente
+wunderbau,蒜辣香酥鸭,,辣味,0,鸡鸭 / Huhn & Ente
+wunderbau,香酥鸭,,,0,鸡鸭 / Huhn & Ente
+wunderbau,牛筋煲,,,0,Rind / 牛
+wunderbau,蚝油牛肉,,,0,Rind / 牛
+wunderbau,黑椒牛柳,,,0,Rind / 牛
+wunderbau,干锅牛肉,,辣味,0,Rind / 牛
+wunderbau,红薯牛肉,,,0,Rind / 牛
+wunderbau,水煮牛肉,,辣味,1,Rind / 牛
+wunderbau,葱爆羊肉,,,0,Lamm / 羊
+wunderbau,红焖羊排,,,0,Lamm / 羊
+wunderbau,糖醋里脊,,,0,Schwein / 猪
+wunderbau,糖醋排骨,,,0,Schwein / 猪
+wunderbau,椒盐排骨,,,0,Schwein / 猪
+wunderbau,鱼香肉丝,,辣味,1,Schwein / 猪
+wunderbau,溜肥肠,,,0,Schwein / 猪
+wunderbau,水煮肥肠,,辣味,1,Schwein / 猪
+wunderbau,香辣大虾,,辣味,0,Meeresfrüchte / 鱼虾
+wunderbau,椒盐大虾,,,0,Meeresfrüchte / 鱼虾
+wunderbau,香辣墨鱼仔,,辣味,0,Meeresfrüchte / 鱼虾
+wunderbau,水煮鱼,,辣味,1,Meeresfrüchte / 鱼虾
+wunderbau,剁椒鱼,,辣味,0,Meeresfrüchte / 鱼虾
+xi-mian-hand-pulled-noodles-mitte,𰻝𰻝面,,辣味,1,
+xi-mian-hand-pulled-noodles-mitte,牛肉𰻝𰻝面,"14,50 €",辣味,1,
+xi-mian-hand-pulled-noodles-mitte,豆腐𰻝𰻝面,"13,50 €",辣味,1,
+xi-mian-hand-pulled-noodles-mitte,鸡肉𰻝𰻝面,,辣味,1,
+xi-mian-hand-pulled-noodles-mitte,鸭肉𰻝𰻝面,,辣味,1,
+xi-mian-hand-pulled-noodles-mitte,兰州牛肉面,"14,50 €",,1,
+xi-mian-hand-pulled-noodles-mitte,兰州红烧牛肉面,"14,50 €",,1,
+xi-mian-hand-pulled-noodles-mitte,兰州牛肉拌面,€14.50,,1,
+xi-mian-hand-pulled-noodles-mitte,兰州素面,€13.50,,1,
+xi-mian-hand-pulled-noodles-mitte,兰州豆腐面,,,1,
+xi-mian-hand-pulled-noodles-mitte,饺子,,,1,前菜
+xi-mian-hand-pulled-noodles-pberg,牛肉Biang Biang面,,,1,
+xi-mian-hand-pulled-noodles-pberg,脆皮鸡Biang Biang面,,,1,
+xi-mian-hand-pulled-noodles-pberg,豆腐Biang Biang面,,,1,
+xi-mian-hand-pulled-noodles-pberg,脆皮鸭Biang Biang面,,,1,
+xi-mian-hand-pulled-noodles-pberg,兰州牛肉面,,,1,
+xi-mian-hand-pulled-noodles-pberg,兰州红烧牛肉面,,,1,
+xi-mian-hand-pulled-noodles-pberg,馄饨汤面,,,0,
+xi-mian-hand-pulled-noodles-pberg,蔬菜汤面,,,0,
+xi-mian-hand-pulled-noodles-pberg,羊肉汤面,,,1,
+xi-mian-hand-pulled-noodles-pberg,牛肉担担面,,,1,
+xi-mian-hand-pulled-noodles-pberg,鸡肉担担面,,,0,
+xi-mian-hand-pulled-noodles-pberg,豆腐担担面,,,0,
+xi-mian-hand-pulled-noodles-pberg,鸭肉担担面,,,0,
+xi-mian-hand-pulled-noodles-pberg,凉拌土豆丝,,,0,前菜
+xi-mian-hand-pulled-noodles-pberg,凉拌茄子,,,0,前菜
+xi-mian-hand-pulled-noodles-pberg,抄手,,,1,
+xi-mian-hand-pulled-noodles-pberg,蔬菜饺子,,,0,
+xi-mian-hand-pulled-noodles-pberg,鸡肉饺子,,,0,
+xi-mian-hand-pulled-noodles-pberg,牛肉包子,,,1,
+xi-mian-hand-pulled-noodles-pberg,鸡肉包子,,,0,
+xi-mian-hand-pulled-noodles-pberg,花生芝麻包,,,0,
+xi-mian-hand-pulled-noodles-pberg,蔬菜包子,,,0,
+xi-mian-hand-pulled-noodles-pberg,混合包子,,,0,
+xin-hui-city,麻糍,,,0,
+xin-hui-city,红豆糕,,,0,
+xin-hui-city,芋头糕,,,0,
+xin-hui-city,猪肉肠粉,,,1,
+xin-hui-city,叉烧包,,,1,
+xin-hui-city,糯米鸡,,,1,
+xin-hui-city,炸豆腐馄饨,,,1,
+xin-hui-city,豉汁排骨饭,,,0,
+xin-hui-city,清蒸豉油王鱼配饭,,,0,
+xin-hui-city,豉汁凤爪饭,,,1,
+xin-hui-city,麻婆豆腐,,辣味,0,
+xin-hui-city,咖喱豆腐蔬菜饭,,辣味,0,
+xin-hui-city,叉烧蔬菜饭,,,1,
+xin-hui-city,干炒牛河,,,0,
+xin-hui-city,烧肉饭,,,0,
+xin-hui-city,猪肉蔬菜饺子,,,1,
+xin-hui-city,猪肉蔬菜馄饨汤面,,,1,
+xin-hui-city,广式火腩腊肉叉烧豆腐煲,,,1,
+xin-hui-city,豉汁排骨煲仔饭,,,0,煲仔饭
+xin-hui-city,腊肠腊肉煲仔饭,,,0,煲仔饭
+xin-hui-city,豉汁凤爪煲仔饭,,,1,煲仔饭
+xin-hui-city,新会城烤鸭,,,0,煲仔饭
+xin-hui-city,烧鸡腿,,,0,煲仔饭
+yan-huo-bbq-hotpot,菌菇汤,,,1,火锅汤底 Hot Pot Soup Base
+yan-huo-bbq-hotpot,番茄牛尾汤,,,1,火锅汤底 Hot Pot Soup Base
+yan-huo-bbq-hotpot,云南酸汤,,辣味,1,火锅汤底 Hot Pot Soup Base
+yan-huo-bbq-hotpot,炸虾,,,1,特色菜品 House Specialties
+yan-huo-bbq-hotpot,小酥肉,,,1,特色菜品 House Specialties
+yan-huo-bbq-hotpot,酥炸小黄鱼,,,1,特色菜品 House Specialties
+yan-huo-bbq-hotpot,刺身海螯虾与三文鱼,,,1,特色菜品 House Specialties
+yan-huo-bbq-hotpot,蒜蓉黑椒烤牛骨髓,,,1,特色菜品 House Specialties
+yan-huo-bbq-hotpot,精选澳洲F1和牛上脑肉卷,,,1,牛肉 Beef
+yan-huo-bbq-hotpot,澳洲F1和牛牛小排,,,1,牛肉 Beef
+yan-huo-bbq-hotpot,澳洲纯血和牛臀腰嫩肉盖,,,1,牛肉 Beef
+yan-huo-bbq-hotpot,杜洛克黑猪五花肉,,,1,猪肉 Pork
+yan-huo-bbq-hotpot,秘制去骨鸡腿肉,,,1,禽类 Poultry
+yan-huo-bbq-hotpot,白虎虾,,,1,海鲜 Seafood
+yan-huo-bbq-hotpot,扇贝,,,1,海鲜 Seafood
+yan-huo-bbq-hotpot,小管,,,1,海鲜 Seafood
+yan-huo-bbq-hotpot,三文鱼,,,1,海鲜 Seafood
+yan-huo-bbq-hotpot,煎饺,,,1,主食 Staple Food
+yangguofu-mitte,麻辣烫,,,1,
+yangguofu-mitte,番茄锅,,,0,
+yangguofu-mitte,温和香辣锅,,辣味,0,
+yangguofu-mitte,经典骨汤,,,0,
+yangguofu-steglitz,麻辣烫,,,1,
+yangguofu-steglitz,经典骨汤,,,0,
+yangguofu-steglitz,酸甜番茄汤,,,0,
+yangguofu-steglitz,冬阴功汤底,,辣味,0,
+yangguofu-steglitz,醇香麻辣拌,,辣味,0,
+yi23-china-taste,担担面,€10.90,辣,1,Nudeln 面条
+yi23-china-taste,牛肉Biang Biang面,,,1,Nudeln 面条
+yi23-china-taste,油泼宽面,,辣,1,Nudeln 面条
+yi23-china-taste,红烧牛肉面,€14.90,,1,Nudeln 面条
+yi23-china-taste,红油饺子,,辣,1,Dumplings/Wontons 饺子/馄饨
+yi23-china-taste,酸汤饺子,,,0,Dumplings/Wontons 饺子/馄饨
+yi23-china-taste,红油馄饨,,辣,1,Dumplings/Wontons 饺子/馄饨
+yi23-china-taste,馄饨汤,,,0,Dumplings/Wontons 饺子/馄饨
+yi23-china-taste,湖南小炒肉,,辣,1,Regionale Spezialitäten 地方特色菜
+yi23-china-taste,麻婆豆腐,,辣,1,Regionale Spezialitäten 地方特色菜
+yi23-china-taste,鱼香茄子,,辣,0,Regionale Spezialitäten 地方特色菜
+yi23-china-taste,东坡肉,,,0,Regionale Spezialitäten 地方特色菜
+yi23-china-taste,素菜包子,,,0,Baozi 包子
+yi23-china-taste,黑金牛肉包,,辣,0,Baozi 包子
+yi23-china-taste,红糖糍粑,,,0,Dessert 甜点
+yijia,虾饺,,,1,菜单
+yijia,小笼包,,,1,菜单
+yijia,烧麦,,,1,菜单
+yijia,生煎包,,,1,最新推荐
+yijia,煎饺,,,0,菜单
+yijia,猪肉豆角饺,,,0,饺子
+yijia,鸡肉冬菇包菜饺,,,0,饺子
+yijia,牛肉芹菜饺,,,0,饺子
+yijia,三鲜饺,,,0,饺子
+yijia,素饺,,,0,饺子
+yijia,夫妻肺片,,辣味,1,菜单
+yijia,口水鸡,,辣味,1,菜单
+yijia,牛肉肉夹馍,,,0,前菜
+yijia,南京咸水鸭,,,0,前菜
+yijia,炸鸭汤面,,,1,汤面
+yijia,肥肠汤面,,,1,汤面
+yijia,牛肉饭,,,0,
+yijia,宫保鸡丁饭,,辣味,1,饭类
+yijia,杂菜炸鸭饭,,,0,饭类
+yijia,甜酸炸鸭饭,,,0,饭类
+yijia,椒盐小酥肉,,,0,饭类
+yijia,黑椒三文鱼,,,0,饭类
+yijia,青椒肥肠饭,,辣味,0,饭类
+yijia,京味烧茄子,,,0,饭类
+yila-nudel,油泼面,€12.90,辣味,1,手工拉面 Handgemachte Yila Nudeln
+yila-nudel,五香豆腐面,€13.90,,1,手工拉面 Handgemachte Yila Nudeln
+yila-nudel,炸酱面,€14.90,,1,手工拉面 Handgemachte Yila Nudeln
+yila-nudel,麻辣棒棒鸡面,€15.90,辣味,1,手工拉面 Handgemachte Yila Nudeln
+yila-nudel,沙茶牛肉面,€15.90,,1,手工拉面 Handgemachte Yila Nudeln
+yila-nudel,担担面,€13.90,,1,
+yila-nudel,罗汉素汤面,,,1,汤面
+yila-nudel,麻辣牛肉面,€16.90,辣味,1,汤面
+yila-nudel,五香鸡肉卤面,€16.90,,1,汤面
+yila-nudel,桂林米粉,,,1,桂林米粉 Guilin rice noodles
+yila-nudel,广西老友粉,,,1,广西老友粉 old friends rice noodles
+yila-nudel,红油水饺,,辣味,0,
+yila-nudel,红油素饺,,辣味,0,
+yila-nudel,饺子,,,0,
+yila-nudel,素饺,,,0,
+yila-nudel,素煎饺,,,0,
+yila-nudel,煎饺,,,0,
+yila-nudel,烧卖,,,0,
+yila-nudel,虾饺,,,0,
+yila-nudel,小笼包,,,0,
+yila-nudel,卤鸡腿,,,0,
+yila-nudel,夫妻肺片,,辣味,1,
+you-mi-chuan-shao,牛肉拌米线,,,1,
+you-mi-chuan-shao,烤五花,,,1,
+you-mi-chuan-shao,虾仁馄饨汤,,,1,
+you-mi-chuan-shao,猪肉白菜水饺汤,,,1,
+you-mi-chuan-shao,鸡排饭,,,1,
+you-mi-chuan-shao,皮蛋瘦肉粥,,,1,
+you-mi-schoeneberg,锅贴,,,1,
+you-mi-schoeneberg,小笼包,,,1,
+you-mi-schoeneberg,烧麦,,,1,
+you-mi-schoeneberg,虾饺,,,1,
+you-mi-schoeneberg,担担面,,辣味,1,
+you-mi-schoeneberg,肥肠面,,辣味,0,
+you-mi-schoeneberg,酸辣粉,,辣味,0,
+you-mi-schoeneberg,腊肉炒年糕,,,0,
+you-mi-schoeneberg,野山椒牛肉,,,1,
+you-mi-schoeneberg,剁椒鱼,,辣味,1,
+you-mi-schoeneberg,宫保鸡丁,,辣味,1,
+you-mi-schoeneberg,鱼香肉丝,,辣味,0,
+you-mi-schoeneberg,蚂蚁上树,,,0,
+you-mi-schoeneberg,红烧肉,,,1,
+you-mi-schoeneberg,干锅肥肠,,辣味,0,
+you-mi-schoeneberg,香辣鱿鱼须,,,0,
+you-mi-schoeneberg,麻婆豆腐,,辣味,1,
+you-mi-schoeneberg,肉沫茄子煲,,,0,
+you-mi-schoeneberg,咸蛋黄芋头,,,0,
+you-mi-schoeneberg,馄饨汤,,,0,
+you-mi-schoeneberg,福州手工鱼丸汤,,,0,
+you-mi-schoeneberg,川北凉粉,,,0,
+you-mi-schoeneberg,口水鸡,,,0,
+you-mi-schoeneberg,夫妻肺片,,辣味,0,
+you-mi-schoeneberg,蔬菜饺子,,,0,
+you-mi-schoeneberg,牛肉饺子,,,0,
+you-mi-schoeneberg,三鲜饺子,,,0,
+you-mi-schoeneberg,辣子鸡丁,,辣味,0,
+you-mi-schoeneberg,水煮牛肉,,,0,
+you-mi-schoeneberg,麻辣香锅,,,0,
+yumcha-heroes,牛肉饺子汤,,辣味,1,
+yumcha-heroes,羊肉饺子汤,,,1,
+yumcha-heroes,上海猪肉饺,,,1,
+yumcha-heroes,烧卖,,,1,
+yumcha-heroes,猪肉包,,,1,
+yumcha-heroes,素包,,,1,
+yumcha-heroes,包子,,,1,
+yumcha-heroes,鸭肉饺子,,,1,
+yumcha-heroes,蜜汁排骨,,,1,
+yumcha-heroes,馄饨,,辣味,1,
+yumcha-heroes,糖包,,,0,
+yumcha-heroes,牛肉饺子,,辣味,1,
+yumcha-heroes,羊肉饺子,,,1,
+yumcha-heroes,鸡肉饺子,,辣味,1,
+yumcha-heroes,虾仁饺子,,辣味,1,
+yumcha-heroes,素菜饺子,,,1,
+yummy-dumpling,苤蓝沙拉,,,0,前菜
+yummy-dumpling,虾饺,,,0,前菜
+yummy-dumpling,烧卖,,,0,前菜
+yummy-dumpling,猪肉饺子,,,1,
+yummy-dumpling,牛肉饺子,,,1,
+yummy-dumpling,猪肉虾仁饺子,,,1,
+yummy-dumpling,白菜饺子,,,1,
+yummy-dumpling,鸡肉饺子,,,1,
+yummy-dumpling,西葫芦饺子,,,1,
+yummy-dumpling,红油抄手,,辣味,1,
+yummy-dumpling,红烧牛肉面,,,1,
+yummy-dumpling,麻辣牛肉面,,辣味,1,
+yummy-dumpling,卤肉面,,,1,
+yummy-dumpling,肉酱面,,,1,
+yummy-dumpling,炸鸭汤面,,,1,
+yummy-dumpling,卤肉饭,,,1,
+yummy-dumpling,黑芝麻糯米球,,,0,
+zhang-lala-beef-noodles,兰州传统牛肉面,,,1,
+zhang-lala-beef-noodles,酸菜牛肉面,,,1,
+zhang-lala-beef-noodles,红烧牛肉面,,,1,
+zhang-lala-beef-noodles,番茄牛肉面,,,1,
+zhang-lala-beef-noodles,牛肉臊子拌面,,,1,
+zhang-lala-beef-noodles,豆腐干拌面,,,1,
+zhang-lala-beef-noodles,牛肉油泼面,,,1,
+zhang-lala-beef-noodles,大片牛肉拌面,,,1,
+zhang-lala-beef-noodles,烤麸油泼面,,,1,
+zhang-lala-beef-noodles,烤麸拌面,,,1,
+zhang-lala-beef-noodles,牛肉夹馍,,,0,
+zhang-lala-beef-noodles,铜炉羊肉串(3串),,,0,
+zhang-lala-beef-noodles,牛肉串(3串),,,0,
+zhang-lala-beef-noodles,卤蛋,,,0,
+zhang-lala-beef-noodles,香辣腐竹,,,0,
+zhang-lala-beef-noodles,鲷鱼烧,,,0,
+zhang-lala-beef-noodles,糯米糕,,,0,
+zhangliang-mini-hotpot,冬阴功汤,,辣味,1,
+zhangliang-mini-hotpot,姬松茸菌汤,,,1,
+zhangliang-mini-hotpot,干汁麻辣拌,,辣味,1,
+zhangliang-mini-hotpot,麻辣香锅,,辣味,1,
+zhangliang-mini-hotpot,鸳鸯锅,,辣味,0,
+zhangliang-mini-hotpot,冬阴功火锅,,辣味,0,
+zhong-hua,馄饨汤,,,1,
+zhong-hua,炸云吞,,,1,
+zhong-hua,杂菜,,,0,
+zhong-hua,麻辣豆腐,,辣味,1,
+zhong-hua,蒜香鸡肉,,辣味,1,
+zhong-hua,宫保鸡丁,,辣味,1,
+zhong-hua,港式脆皮鸭,,,1,
+zhong-hua,四川鸭,,辣味,1,
+zhong-hua,寿喜烧牛肉,,,0,
+zhong-hua,咕噜肉,,,1,
+zhong-hua,宫保虾,,辣味,1,
+zhong-hua,泰式鸭,,,1,
+zhong-hua,泰式绿咖喱豆腐,,辣味,0,
+zhou-s-fine,北京汤,,辣味,0,
+zhou-s-fine,馄饨汤,,,0,
+zhou-s-fine,冬阴功鸡汤,,辣味,0,
+zhou-s-fine,北京鸭卷,,,1,前菜
+zhou-s-fine,春卷,,,0,前菜
+zhou-s-fine,炸馄饨,,,0,前菜
+zhou-s-fine,素春卷,,,0,前菜
+zhou-s-fine,北京烤鸭,,,1,
+zhou-s-fine,川味牛肉,,辣味,1,
+zhou-s-fine,牛肉杂碎,,,0,
+zhou-s-fine,豆豉牛肉,,,0,
+zhou-s-fine,宫保牛肉,,辣味,1,
+zhou-s-fine,寿喜烧牛肉锅,,,0,
+zhou-s-fine,洋葱牛肉,,,0,
+zhou-s-fine,川味鸡,,辣味,1,
+zhou-s-fine,红咖喱鸡,,辣味,1,
+zhou-s-fine,炸鸡腿配炒蔬菜,,,0,
+zhou-s-fine,荔枝菠萝鸡,,,0,
+zhou-s-fine,宫保鸡丁,,辣味,1,
+zhou-s-fine,鸡肉杂碎,,,0,
+zhou-s-fine,菌菇鸭,,,0,
+zhou-s-fine,菠萝荔枝鸭,,,0,
+zhou-s-fine,上海鸭,,,0,
+zhou-s-fine,广东鸭,,,0,
+zhou-s-fine,川味鸭,,辣味,1,
+zhou-s-fine,虾仁杂碎,,,1,
+zhou-s-fine,海鲜豆腐煲,,,1,
+zhou-s-fine,宫保虾仁,,辣味,1,
+zhou-s-fine,香辣带壳虾,,辣味,0,
+zhou-s-fine,农家鱼,,辣味,0,
+zhou-s-fine,广东鱼,,,0,
+zhou-s-fine,清蒸梭鲈鱼,,,0,
+zhou-s-fine,糖醋猪肉,,辣味,1,
+zhou-s-fine,鱼香猪肉,,,1,
+zhou-s-fine,麻婆豆腐,,辣味,1,
+zhou-s-fine,宫保猪肉,,辣味,1,
+zhou-s-fine,豆豉猪肉,,,0,
+zhou-s-fine,罗汉斋,,,0,
+zhou-s-fine,三菇青江菜,,,0,
+zhou-s-fine,宫保豆腐,,辣味,0,
+zhou-s-fine,印尼炒饭,,辣味,1,
+zhou-s-five,中式自助餐,,,1,
+zhou-s-five,云吞汤,,,0,前菜
+zhou-s-five,春卷,,,0,前菜
+zhou-s-five,锅贴,,,1,前菜
+zhou-s-five,炸云吞,,,0,前菜
+zhou-s-five,香辣鸡片,,,1,
+zhou-s-five,四川鸡片,,,1,
+zhou-s-five,荔枝甜酸鸡,,,0,
+zhou-s-five,上海鸡,,,0,
+zhou-s-five,豆豉鸡,,,0,
+zhou-s-five,辣子鸡块,,,1,
+zhou-s-five,菠萝甜酸鸡,,,0,
+zhou-s-five,三菇鸭,,,0,
+zhou-s-five,果园甜酸鸭,,,1,
+zhou-s-five,三鲜鸭,,,0,
+zhou-s-five,上海鸭,,,0,
+zhou-s-five,四川鸭,,,1,
+zhou-s-five,芦笋蘑菇鸭,,,0,
+zhou-s-five,芦笋鸭,,,0,
+zhou-s-five,豆芽广式鸭,,,0,
+zhou-s-five,豆豉牛肉,,,1,
+zhou-s-five,上海青牛肉,,,0,
+zhou-s-five,时蔬炸梭鲈鱼柳,,,0,
+zhou-s-five,粤式三菇三文鱼,,,0,
+zhou-s-five,甜辣红鱼柳,,,0,
+zhou-s-five,芦笋冬菇炒虾,,,1,
+zhou-s-five,蒜香辣虾,,,1,
+zhou-s-five,糖醋炸梭鲈鱼柳,,,0,
+zhou-s-five,冬菇上海青,,,0,素菜
+zhou-s-five,佛家豆腐,,,0,素菜
+zhou-s-five,竹笋羊肚菌,,,0,素菜
+zhou-s-five,麻婆豆腐,,,1,素菜
